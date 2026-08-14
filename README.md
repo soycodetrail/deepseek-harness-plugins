@@ -4,7 +4,7 @@
 >
 > 🌐 **主站入口**：https://soycodetrail.top/dsh-plugins  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（每 6 小时更新一次）。最近同步：2026-08-14 00:11:13
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 00:24:09
 
 ## 📑 内容导航（268 个条目 / 8 个分类）
 
