@@ -4,7 +4,12 @@
 >
 > 🌐 **主站入口**：https://soycodetrail.top/dsh-plugins  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 00:33:38
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-14 00:47:08
+
+## 📚 系列展示站（更多精选内容）
+
+- [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
+- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
 ## 📑 内容导航（268 个条目 / 8 个分类）
 
@@ -18,6 +23,8 @@
 - [🎮 趣味与社区](#趣味与社区)
 
 ---
+
+<a id="核心引擎" name="核心引擎"></a>
 
 ### 🧭 核心引擎
 
@@ -77,6 +84,8 @@
   标签：目录 / 网站
 - [GitHub topic: dsh-plugin](https://github.com/topics/dsh-plugin) — 给插件仓库打 dsh-plugin topic 即可被发现；官方企微群 + GitHub Issue 社区入口。  
   标签：发现 / 社区
+
+<a id="界面与体验" name="界面与体验"></a>
 
 ### 🎨 界面与体验
 
@@ -223,6 +232,8 @@
 - [dsh-theme-manager](https://github.com/vlln/dsh-theme-manager) — 一键切换 DSH Web UI 主题，内置多套配色并支持自定义导入。  
   标签：主题 / 皮肤
 
+<a id="agent-与自动化" name="agent-与自动化"></a>
+
 ### 🤖 Agent 与自动化
 
 - [Deep Research](https://github.com/omdsh-dev/dsh-deep-research) — 自适应深度研究编排器，自动拆解、检索、核查并产出报告。  
@@ -296,6 +307,8 @@
 - [dsh-cost-guard](https://github.com/vlln/dsh-cost-guard) — 实时 Token 与成本看板，超预算自动熔断，用量心中有数。  
   标签：成本 / 预算
 
+<a id="记忆与知识" name="记忆与知识"></a>
+
 ### 🧠 记忆与知识
 
 - [Mnemon](https://github.com/omdsh-dev/dsh-mnemon) — 本地三层记忆体（情景/语义/程序），跨会话长期记忆的完整实现。  
@@ -330,6 +343,8 @@
   标签：学习 / 间隔重复
 - [dsh-citation](https://github.com/vlln/dsh-citation) — 自动为生成内容附加来源引用，标注出处、可回溯校验。  
   标签：引用 / 溯源
+
+<a id="工具与连接" name="工具与连接"></a>
 
 ### 🛠️ 工具与连接
 
@@ -450,6 +465,8 @@
 - [dsh-jira](https://github.com/vlln/dsh-jira) — Jira 工单集成，Agent 读取/创建/更新 Issue，研发流程自动化。  
   标签：Jira / 工单
 
+<a id="多模态与视觉" name="多模态与视觉"></a>
+
 ### 👁️ 多模态与视觉
 
 - [Vision Toolkit](https://github.com/Anionex/dsh-vision-toolkit) — 让纯文本模型获得视觉：视图工具桥接任意 OpenAI 兼容 VLM。  
@@ -478,6 +495,8 @@
   标签：截图 / 视觉
 - [dsh-barcode](https://github.com/vlln/dsh-barcode) — 二维码/条形码识别与生成，扫码场景接入 Agent。  
   标签：二维码 / 识别
+
+<a id="安全与运维" name="安全与运维"></a>
 
 ### 🛡️ 安全与运维
 
@@ -519,6 +538,8 @@
   标签：备份 / 恢复
 - [dsh-firewall](https://github.com/vlln/dsh-firewall) — 网络访问白名单/黑名单，限制 Agent 出站请求目标域。  
   标签：防火墙 / 白名单
+
+<a id="趣味与社区" name="趣味与社区"></a>
 
 ### 🎮 趣味与社区
 
