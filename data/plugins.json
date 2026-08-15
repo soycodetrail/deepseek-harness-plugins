@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:01:39.133Z",
+  "updatedAt": "2026-08-15T23:45:24.868Z",
   "items": [
     {
       "name": "deepseek-harness",
@@ -3594,6 +3594,1756 @@
       "icon": "🥚",
       "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
       "tool": "宠物",
+      "hot": 0
+    },
+    {
+      "name": "dsh-handbook",
+      "desc": "从 0 到 1 的 DSH 深度手册，含插件开发指南与架构讲解，社区口碑入门读物。",
+      "url": "https://github.com/Electricitysheep/dsh-handbook",
+      "category": "core",
+      "tags": [
+        "文档",
+        "手册"
+      ],
+      "icon": "📖",
+      "bg": "linear-gradient(135deg, #1a1a2e 0%, #16213e 100%)",
+      "tool": "文档",
+      "hot": 55
+    },
+    {
+      "name": "awesome-deepseek-harness 排行榜",
+      "desc": "带每日排行榜的 DSH 生态精选，看看别人都在装什么、怎么用。",
+      "url": "https://github.com/fendouai/awesome-deepseek-harness",
+      "category": "core",
+      "tags": [
+        "榜单",
+        "精选"
+      ],
+      "icon": "🏆",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "榜单",
+      "hot": 55
+    },
+    {
+      "name": "awesome-dsh",
+      "desc": "DSH 插件与工具精选索引，社区维护、持续更新。",
+      "url": "https://github.com/stakeswky/awesome-dsh",
+      "category": "core",
+      "tags": [
+        "索引",
+        "精选"
+      ],
+      "icon": "📚",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "索引",
+      "hot": 55
+    },
+    {
+      "name": "Aegis",
+      "desc": "面向编码 Agent 的软件工程方法包：基线优先规划、系统化调试、完成前验证与修复/退役双轨跟踪。",
+      "url": "https://github.com/GanyuanRan/Aegis",
+      "category": "core",
+      "tags": [
+        "技能包",
+        "方法论"
+      ],
+      "icon": "⚔️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "技能包",
+      "hot": 55
+    },
+    {
+      "name": "dsh-catppuccin",
+      "desc": "Catppuccin 柔色主题，给 DSH 换上低饱和奶油色界面。",
+      "url": "https://github.com/zhijun-dai/Catppuccin-dsh-theme",
+      "category": "ui",
+      "tags": [
+        "主题",
+        "配色"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "皮肤",
+      "hot": 10
+    },
+    {
+      "name": "solarized-dsh-theme",
+      "desc": "Solarized 经典配色主题，护眼舒适，长时编码不累眼。",
+      "url": "https://github.com/zhijun-dai/Solarized-dsh-theme",
+      "category": "ui",
+      "tags": [
+        "主题",
+        "配色"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "皮肤",
+      "hot": 10
+    },
+    {
+      "name": "dsh-skin",
+      "desc": "Codex 风格皮肤切换器 + 自定义壁纸层，可调透明度与模糊。",
+      "url": "https://github.com/KinGao294/dsh-skin",
+      "category": "ui",
+      "tags": [
+        "皮肤",
+        "壁纸"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "皮肤",
+      "hot": 10
+    },
+    {
+      "name": "dsh-web-attention-badge",
+      "desc": "会话需要你时三处同时亮起：角标、标签页标题计数、按状态换色的鲸鱼 favicon。",
+      "url": "https://github.com/Luaphes/dsh-web-attention-badge",
+      "category": "ui",
+      "tags": [
+        "提醒",
+        "角标"
+      ],
+      "icon": "🔔",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-builtin-toggles",
+      "desc": "官方内置插件目录、搜索与状态说明，附安全 UI 插件开关。",
+      "url": "https://github.com/Starfie1d1272/dsh-builtin-toggles",
+      "category": "ui",
+      "tags": [
+        "开关",
+        "目录"
+      ],
+      "icon": "🎛️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-sticky-disclosure",
+      "desc": "一键收起会话中所有展开区块（Think、工具卡），常驻计数按钮 + 快捷键。",
+      "url": "https://github.com/Han-1413141/dsh-sticky-disclosure",
+      "category": "ui",
+      "tags": [
+        "收起",
+        "折叠"
+      ],
+      "icon": "📂",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-sticky-note",
+      "desc": "编辑框工具栏便签，随手记点子与 TODO，自动保存为 Markdown。",
+      "url": "https://github.com/Meredith2328/dsh-sticky-note",
+      "category": "ui",
+      "tags": [
+        "便签",
+        "TODO"
+      ],
+      "icon": "📝",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-balance-meter",
+      "desc": "输入框 dock 显示 DeepSeek 账户余额与会话花费，自动拉取官方定价。",
+      "url": "https://github.com/Ghost011118/dsh-balance-meter",
+      "category": "ui",
+      "tags": [
+        "余额",
+        "计价"
+      ],
+      "icon": "💰",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "用量",
+      "hot": 10
+    },
+    {
+      "name": "dsh-cost-meter",
+      "desc": "会话与当日 API 费用统计、预算图框、历史看板，支持峰谷计价。",
+      "url": "https://github.com/Han-1413141/dsh-cost-meter",
+      "category": "ui",
+      "tags": [
+        "费用",
+        "预算"
+      ],
+      "icon": "💸",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "用量",
+      "hot": 10
+    },
+    {
+      "name": "dsh-spend",
+      "desc": "右下角悬浮用量与费用统计窗，按模型/按天/按会话多维聚合。",
+      "url": "https://github.com/nonewind/dsh-spend",
+      "category": "ui",
+      "tags": [
+        "统计",
+        "费用"
+      ],
+      "icon": "📊",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "用量",
+      "hot": 10
+    },
+    {
+      "name": "dsh-deepseek-quota",
+      "desc": "DeepSeek API 配额与用量展示插件，额度消耗一目了然。",
+      "url": "https://github.com/yingjunnan/dsh-deepseek-quota",
+      "category": "ui",
+      "tags": [
+        "配额",
+        "用量"
+      ],
+      "icon": "📈",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "用量",
+      "hot": 10
+    },
+    {
+      "name": "dsh-hud",
+      "desc": "会话 HUD 抬头显示：Token、成本、耗时等关键指标一屏尽览。",
+      "url": "https://github.com/a903067276-rgb/dsh-hud",
+      "category": "ui",
+      "tags": [
+        "HUD",
+        "指标"
+      ],
+      "icon": "🖥️",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-view-modes",
+      "desc": "DSH 多视图模式切换：极简/代码/完整布局随心换。",
+      "url": "https://github.com/NigelYao/dsh-view-modes",
+      "category": "ui",
+      "tags": [
+        "视图",
+        "布局"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-milestone",
+      "desc": "右侧圆点时间轴导航，点击跳转到任意用户消息。",
+      "url": "https://github.com/SnowCrescenter-tech/dsh-milestone",
+      "category": "ui",
+      "tags": [
+        "时间轴",
+        "导航"
+      ],
+      "icon": "📍",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-outline",
+      "desc": "会话大纲插件：自动生成对话结构目录，快速定位关键节点。",
+      "url": "https://github.com/urzeye/dsh-outline",
+      "category": "ui",
+      "tags": [
+        "大纲",
+        "目录"
+      ],
+      "icon": "🧭",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-smooth-stream",
+      "desc": "让模型流式输出更平滑，减少抖动卡顿，阅读体验更顺。",
+      "url": "https://github.com/SpookySandwich/dsh-smooth-stream",
+      "category": "ui",
+      "tags": [
+        "流式",
+        "优化"
+      ],
+      "icon": "🌊",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-web-mobile-fix",
+      "desc": "Web UI 移动端布局修复：窄屏设置全屏化、导航单行、弹层居中。",
+      "url": "https://github.com/AcidGr/dsh-web-mobile-fix",
+      "category": "ui",
+      "tags": [
+        "移动端",
+        "修复"
+      ],
+      "icon": "📱",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "移动",
+      "hot": 10
+    },
+    {
+      "name": "dsh-auto-continue",
+      "desc": "自动恢复中断请求：失败分类、自适应退避重试、可配置续写消息与通知。",
+      "url": "https://github.com/HsiangNianian/dsh-auto-continue",
+      "category": "agent",
+      "tags": [
+        "重试",
+        "自愈"
+      ],
+      "icon": "♻️",
+      "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
+      "tool": "容错",
+      "hot": 10
+    },
+    {
+      "name": "dsh-continual-evolve",
+      "desc": "持续自进化：从会话轨迹沉淀版本化、可审计、可回滚的 harness 状态。",
+      "url": "https://github.com/ZK-Andy/dsh-continual-evolve",
+      "category": "agent",
+      "tags": [
+        "自进化",
+        "审计"
+      ],
+      "icon": "🧬",
+      "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
+      "tool": "自进化",
+      "hot": 10
+    },
+    {
+      "name": "dsh-plans",
+      "desc": "声明式计划插件：把复杂目标拆成可追踪步骤并持续更新。",
+      "url": "https://github.com/Optim-Agent/dsh-plans",
+      "category": "agent",
+      "tags": [
+        "规划",
+        "拆解"
+      ],
+      "icon": "🗺️",
+      "bg": "linear-gradient(135deg, #4b6cb7 0%, #182848 100%)",
+      "tool": "规划",
+      "hot": 10
+    },
+    {
+      "name": "dsh-agent-team-gui",
+      "desc": "多 Agent 团队的 GUI 面板：可视化团队分工与任务流转。",
+      "url": "https://github.com/toolclub/dsh-agent-team-gui",
+      "category": "agent",
+      "tags": [
+        "多智能体",
+        "可视化"
+      ],
+      "icon": "👥",
+      "bg": "linear-gradient(135deg, #0ba360 0%, #3cba92 100%)",
+      "tool": "协作",
+      "hot": 10
+    },
+    {
+      "name": "dsh-collaboration",
+      "desc": "多会话协作插件：让多个 Agent 会话协同完成同一任务。",
+      "url": "https://github.com/Socialist-Sister/dsh-collaboration",
+      "category": "agent",
+      "tags": [
+        "协作",
+        "多会话"
+      ],
+      "icon": "🤝",
+      "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
+      "tool": "协作",
+      "hot": 10
+    },
+    {
+      "name": "dsh-review-loop",
+      "desc": "评审闭环：代码产出后自动触发审查与修复循环，质量有保障。",
+      "url": "https://github.com/wuxiangru915/dsh-review-loop",
+      "category": "agent",
+      "tags": [
+        "评审",
+        "闭环"
+      ],
+      "icon": "🔁",
+      "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
+      "tool": "评审",
+      "hot": 10
+    },
+    {
+      "name": "dsh-checkpoint-rewind",
+      "desc": "检查点回退：把会话恢复到任意历史快照，试错零成本。",
+      "url": "https://github.com/PerryLink/dsh-checkpoint-rewind",
+      "category": "agent",
+      "tags": [
+        "回退",
+        "快照"
+      ],
+      "icon": "⏮️",
+      "bg": "linear-gradient(135deg, #4b6cb7 0%, #182848 100%)",
+      "tool": "回退",
+      "hot": 10
+    },
+    {
+      "name": "dsh-doublecheck",
+      "desc": "双重检查：关键操作前二次确认，减少 Agent 误操作。",
+      "url": "https://github.com/PerryLink/dsh-doublecheck",
+      "category": "agent",
+      "tags": [
+        "确认",
+        "防护"
+      ],
+      "icon": "✅",
+      "bg": "linear-gradient(135deg, #0ba360 0%, #3cba92 100%)",
+      "tool": "评审",
+      "hot": 10
+    },
+    {
+      "name": "dsh-yolo-mode",
+      "desc": "YOLO 模式：自动批准所有工具调用，跑长任务不打断。",
+      "url": "https://github.com/SeverusZh/dsh-yolo-mode",
+      "category": "agent",
+      "tags": [
+        "自动审批",
+        "效率"
+      ],
+      "icon": "🚀",
+      "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
+      "tool": "审批",
+      "hot": 10
+    },
+    {
+      "name": "dsh-smart-route",
+      "desc": "智能路由：按任务类型自动选择最优模型与 provider。",
+      "url": "https://github.com/Semidia/dsh-smart-route",
+      "category": "agent",
+      "tags": [
+        "路由",
+        "模型"
+      ],
+      "icon": "🧭",
+      "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
+      "tool": "路由",
+      "hot": 10
+    },
+    {
+      "name": "dsh-mneme",
+      "desc": "跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，后台自动巩固去重。",
+      "url": "https://github.com/modusensus/dsh-mneme",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "SQLite"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 35
+    },
+    {
+      "name": "dsh-memory-vault",
+      "desc": "跨会话记忆库：remember/recall/forget 工具，每轮提示注入。",
+      "url": "https://github.com/flymysql/dsh-memory",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "召回"
+      ],
+      "icon": "🏦",
+      "bg": "linear-gradient(135deg, #1d976c 0%, #93f9b9 100%)",
+      "tool": "记忆",
+      "hot": 10
+    },
+    {
+      "name": "dsh-memoria",
+      "desc": "Memoria 记忆插件：让 Agent 记住项目约定与关键决策。",
+      "url": "https://github.com/jiayan-xu/dsh-memoria",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "项目"
+      ],
+      "icon": "💾",
+      "bg": "linear-gradient(135deg, #ff512f 0%, #dd2476 100%)",
+      "tool": "记忆",
+      "hot": 10
+    },
+    {
+      "name": "dsh-memory-gate",
+      "desc": "记忆门：控制哪些信息进入长期记忆，敏感内容自动过滤。",
+      "url": "https://github.com/GIT121995/dsh-memory-gate",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "过滤"
+      ],
+      "icon": "🚪",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 10
+    },
+    {
+      "name": "dsh-deepread",
+      "desc": "深度阅读插件：长文档分段精读，逐章提炼要点。",
+      "url": "https://github.com/xiehuan123/dsh-deepread",
+      "category": "knowledge",
+      "tags": [
+        "阅读",
+        "提炼"
+      ],
+      "icon": "📖",
+      "bg": "linear-gradient(135deg, #1d976c 0%, #93f9b9 100%)",
+      "tool": "阅读",
+      "hot": 10
+    },
+    {
+      "name": "dsh-learn-everything",
+      "desc": "学习一切：把任意资料转化为结构化学习路径。",
+      "url": "https://github.com/cendaifeng/dsh-learn-everything",
+      "category": "knowledge",
+      "tags": [
+        "学习",
+        "路径"
+      ],
+      "icon": "🎓",
+      "bg": "linear-gradient(135deg, #ff512f 0%, #dd2476 100%)",
+      "tool": "学习",
+      "hot": 10
+    },
+    {
+      "name": "Code2Skill",
+      "desc": "代码转技能：把代码库自动提炼为可复用的 Agent Skill。",
+      "url": "https://github.com/leechen298/Code2Skill",
+      "category": "knowledge",
+      "tags": [
+        "技能",
+        "提炼"
+      ],
+      "icon": "🛠️",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "技能",
+      "hot": 10
+    },
+    {
+      "name": "dsh-file-mount",
+      "desc": "文件挂载插件：把外部目录/文件挂载进工作区。",
+      "url": "https://github.com/acefun29/dsh-file-mount",
+      "category": "knowledge",
+      "tags": [
+        "挂载",
+        "文件"
+      ],
+      "icon": "📌",
+      "bg": "linear-gradient(135deg, #1d976c 0%, #93f9b9 100%)",
+      "tool": "文件",
+      "hot": 10
+    },
+    {
+      "name": "dsh-bookmarks",
+      "desc": "书签插件：收藏常用文件、路径与命令，一键召回。",
+      "url": "https://github.com/penguin-oo/dsh-bookmarks",
+      "category": "knowledge",
+      "tags": [
+        "书签",
+        "收藏"
+      ],
+      "icon": "🔖",
+      "bg": "linear-gradient(135deg, #ff512f 0%, #dd2476 100%)",
+      "tool": "收藏",
+      "hot": 10
+    },
+    {
+      "name": "dsh-report-studio",
+      "desc": "报告工作室：把会话产出编排成结构化报告文档。",
+      "url": "https://github.com/ciceroyang/dsh-report-studio",
+      "category": "knowledge",
+      "tags": [
+        "报告",
+        "交付"
+      ],
+      "icon": "📄",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "交付",
+      "hot": 10
+    },
+    {
+      "name": "dsh-office",
+      "desc": "读写 docx/pdf/pptx 办公文档，让 Agent 处理 Office 三件套。",
+      "url": "https://github.com/Fayelin12/dsh-office",
+      "category": "tool",
+      "tags": [
+        "Office",
+        "文档"
+      ],
+      "icon": "📎",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "文档",
+      "hot": 35
+    },
+    {
+      "name": "dsh-chat-import",
+      "desc": "把 Claude Code/Codex/ChatGPT/Cursor/Gemini 聊天记录保真导入为可续聊会话。",
+      "url": "https://github.com/Nwflower/dsh-chat-import",
+      "category": "tool",
+      "tags": [
+        "迁移",
+        "导入"
+      ],
+      "icon": "📥",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "迁移",
+      "hot": 55
+    },
+    {
+      "name": "dsh-movein",
+      "desc": "把整个 Claude Code 设置迁移到 DSH：Session、Memory、Skills 全带走。",
+      "url": "https://github.com/sjh9714/dsh-movein",
+      "category": "tool",
+      "tags": [
+        "迁移",
+        "Claude Code"
+      ],
+      "icon": "🚚",
+      "bg": "linear-gradient(135deg, #3a7bd5 0%, #3a6073 100%)",
+      "tool": "迁移",
+      "hot": 10
+    },
+    {
+      "name": "dsh-file-uploads",
+      "desc": "从输入框上传任意本地文件，以待发送卡片展示。",
+      "url": "https://github.com/l541402398/dsh-file-uploads",
+      "category": "tool",
+      "tags": [
+        "上传",
+        "文件"
+      ],
+      "icon": "⬆️",
+      "bg": "linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%)",
+      "tool": "上传",
+      "hot": 10
+    },
+    {
+      "name": "dsh-bash-rtk",
+      "desc": "Bash 运行时工具包：命令执行、输出捕获与重试。",
+      "url": "https://github.com/DeepTrial/dsh-bash-rtk",
+      "category": "tool",
+      "tags": [
+        "Bash",
+        "执行"
+      ],
+      "icon": "💻",
+      "bg": "linear-gradient(135deg, #ffb347 0%, #ffcc33 100%)",
+      "tool": "执行",
+      "hot": 10
+    },
+    {
+      "name": "dsh-tool-github",
+      "desc": "GitHub 工具：让 Agent 在对话里查仓库、读 Issue、管 PR。",
+      "url": "https://github.com/NEAZ71eve/dsh-tool-github",
+      "category": "tool",
+      "tags": [
+        "GitHub",
+        "工具"
+      ],
+      "icon": "🐙",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "GitHub",
+      "hot": 10
+    },
+    {
+      "name": "dsh-mcp-panel",
+      "desc": "MCP 面板：可视化配置与监控 MCP 服务器连接。",
+      "url": "https://github.com/PerryLink/dsh-mcp-panel",
+      "category": "tool",
+      "tags": [
+        "MCP",
+        "面板"
+      ],
+      "icon": "🎛️",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "MCP",
+      "hot": 10
+    },
+    {
+      "name": "dsh-web-search-pro",
+      "desc": "专业网络搜索：多引擎聚合、结果去重与结构化摘要。",
+      "url": "https://github.com/anweat/dsh-web-search-pro",
+      "category": "tool",
+      "tags": [
+        "搜索",
+        "聚合"
+      ],
+      "icon": "🔎",
+      "bg": "linear-gradient(135deg, #3a7bd5 0%, #3a6073 100%)",
+      "tool": "搜索",
+      "hot": 10
+    },
+    {
+      "name": "dsh-web-search-exa",
+      "desc": "Exa 语义搜索接入：按语义找网页，而非关键词。",
+      "url": "https://github.com/TonyDua/dsh-web-search-exa",
+      "category": "tool",
+      "tags": [
+        "搜索",
+        "语义"
+      ],
+      "icon": "🔍",
+      "bg": "linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%)",
+      "tool": "搜索",
+      "hot": 10
+    },
+    {
+      "name": "dsh-tavily",
+      "desc": "Tavily 搜索 API 接入，为 Agent 提供实时检索能力。",
+      "url": "https://github.com/moguiyu/dsh-tavily",
+      "category": "tool",
+      "tags": [
+        "搜索",
+        "API"
+      ],
+      "icon": "🕵️",
+      "bg": "linear-gradient(135deg, #ffb347 0%, #ffcc33 100%)",
+      "tool": "搜索",
+      "hot": 10
+    },
+    {
+      "name": "dsh-mcp-manager",
+      "desc": "MCP 服务器管理：集中配置、启停与监控 MCP 连接。",
+      "url": "https://github.com/hyqhyq3/dsh-mcp-manager",
+      "category": "tool",
+      "tags": [
+        "MCP",
+        "管理"
+      ],
+      "icon": "🔌",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "MCP",
+      "hot": 10
+    },
+    {
+      "name": "dsh-mcp-lens",
+      "desc": "MCP 透镜：可视化查看 MCP 工具调用与数据流。",
+      "url": "https://github.com/labmimors/dsh-mcp-lens",
+      "category": "tool",
+      "tags": [
+        "MCP",
+        "可视化"
+      ],
+      "icon": "🔬",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "MCP",
+      "hot": 10
+    },
+    {
+      "name": "dsh-harness-mcp-server",
+      "desc": "把 DSH 暴露为 MCP 服务器，供其他 Agent 调用。",
+      "url": "https://github.com/chushixixin/dsh-harness-mcp-server",
+      "category": "tool",
+      "tags": [
+        "MCP",
+        "服务器"
+      ],
+      "icon": "🖧",
+      "bg": "linear-gradient(135deg, #3a7bd5 0%, #3a6073 100%)",
+      "tool": "MCP",
+      "hot": 10
+    },
+    {
+      "name": "treg",
+      "desc": "给 Agent 的工具目录：按「要做的事」检索约 2600 个外部接口。",
+      "url": "https://github.com/superdesigndev/treg",
+      "category": "tool",
+      "tags": [
+        "目录",
+        "检索"
+      ],
+      "icon": "🧰",
+      "bg": "linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%)",
+      "tool": "目录",
+      "hot": 55
+    },
+    {
+      "name": "mirage",
+      "desc": "把文件系统与 bash 换成 mirage 虚拟工作区（RAM/S3/Redis/Slack/Gmail/Notion）。",
+      "url": "https://github.com/strukto-ai/mirage",
+      "category": "tool",
+      "tags": [
+        "虚拟工作区",
+        "沙箱"
+      ],
+      "icon": "🏜️",
+      "bg": "linear-gradient(135deg, #ffb347 0%, #ffcc33 100%)",
+      "tool": "沙箱",
+      "hot": 55
+    },
+    {
+      "name": "dsh-xiaohongshu-viral-note",
+      "desc": "小红书爆款笔记生成器，一句话产出爆款文案。",
+      "url": "https://github.com/xuboboo/dsh-xiaohongshu-viral-note",
+      "category": "tool",
+      "tags": [
+        "小红书",
+        "文案"
+      ],
+      "icon": "📕",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "内容",
+      "hot": 10
+    },
+    {
+      "name": "dsh-vision-router",
+      "desc": "视觉路由：让文本 Agent 自动获得图像识别、OCR 与像素工具。",
+      "url": "https://github.com/ysr666/dsh-vision-router",
+      "category": "vision",
+      "tags": [
+        "视觉",
+        "路由"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 55
+    },
+    {
+      "name": "dsh-plugin-vision",
+      "desc": "视觉插件：view_image 工具桥接任意 OpenAI 兼容 VLM。",
+      "url": "https://github.com/tdf1995/dsh-plugin-vision",
+      "category": "vision",
+      "tags": [
+        "VLM",
+        "视觉"
+      ],
+      "icon": "👀",
+      "bg": "linear-gradient(135deg, #ffafbd 0%, #ffc3a0 100%)",
+      "tool": "视觉",
+      "hot": 10
+    },
+    {
+      "name": "context-vista",
+      "desc": "上下文可视化：直接看 Token 都被谁吃了，精准瘦身。",
+      "url": "https://github.com/GooodWei/context-vista",
+      "category": "vision",
+      "tags": [
+        "上下文",
+        "Token"
+      ],
+      "icon": "🔭",
+      "bg": "linear-gradient(135deg, #1f4037 0%, #99f2c8 100%)",
+      "tool": "可视化",
+      "hot": 10
+    },
+    {
+      "name": "dsh-telemetry-redactor",
+      "desc": "遥测脱敏：在导出/上报前自动清洗敏感信息。",
+      "url": "https://github.com/030611/dsh-telemetry-redactor",
+      "category": "security",
+      "tags": [
+        "脱敏",
+        "隐私"
+      ],
+      "icon": "🧹",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 10
+    },
+    {
+      "name": "dsh-verification-receipt",
+      "desc": "验证回执：任务完成生成可审计的执行凭证。",
+      "url": "https://github.com/030611/dsh-verification-receipt",
+      "category": "security",
+      "tags": [
+        "审计",
+        "回执"
+      ],
+      "icon": "🧾",
+      "bg": "linear-gradient(135deg, #373b44 0%, #4286f4 100%)",
+      "tool": "审计",
+      "hot": 10
+    },
+    {
+      "name": "dsh-lark-bot",
+      "desc": "飞书（Lark）机器人：在飞书里 @Agent 干活，群聊单聊都支持。",
+      "url": "https://github.com/PlutoKeating/dsh-lark-bot",
+      "category": "tool",
+      "tags": [
+        "飞书",
+        "机器人"
+      ],
+      "icon": "🕊️",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "IM",
+      "hot": 35
+    },
+    {
+      "name": "DSH-WX-Msg-Tool",
+      "desc": "微信消息工具：让 DSH 收发微信消息，IM 里直接调 Agent。",
+      "url": "https://github.com/yauntyour/DSH-WX-Msg-Tool",
+      "category": "tool",
+      "tags": [
+        "微信",
+        "消息"
+      ],
+      "icon": "💬",
+      "bg": "linear-gradient(135deg, #3a7bd5 0%, #3a6073 100%)",
+      "tool": "IM",
+      "hot": 10
+    },
+    {
+      "name": "super-wechat-bridge",
+      "desc": "微信桥接：把微信个人号接进 DSH，收发消息与文件。",
+      "url": "https://github.com/Qshuai0213/super-wechat-bridge",
+      "category": "tool",
+      "tags": [
+        "微信",
+        "桥接"
+      ],
+      "icon": "🌉",
+      "bg": "linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%)",
+      "tool": "IM",
+      "hot": 10
+    },
+    {
+      "name": "dsh-qqbot",
+      "desc": "QQ 机器人（腾讯官方）：单聊/群聊独立会话，扫码绑定即可用。",
+      "url": "https://github.com/tencent-connect/dsh-qqbot",
+      "category": "tool",
+      "tags": [
+        "QQ",
+        "机器人"
+      ],
+      "icon": "🐧",
+      "bg": "linear-gradient(135deg, #ffb347 0%, #ffcc33 100%)",
+      "tool": "IM",
+      "hot": 35
+    },
+    {
+      "name": "dsh-clippy",
+      "desc": "Clippy 助手：把微软经典回形针请回你的 DSH 界面。",
+      "url": "https://github.com/sjh9714/clippy-harness",
+      "category": "fun",
+      "tags": [
+        "整活",
+        "怀旧"
+      ],
+      "icon": "📎",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "整活",
+      "hot": 0
+    },
+    {
+      "name": "dsh-MusicPlayer",
+      "desc": "音乐播放器：边写代码边听歌，内置播放列表。",
+      "url": "https://github.com/xiekai886/dsh-MusicPlayer",
+      "category": "fun",
+      "tags": [
+        "音乐",
+        "娱乐"
+      ],
+      "icon": "🎵",
+      "bg": "linear-gradient(135deg, #ff9966 0%, #ff5e62 100%)",
+      "tool": "娱乐",
+      "hot": 0
+    },
+    {
+      "name": "dsh-digipet",
+      "desc": "数字宠物：在终端养一只会互动的电子宠物。",
+      "url": "https://github.com/swaylq/dsh-digipet",
+      "category": "fun",
+      "tags": [
+        "宠物",
+        "养成"
+      ],
+      "icon": "🐾",
+      "bg": "linear-gradient(135deg, #36d1dc 0%, #5b86e5 100%)",
+      "tool": "宠物",
+      "hot": 0
+    },
+    {
+      "name": "dsh-weather",
+      "desc": "天气插件：随手查当地天气与预报。",
+      "url": "https://github.com/sunshine-lang/dsh-weather",
+      "category": "fun",
+      "tags": [
+        "天气",
+        "生活"
+      ],
+      "icon": "🌤️",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "生活",
+      "hot": 0
+    },
+    {
+      "name": "dsh-recommend",
+      "desc": "插件透明排行与推荐：每日抓取 dsh-plugin 生态，公开评分排序。",
+      "url": "https://github.com/zp-home/dsh-recommend",
+      "category": "fun",
+      "tags": [
+        "推荐",
+        "排行"
+      ],
+      "icon": "⭐",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "发现",
+      "hot": 10
+    },
+    {
+      "name": "oh-dsh",
+      "desc": "一套 DSH runtime，同时提供 Desktop、Web 与 TUI 三种开发体验。",
+      "url": "https://github.com/hust-open-atom-club/oh-dsh",
+      "category": "core",
+      "tags": [
+        "运行时",
+        "三端"
+      ],
+      "icon": "🧭",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "运行时",
+      "hot": 55
+    },
+    {
+      "name": "dsh-market",
+      "desc": "持续收录 1500+ DSH 插件：中文搜索 + 五维评分 + 一键安装，Web 与侧边栏双形态。",
+      "url": "https://github.com/2BingLing/dsh-market",
+      "category": "core",
+      "tags": [
+        "市场",
+        "评分"
+      ],
+      "icon": "🛒",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "市场",
+      "hot": 55
+    },
+    {
+      "name": "dsh-plugins-store",
+      "desc": "自动分类、收录与验证 DeepSeek Harness 社区插件市场。",
+      "url": "https://github.com/ZASENJC/dsh-plugins-store",
+      "category": "core",
+      "tags": [
+        "市场",
+        "自动收录"
+      ],
+      "icon": "🏪",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "市场",
+      "hot": 55
+    },
+    {
+      "name": "dsh-forge",
+      "desc": "DSH 扩展套件：运行时注入器、子代理派发与模型路由、插件市场/技能/管理面板、浏览器桥与 MCP 集成。",
+      "url": "https://github.com/alex04130/dsh-forge",
+      "category": "core",
+      "tags": [
+        "扩展",
+        "注入器"
+      ],
+      "icon": "🔨",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "扩展套件",
+      "hot": 10
+    },
+    {
+      "name": "Agent_Extensions",
+      "desc": "通用智能体技能（General_skills）+ DSH 标准插件集合，开箱即用的 Agent 能力增强。",
+      "url": "https://github.com/DDDFXYqiming/Agent_Extensions",
+      "category": "core",
+      "tags": [
+        "技能",
+        "扩展"
+      ],
+      "icon": "🧩",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "扩展库",
+      "hot": 10
+    },
+    {
+      "name": "dsh-TUI",
+      "desc": "Claude Code 风格全屏终端插件：像素鲸鱼顶栏、实时状态行、流式思考、上下文进度条 + TPS 仪表。",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "category": "ui",
+      "tags": [
+        "TUI",
+        "终端"
+      ],
+      "icon": "💻",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "TUI",
+      "hot": 55
+    },
+    {
+      "name": "dsh-oc",
+      "desc": "把 DSH 的 Agent、会话、工具接入官方 OpenCode 终端前端。",
+      "url": "https://github.com/chiro2001/dsh-oc",
+      "category": "ui",
+      "tags": [
+        "TUI",
+        "OpenCode"
+      ],
+      "icon": "🖥️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "TUI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-skill-viewer",
+      "desc": "Web 界面 skill 管理：一键启停、删除与新增，workspace 分组。",
+      "url": "https://github.com/Fishquito7/dsh-skill-viewer",
+      "category": "ui",
+      "tags": [
+        "技能",
+        "管理"
+      ],
+      "icon": "🗂️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dshcode",
+      "desc": "社区桌面伴侣：一键安装的 Electron 应用，支持 macOS 与 Windows。",
+      "url": "https://github.com/whitelonng/dshcode",
+      "category": "ui",
+      "tags": [
+        "桌面",
+        "Electron"
+      ],
+      "icon": "🖥️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "桌面",
+      "hot": 10
+    },
+    {
+      "name": "dsh-history-tree",
+      "desc": "Codex 风格对话回合时间线树，左侧边栏展示历史概览。",
+      "url": "https://github.com/z953218350/dsh-history-tree",
+      "category": "ui",
+      "tags": [
+        "时间线",
+        "历史"
+      ],
+      "icon": "🌳",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-archive-manager",
+      "desc": "会话归档管理：在设置页列出并删除已归档会话。",
+      "url": "https://github.com/z953218350/dsh-archive-manager",
+      "category": "ui",
+      "tags": [
+        "归档",
+        "会话"
+      ],
+      "icon": "🗄️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-session-delete",
+      "desc": "给原生会话菜单增加二次确认永久删除，防误删。",
+      "url": "https://github.com/WSL043/dsh-session-delete",
+      "category": "ui",
+      "tags": [
+        "删除",
+        "确认"
+      ],
+      "icon": "🗑️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-notifier",
+      "desc": "任务结束 / 需要决策时弹窗提醒（web toast + 桌面通知），类似 Codex / Claude Code 体验。",
+      "url": "https://github.com/nanami-0713/dsh-notifier",
+      "category": "ui",
+      "tags": [
+        "通知",
+        "提醒"
+      ],
+      "icon": "🔔",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-skill-fuzzy",
+      "desc": "/ 技能菜单模糊搜索 + 描述预览，快速定位想要的 skill。",
+      "url": "https://github.com/Kevoyuan/dsh-skill-fuzzy",
+      "category": "ui",
+      "tags": [
+        "搜索",
+        "技能"
+      ],
+      "icon": "🔍",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-plugin-vscode-sidebar",
+      "desc": "提供 vscode 风格与功能的侧栏。",
+      "url": "https://github.com/gameswu/dsh-plugin-vscode-sidebar",
+      "category": "ui",
+      "tags": [
+        "侧栏",
+        "VS Code"
+      ],
+      "icon": "📁",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-settings-search-plugin",
+      "desc": "设置面板搜索框：独立候选列表，点击跳转到所属分组并聚焦该设置项。",
+      "url": "https://github.com/DoiiarX/dsh-settings-search-plugin",
+      "category": "ui",
+      "tags": [
+        "设置",
+        "搜索"
+      ],
+      "icon": "⚙️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-usage-balance",
+      "desc": "侧边栏用量/余额插件，余额与消耗一目了然。",
+      "url": "https://github.com/zdjmrq/dsh-usage-balance",
+      "category": "ui",
+      "tags": [
+        "用量",
+        "余额"
+      ],
+      "icon": "💰",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "dsh-theme-switch",
+      "desc": "轻量主题外观切换：自动检测已装皮肤，一键互斥切换，停用回退官方外观。",
+      "url": "https://github.com/kinmat-A/dsh-theme-switch",
+      "category": "ui",
+      "tags": [
+        "主题",
+        "切换"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "皮肤",
+      "hot": 10
+    },
+    {
+      "name": "dsh-zh-hant-hk",
+      "desc": "香港繁体中文用词插件（對話、設定、儲存）。",
+      "url": "https://github.com/Argonaut790/dsh-zh-hant-hk",
+      "category": "ui",
+      "tags": [
+        "繁体",
+        "本地化"
+      ],
+      "icon": "🇭🇰",
+      "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
+      "tool": "皮肤",
+      "hot": 10
+    },
+    {
+      "name": "ATRI-Theme-DSH",
+      "desc": "亚托莉（ATRI）主题的 DeepSeek Harness 界面装饰。",
+      "url": "https://github.com/DKthreeFR/ATRI-Theme-DSH",
+      "category": "ui",
+      "tags": [
+        "主题",
+        "装饰"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "皮肤",
+      "hot": 10
+    },
+    {
+      "name": "dsh-island",
+      "desc": "把 DSH agent 实时状态（会话/工具/审批）桥接到 CodeIsland 刘海面板。",
+      "url": "https://github.com/cdxiaodong/dsh-island",
+      "category": "ui",
+      "tags": [
+        "刘海",
+        "状态"
+      ],
+      "icon": "🏝️",
+      "bg": "linear-gradient(135deg, #ff6a00 0%, #ee0979 100%)",
+      "tool": "移动",
+      "hot": 10
+    },
+    {
+      "name": "dsh-remote-public",
+      "desc": "基于 DSH 的手机远程控制客户端（公开脱敏镜像）。",
+      "url": "https://github.com/nanami-0713/dsh-remote-public",
+      "category": "ui",
+      "tags": [
+        "移动端",
+        "远程"
+      ],
+      "icon": "📱",
+      "bg": "linear-gradient(135deg, #ff6a00 0%, #ee0979 100%)",
+      "tool": "移动",
+      "hot": 10
+    },
+    {
+      "name": "dsh-sounds",
+      "desc": "任务完成/失败、回合结束、等待审批、agent 提问等声音提醒。",
+      "url": "https://github.com/DNNCOVO/dsh-sounds",
+      "category": "ui",
+      "tags": [
+        "音效",
+        "提醒"
+      ],
+      "icon": "🔊",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 10
+    },
+    {
+      "name": "deepseek-harness-android-app",
+      "desc": "安卓通用控制端：Termux 引导、一键部署、内置浏览器与存储管理。",
+      "url": "https://github.com/Jensen-Yao/deepseek-harness-android-app",
+      "category": "ui",
+      "tags": [
+        "安卓",
+        "控制端"
+      ],
+      "icon": "📱",
+      "bg": "linear-gradient(135deg, #ff6a00 0%, #ee0979 100%)",
+      "tool": "移动",
+      "hot": 10
+    },
+    {
+      "name": "dsh-prompt-enhancer",
+      "desc": "一键优化草稿、增强提示词。",
+      "url": "https://github.com/Fishsb/dsh-prompt-enhancer",
+      "category": "agent",
+      "tags": [
+        "提示词",
+        "优化"
+      ],
+      "icon": "✨",
+      "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
+      "tool": "提示词",
+      "hot": 10
+    },
+    {
+      "name": "dsh-tool-council",
+      "desc": "让多模型（不同 provider）回答同一问题，报告共识与分歧。",
+      "url": "https://github.com/vinoth4v/dsh-tool-council",
+      "category": "agent",
+      "tags": [
+        "多模型",
+        "共识"
+      ],
+      "icon": "🏛️",
+      "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
+      "tool": "多模型",
+      "hot": 10
+    },
+    {
+      "name": "octie-dsh-plugin",
+      "desc": "状态导向任务图内核 bundle：13 个 octie 工具 + Cordis 服务 + 实时 DAG 任务面板。",
+      "url": "https://github.com/StarChen-Cycler/octie-dsh-plugin",
+      "category": "agent",
+      "tags": [
+        "DAG",
+        "任务图"
+      ],
+      "icon": "🕸️",
+      "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
+      "tool": "任务图",
+      "hot": 10
+    },
+    {
+      "name": "sgme 拾光记忆",
+      "desc": "拾光记忆引擎：记得你们聊过的每一件事，还会主动关心你。",
+      "url": "https://github.com/freehul/sgme",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "引擎"
+      ],
+      "icon": "💡",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 10
+    },
+    {
+      "name": "deepddw",
+      "desc": "DeepSeek Harness 记忆与知识库，局域网内任意设备可达。",
+      "url": "https://github.com/ccch713/deepddw",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "知识库"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 10
+    },
+    {
+      "name": "dsh-statecore",
+      "desc": "原生记忆插件：带证据链的可审计事实，StateCore 驱动。",
+      "url": "https://github.com/yul761/dsh-statecore",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "证据链"
+      ],
+      "icon": "🔗",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 10
+    },
+    {
+      "name": "dsh-memory-ai",
+      "desc": "AI-memory 深度集成的 DSH 语义记忆插件。",
+      "url": "https://github.com/wang-jie-git/dsh-memory-ai",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "语义"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 10
+    },
+    {
+      "name": "dsh-md-notes",
+      "desc": "笔记插件：保存与编辑对话中想记录的内容。",
+      "url": "https://github.com/XieZongChen/dsh-md-notes",
+      "category": "knowledge",
+      "tags": [
+        "笔记",
+        "记录"
+      ],
+      "icon": "📝",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "笔记",
+      "hot": 10
+    },
+    {
+      "name": "dsh-free-search",
+      "desc": "免费联网搜索 provider：DuckDuckGo 后端，无需 API key。",
+      "url": "https://github.com/DDDMUC/dsh-free-search",
+      "category": "tool",
+      "tags": [
+        "搜索",
+        "免费"
+      ],
+      "icon": "🔎",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "搜索",
+      "hot": 10
+    },
+    {
+      "name": "dsh-tavily-search",
+      "desc": "免 key 的 Tavily 联网搜索工具。",
+      "url": "https://github.com/zhouzhencheng07/dsh-tavily-search",
+      "category": "tool",
+      "tags": [
+        "搜索",
+        "Tavily"
+      ],
+      "icon": "🕵️",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "搜索",
+      "hot": 10
+    },
+    {
+      "name": "dsh-lark-link",
+      "desc": "高可靠飞书/Lark 桥接：二维码一键授权、多模式 agent、卡片命令、零丢失发件箱。",
+      "url": "https://github.com/amlyczz/dsh-lark-link",
+      "category": "tool",
+      "tags": [
+        "飞书",
+        "桥接"
+      ],
+      "icon": "🕊️",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "IM",
+      "hot": 35
+    },
+    {
+      "name": "dsh-gpt-bridge",
+      "desc": "DSH 与 Custom GPT 之间的只读工程证据桥。",
+      "url": "https://github.com/sl82976818/dsh-gpt-bridge",
+      "category": "tool",
+      "tags": [
+        "桥接",
+        "GPT"
+      ],
+      "icon": "🌉",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "桥接",
+      "hot": 10
+    },
+    {
+      "name": "dsh-codex-subscription",
+      "desc": "在 DSH 中使用 ChatGPT/Codex 订阅：OAuth 登录、额度与重置时间。",
+      "url": "https://github.com/WSL043/dsh-codex-subscription",
+      "category": "tool",
+      "tags": [
+        "Codex",
+        "订阅"
+      ],
+      "icon": "🔑",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "订阅",
+      "hot": 10
+    },
+    {
+      "name": "dsh-rollback",
+      "desc": "文件变更回滚插件，误改可撤销。",
+      "url": "https://github.com/Taler97/dsh-rollback",
+      "category": "tool",
+      "tags": [
+        "回滚",
+        "撤销"
+      ],
+      "icon": "↩️",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "回滚",
+      "hot": 10
+    },
+    {
+      "name": "dsh-units",
+      "desc": "单位换算工具箱：长度/质量/温度/数据量/速度/时间等，零运行时依赖。",
+      "url": "https://github.com/TYEclipse/dsh-units",
+      "category": "tool",
+      "tags": [
+        "换算",
+        "工具"
+      ],
+      "icon": "📏",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "换算",
+      "hot": 10
+    },
+    {
+      "name": "jacobian",
+      "desc": "面向 agent 的纯数学：搜反例、精确计算、独立验证证明结论。",
+      "url": "https://github.com/morluto/jacobian",
+      "category": "tool",
+      "tags": [
+        "数学",
+        "定理"
+      ],
+      "icon": "∑",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "数学",
+      "hot": 25
+    },
+    {
+      "name": "dsh-usage-cost-dashboard",
+      "desc": "LLM 用量与成本分析 Web 面板，token 计量可视化。",
+      "url": "https://github.com/NeverToEver/dsh-usage-cost-dashboard",
+      "category": "tool",
+      "tags": [
+        "成本",
+        "面板"
+      ],
+      "icon": "📊",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "监控",
+      "hot": 10
+    },
+    {
+      "name": "dsh-browser",
+      "desc": "共享真实浏览器插件，让 DSH 用真实浏览器干活。",
+      "url": "https://github.com/wqty123/dsh-browser",
+      "category": "tool",
+      "tags": [
+        "浏览器",
+        "工具"
+      ],
+      "icon": "🌐",
+      "bg": "linear-gradient(135deg, #00c6ff 0%, #0072ff 100%)",
+      "tool": "浏览器",
+      "hot": 10
+    },
+    {
+      "name": "dsh-web-restart",
+      "desc": "真·热装载：装插件/改配置/升级后自动安全重启，无需手动命令行重启。",
+      "url": "https://github.com/jifeng15/dsh-web-restart",
+      "category": "tool",
+      "tags": [
+        "热重启",
+        "运维"
+      ],
+      "icon": "♻️",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "运维",
+      "hot": 10
+    },
+    {
+      "name": "dsh-update-checker",
+      "desc": "自动检查 npm 最新版，GUI 顶部横幅提示，一键安装更新并重启服务。",
+      "url": "https://github.com/Airmetro/dsh-update-checker",
+      "category": "tool",
+      "tags": [
+        "更新",
+        "检测"
+      ],
+      "icon": "🆙",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "更新",
+      "hot": 10
+    },
+    {
+      "name": "dsh-tool-writing",
+      "desc": "长篇网文写作引擎：独立 DeepSeek key、世界观管理、语义检索与语料库。",
+      "url": "https://github.com/x2802490130-prog/dsh-tool-writing",
+      "category": "tool",
+      "tags": [
+        "写作",
+        "网文"
+      ],
+      "icon": "✍️",
+      "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
+      "tool": "写作",
+      "hot": 10
+    },
+    {
+      "name": "dsh-deepseek-vision",
+      "desc": "图像理解、OCR 与持久视觉证据，让纯文本 DSH 模型获得视觉能力。",
+      "url": "https://github.com/Argonaut790/dsh-deepseek-vision",
+      "category": "vision",
+      "tags": [
+        "视觉",
+        "OCR"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 10
+    },
+    {
+      "name": "dsh-image-bridge",
+      "desc": "让文本模型也能发图：图片落盘、消息转成模型可见路径，由视觉/MCP 工具识别。",
+      "url": "https://github.com/haitang1/dsh-image-bridge",
+      "category": "vision",
+      "tags": [
+        "图片",
+        "桥接"
+      ],
+      "icon": "🖼️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 10
+    },
+    {
+      "name": "dsh-directorx",
+      "desc": "DirectorX 插件：AI 视频/图像/音频技能、知识语料与可配置视觉模型工具。",
+      "url": "https://github.com/LaplaceYoung/dsh-directorx",
+      "category": "vision",
+      "tags": [
+        "视频",
+        "多模态"
+      ],
+      "icon": "🎬",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "多模态",
+      "hot": 10
+    },
+    {
+      "name": "dsh-passwords",
+      "desc": "登录网关：首次设置、静态加密、暴力破解锁定、审计日志、HTTPS。",
+      "url": "https://github.com/slywalker2006/dsh-passwords",
+      "category": "security",
+      "tags": [
+        "登录",
+        "加密"
+      ],
+      "icon": "🔐",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 10
+    },
+    {
+      "name": "dsh-command-quarantine",
+      "desc": "命令隔离：拦截 agent 直接执行命令，规则 + LLM 审查，危险命令人工确认，全程审计。",
+      "url": "https://github.com/sutimee/dsh-command-quarantine",
+      "category": "security",
+      "tags": [
+        "隔离",
+        "审计"
+      ],
+      "icon": "🚧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 10
+    },
+    {
+      "name": "readonly-security-audit",
+      "desc": "只读安全审计模式，让 DSH 在只读约束下工作。",
+      "url": "https://github.com/my-dsh-plugin/readonly-security-audit",
+      "category": "security",
+      "tags": [
+        "只读",
+        "审计"
+      ],
+      "icon": "🔒",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 10
+    },
+    {
+      "name": "dsh-careful-full-access",
+      "desc": "命令防护：拦截灾难级删除、高危升级，附 careful-full-access 删除预览与模型复核。",
+      "url": "https://github.com/zdjmrq/dsh-careful-full-access",
+      "category": "security",
+      "tags": [
+        "防护",
+        "删除"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 10
+    },
+    {
+      "name": "upstream-radar",
+      "desc": "插件安全与依赖监控：精确漏洞路径、破坏性更新与 agent 跟进。",
+      "url": "https://github.com/MicroMilo/upstream-radar",
+      "category": "security",
+      "tags": [
+        "依赖",
+        "漏洞"
+      ],
+      "icon": "📡",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 25
+    },
+    {
+      "name": "dsh-whale-galgame",
+      "desc": "多角色 Galgame 界面 + 可选桌面伴侣插件。",
+      "url": "https://github.com/JAdpp/dsh-whale-galgame",
+      "category": "fun",
+      "tags": [
+        "Galgame",
+        "桌面"
+      ],
+      "icon": "💘",
+      "bg": "linear-gradient(135deg, #ff9966 0%, #ff5e62 100%)",
+      "tool": "整活",
       "hot": 0
     }
   ],
