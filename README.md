@@ -4,14 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[DeepSeek Harness 插件库](https://soycodetrail.top/dsh-plugins)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 18:03:19
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-15 18:08:08
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
-- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（268 个条目 / 8 个分类）
+## 📑 内容导航（339 个条目 / 8 个分类）
 
 - [🧭 核心引擎](#cat-核心引擎)
 - [🎨 界面与体验](#cat-界面与体验)
@@ -84,6 +83,14 @@
   标签：目录 / 网站
 - [GitHub topic: dsh-plugin](https://github.com/topics/dsh-plugin) — 给插件仓库打 dsh-plugin topic 即可被发现；官方企微群 + GitHub Issue 社区入口。  
   标签：发现 / 社区
+- [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) — 从 0 到 1 的 DSH 深度手册，含插件开发指南与架构讲解，社区口碑入门读物。  
+  标签：文档 / 手册
+- [awesome-deepseek-harness 排行榜](https://github.com/fendouai/awesome-deepseek-harness) — 带每日排行榜的 DSH 生态精选，看看别人都在装什么、怎么用。  
+  标签：榜单 / 精选
+- [awesome-dsh](https://github.com/stakeswky/awesome-dsh) — DSH 插件与工具精选索引，社区维护、持续更新。  
+  标签：索引 / 精选
+- [Aegis](https://github.com/GanyuanRan/Aegis) — 面向编码 Agent 的软件工程方法包：基线优先规划、系统化调试、完成前验证与修复/退役双轨跟踪。  
+  标签：技能包 / 方法论
 
 <a id="cat-界面与体验" name="cat-界面与体验"></a>
 
@@ -231,6 +238,40 @@
   标签：Markdown / 预览
 - [dsh-theme-manager](https://github.com/vlln/dsh-theme-manager) — 一键切换 DSH Web UI 主题，内置多套配色并支持自定义导入。  
   标签：主题 / 皮肤
+- [dsh-catppuccin](https://github.com/zhijun-dai/Catppuccin-dsh-theme) — Catppuccin 柔色主题，给 DSH 换上低饱和奶油色界面。  
+  标签：主题 / 配色
+- [solarized-dsh-theme](https://github.com/zhijun-dai/Solarized-dsh-theme) — Solarized 经典配色主题，护眼舒适，长时编码不累眼。  
+  标签：主题 / 配色
+- [dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex 风格皮肤切换器 + 自定义壁纸层，可调透明度与模糊。  
+  标签：皮肤 / 壁纸
+- [dsh-web-attention-badge](https://github.com/Luaphes/dsh-web-attention-badge) — 会话需要你时三处同时亮起：角标、标签页标题计数、按状态换色的鲸鱼 favicon。  
+  标签：提醒 / 角标
+- [dsh-builtin-toggles](https://github.com/Starfie1d1272/dsh-builtin-toggles) — 官方内置插件目录、搜索与状态说明，附安全 UI 插件开关。  
+  标签：开关 / 目录
+- [dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) — 一键收起会话中所有展开区块（Think、工具卡），常驻计数按钮 + 快捷键。  
+  标签：收起 / 折叠
+- [dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note) — 编辑框工具栏便签，随手记点子与 TODO，自动保存为 Markdown。  
+  标签：便签 / TODO
+- [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — 输入框 dock 显示 DeepSeek 账户余额与会话花费，自动拉取官方定价。  
+  标签：余额 / 计价
+- [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — 会话与当日 API 费用统计、预算图框、历史看板，支持峰谷计价。  
+  标签：费用 / 预算
+- [dsh-spend](https://github.com/nonewind/dsh-spend) — 右下角悬浮用量与费用统计窗，按模型/按天/按会话多维聚合。  
+  标签：统计 / 费用
+- [dsh-deepseek-quota](https://github.com/yingjunnan/dsh-deepseek-quota) — DeepSeek API 配额与用量展示插件，额度消耗一目了然。  
+  标签：配额 / 用量
+- [dsh-hud](https://github.com/a903067276-rgb/dsh-hud) — 会话 HUD 抬头显示：Token、成本、耗时等关键指标一屏尽览。  
+  标签：HUD / 指标
+- [dsh-view-modes](https://github.com/NigelYao/dsh-view-modes) — DSH 多视图模式切换：极简/代码/完整布局随心换。  
+  标签：视图 / 布局
+- [dsh-milestone](https://github.com/SnowCrescenter-tech/dsh-milestone) — 右侧圆点时间轴导航，点击跳转到任意用户消息。  
+  标签：时间轴 / 导航
+- [dsh-outline](https://github.com/urzeye/dsh-outline) — 会话大纲插件：自动生成对话结构目录，快速定位关键节点。  
+  标签：大纲 / 目录
+- [dsh-smooth-stream](https://github.com/SpookySandwich/dsh-smooth-stream) — 让模型流式输出更平滑，减少抖动卡顿，阅读体验更顺。  
+  标签：流式 / 优化
+- [dsh-web-mobile-fix](https://github.com/AcidGr/dsh-web-mobile-fix) — Web UI 移动端布局修复：窄屏设置全屏化、导航单行、弹层居中。  
+  标签：移动端 / 修复
 
 <a id="cat-agent-与自动化" name="cat-agent-与自动化"></a>
 
@@ -306,6 +347,26 @@
   标签：重试 / 容错
 - [dsh-cost-guard](https://github.com/vlln/dsh-cost-guard) — 实时 Token 与成本看板，超预算自动熔断，用量心中有数。  
   标签：成本 / 预算
+- [dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue) — 自动恢复中断请求：失败分类、自适应退避重试、可配置续写消息与通知。  
+  标签：重试 / 自愈
+- [dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) — 持续自进化：从会话轨迹沉淀版本化、可审计、可回滚的 harness 状态。  
+  标签：自进化 / 审计
+- [dsh-plans](https://github.com/Optim-Agent/dsh-plans) — 声明式计划插件：把复杂目标拆成可追踪步骤并持续更新。  
+  标签：规划 / 拆解
+- [dsh-agent-team-gui](https://github.com/toolclub/dsh-agent-team-gui) — 多 Agent 团队的 GUI 面板：可视化团队分工与任务流转。  
+  标签：多智能体 / 可视化
+- [dsh-collaboration](https://github.com/Socialist-Sister/dsh-collaboration) — 多会话协作插件：让多个 Agent 会话协同完成同一任务。  
+  标签：协作 / 多会话
+- [dsh-review-loop](https://github.com/wuxiangru915/dsh-review-loop) — 评审闭环：代码产出后自动触发审查与修复循环，质量有保障。  
+  标签：评审 / 闭环
+- [dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) — 检查点回退：把会话恢复到任意历史快照，试错零成本。  
+  标签：回退 / 快照
+- [dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck) — 双重检查：关键操作前二次确认，减少 Agent 误操作。  
+  标签：确认 / 防护
+- [dsh-yolo-mode](https://github.com/SeverusZh/dsh-yolo-mode) — YOLO 模式：自动批准所有工具调用，跑长任务不打断。  
+  标签：自动审批 / 效率
+- [dsh-smart-route](https://github.com/Semidia/dsh-smart-route) — 智能路由：按任务类型自动选择最优模型与 provider。  
+  标签：路由 / 模型
 
 <a id="cat-记忆与知识" name="cat-记忆与知识"></a>
 
@@ -343,6 +404,26 @@
   标签：学习 / 间隔重复
 - [dsh-citation](https://github.com/vlln/dsh-citation) — 自动为生成内容附加来源引用，标注出处、可回溯校验。  
   标签：引用 / 溯源
+- [dsh-mneme](https://github.com/modusensus/dsh-mneme) — 跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，后台自动巩固去重。  
+  标签：记忆 / SQLite
+- [dsh-memory-vault](https://github.com/flymysql/dsh-memory) — 跨会话记忆库：remember/recall/forget 工具，每轮提示注入。  
+  标签：记忆 / 召回
+- [dsh-memoria](https://github.com/jiayan-xu/dsh-memoria) — Memoria 记忆插件：让 Agent 记住项目约定与关键决策。  
+  标签：记忆 / 项目
+- [dsh-memory-gate](https://github.com/GIT121995/dsh-memory-gate) — 记忆门：控制哪些信息进入长期记忆，敏感内容自动过滤。  
+  标签：记忆 / 过滤
+- [dsh-deepread](https://github.com/xiehuan123/dsh-deepread) — 深度阅读插件：长文档分段精读，逐章提炼要点。  
+  标签：阅读 / 提炼
+- [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) — 学习一切：把任意资料转化为结构化学习路径。  
+  标签：学习 / 路径
+- [Code2Skill](https://github.com/leechen298/Code2Skill) — 代码转技能：把代码库自动提炼为可复用的 Agent Skill。  
+  标签：技能 / 提炼
+- [dsh-file-mount](https://github.com/acefun29/dsh-file-mount) — 文件挂载插件：把外部目录/文件挂载进工作区。  
+  标签：挂载 / 文件
+- [dsh-bookmarks](https://github.com/penguin-oo/dsh-bookmarks) — 书签插件：收藏常用文件、路径与命令，一键召回。  
+  标签：书签 / 收藏
+- [dsh-report-studio](https://github.com/ciceroyang/dsh-report-studio) — 报告工作室：把会话产出编排成结构化报告文档。  
+  标签：报告 / 交付
 
 <a id="cat-工具与连接" name="cat-工具与连接"></a>
 
@@ -464,6 +545,46 @@
   标签：Notion / 知识库
 - [dsh-jira](https://github.com/vlln/dsh-jira) — Jira 工单集成，Agent 读取/创建/更新 Issue，研发流程自动化。  
   标签：Jira / 工单
+- [dsh-office](https://github.com/Fayelin12/dsh-office) — 读写 docx/pdf/pptx 办公文档，让 Agent 处理 Office 三件套。  
+  标签：Office / 文档
+- [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — 把 Claude Code/Codex/ChatGPT/Cursor/Gemini 聊天记录保真导入为可续聊会话。  
+  标签：迁移 / 导入
+- [dsh-movein](https://github.com/sjh9714/dsh-movein) — 把整个 Claude Code 设置迁移到 DSH：Session、Memory、Skills 全带走。  
+  标签：迁移 / Claude Code
+- [dsh-file-uploads](https://github.com/l541402398/dsh-file-uploads) — 从输入框上传任意本地文件，以待发送卡片展示。  
+  标签：上传 / 文件
+- [dsh-bash-rtk](https://github.com/DeepTrial/dsh-bash-rtk) — Bash 运行时工具包：命令执行、输出捕获与重试。  
+  标签：Bash / 执行
+- [dsh-tool-github](https://github.com/NEAZ71eve/dsh-tool-github) — GitHub 工具：让 Agent 在对话里查仓库、读 Issue、管 PR。  
+  标签：GitHub / 工具
+- [dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) — MCP 面板：可视化配置与监控 MCP 服务器连接。  
+  标签：MCP / 面板
+- [dsh-web-search-pro](https://github.com/anweat/dsh-web-search-pro) — 专业网络搜索：多引擎聚合、结果去重与结构化摘要。  
+  标签：搜索 / 聚合
+- [dsh-web-search-exa](https://github.com/TonyDua/dsh-web-search-exa) — Exa 语义搜索接入：按语义找网页，而非关键词。  
+  标签：搜索 / 语义
+- [dsh-tavily](https://github.com/moguiyu/dsh-tavily) — Tavily 搜索 API 接入，为 Agent 提供实时检索能力。  
+  标签：搜索 / API
+- [dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) — MCP 服务器管理：集中配置、启停与监控 MCP 连接。  
+  标签：MCP / 管理
+- [dsh-mcp-lens](https://github.com/labmimors/dsh-mcp-lens) — MCP 透镜：可视化查看 MCP 工具调用与数据流。  
+  标签：MCP / 可视化
+- [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — 把 DSH 暴露为 MCP 服务器，供其他 Agent 调用。  
+  标签：MCP / 服务器
+- [treg](https://github.com/superdesigndev/treg) — 给 Agent 的工具目录：按「要做的事」检索约 2600 个外部接口。  
+  标签：目录 / 检索
+- [mirage](https://github.com/strukto-ai/mirage) — 把文件系统与 bash 换成 mirage 虚拟工作区（RAM/S3/Redis/Slack/Gmail/Notion）。  
+  标签：虚拟工作区 / 沙箱
+- [dsh-xiaohongshu-viral-note](https://github.com/xuboboo/dsh-xiaohongshu-viral-note) — 小红书爆款笔记生成器，一句话产出爆款文案。  
+  标签：小红书 / 文案
+- [dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) — 飞书（Lark）机器人：在飞书里 @Agent 干活，群聊单聊都支持。  
+  标签：飞书 / 机器人
+- [DSH-WX-Msg-Tool](https://github.com/yauntyour/DSH-WX-Msg-Tool) — 微信消息工具：让 DSH 收发微信消息，IM 里直接调 Agent。  
+  标签：微信 / 消息
+- [super-wechat-bridge](https://github.com/Qshuai0213/super-wechat-bridge) — 微信桥接：把微信个人号接进 DSH，收发消息与文件。  
+  标签：微信 / 桥接
+- [dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) — QQ 机器人（腾讯官方）：单聊/群聊独立会话，扫码绑定即可用。  
+  标签：QQ / 机器人
 
 <a id="cat-多模态与视觉" name="cat-多模态与视觉"></a>
 
@@ -495,6 +616,12 @@
   标签：截图 / 视觉
 - [dsh-barcode](https://github.com/vlln/dsh-barcode) — 二维码/条形码识别与生成，扫码场景接入 Agent。  
   标签：二维码 / 识别
+- [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) — 视觉路由：让文本 Agent 自动获得图像识别、OCR 与像素工具。  
+  标签：视觉 / 路由
+- [dsh-plugin-vision](https://github.com/tdf1995/dsh-plugin-vision) — 视觉插件：view_image 工具桥接任意 OpenAI 兼容 VLM。  
+  标签：VLM / 视觉
+- [context-vista](https://github.com/GooodWei/context-vista) — 上下文可视化：直接看 Token 都被谁吃了，精准瘦身。  
+  标签：上下文 / Token
 
 <a id="cat-安全与运维" name="cat-安全与运维"></a>
 
@@ -538,6 +665,10 @@
   标签：备份 / 恢复
 - [dsh-firewall](https://github.com/vlln/dsh-firewall) — 网络访问白名单/黑名单，限制 Agent 出站请求目标域。  
   标签：防火墙 / 白名单
+- [dsh-telemetry-redactor](https://github.com/030611/dsh-telemetry-redactor) — 遥测脱敏：在导出/上报前自动清洗敏感信息。  
+  标签：脱敏 / 隐私
+- [dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) — 验证回执：任务完成生成可审计的执行凭证。  
+  标签：审计 / 回执
 
 <a id="cat-趣味与社区" name="cat-趣味与社区"></a>
 
@@ -599,6 +730,16 @@
   标签：激励 / 语录
 - [dsh-tamagotchi](https://github.com/vlln/dsh-tamagotchi) — 电子宠物养成，喂食、玩耍、进化，陪你在终端养只小鲸鱼。  
   标签：宠物 / 养成
+- [dsh-clippy](https://github.com/sjh9714/clippy-harness) — Clippy 助手：把微软经典回形针请回你的 DSH 界面。  
+  标签：整活 / 怀旧
+- [dsh-MusicPlayer](https://github.com/xiekai886/dsh-MusicPlayer) — 音乐播放器：边写代码边听歌，内置播放列表。  
+  标签：音乐 / 娱乐
+- [dsh-digipet](https://github.com/swaylq/dsh-digipet) — 数字宠物：在终端养一只会互动的电子宠物。  
+  标签：宠物 / 养成
+- [dsh-weather](https://github.com/sunshine-lang/dsh-weather) — 天气插件：随手查当地天气与预报。  
+  标签：天气 / 生活
+- [dsh-recommend](https://github.com/zp-home/dsh-recommend) — 插件透明排行与推荐：每日抓取 dsh-plugin 生态，公开评分排序。  
+  标签：推荐 / 排行
 
 
 ---
