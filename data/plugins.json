@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:04:38.241Z",
+  "updatedAt": "2026-08-18T23:39:59.644Z",
   "items": [
     {
       "name": "deepseek-harness",
@@ -325,6 +325,81 @@
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "文档",
       "hot": 25
+    },
+    {
+      "name": "cocode",
+      "desc": "开箱即用的 DeepSeek Harness 发行版：桌面 GUI、终端 TUI 与 Harness 集成。",
+      "url": "https://github.com/cocode-agency/cocode",
+      "category": "core",
+      "tags": [
+        "发行版",
+        "桌面",
+        "终端"
+      ],
+      "icon": "📦",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "发行版",
+      "hot": 28
+    },
+    {
+      "name": "dsh-ecosystem",
+      "desc": "DSH 插件生态的活地图：带质量信号、Bug 雷达、缺口雷达与每周编辑的精选插件目录。",
+      "url": "https://github.com/zoahdev/dsh-ecosystem",
+      "category": "core",
+      "tags": [
+        "索引",
+        "生态",
+        "质量信号"
+      ],
+      "icon": "🗺️",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "索引",
+      "hot": 28
+    },
+    {
+      "name": "dsh-subscribe",
+      "desc": "DSH 的 Steam 式插件市场：网页一键订阅，一条命令同步进你的 dsh profile。",
+      "url": "https://github.com/zoahdev/dsh-subscribe",
+      "category": "core",
+      "tags": [
+        "市场",
+        "订阅",
+        "一键"
+      ],
+      "icon": "🛒",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "市场",
+      "hot": 27
+    },
+    {
+      "name": "dsh-market",
+      "desc": "DeepSeek Harness 内置插件市场：浏览、搜索、一键安装的可视化市场。",
+      "url": "https://github.com/dsh-market/dsh-market",
+      "category": "core",
+      "tags": [
+        "市场",
+        "一键安装",
+        "可视化"
+      ],
+      "icon": "🏪",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "市场",
+      "hot": 51
+    },
+    {
+      "name": "dsh-minimal-anchor",
+      "desc": "DSH 插件：仅在会话首轮裁剪工具 Schema 并注入结构化前缀，降低上下文噪声。",
+      "url": "https://github.com/rand0wn/dsh-minimal-anchor",
+      "category": "core",
+      "tags": [
+        "核心",
+        "上下文",
+        "前缀"
+      ],
+      "icon": "⚓",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "核心",
+      "hot": 27
     },
     {
       "name": "Better Sidebar",
@@ -1026,6 +1101,275 @@
       "hot": 25
     },
     {
+      "name": "dsh-long-plugins",
+      "desc": "DSH Web 插件合集：上传管理器、工作区产出文件预览/编辑/最大化、技能文档浏览器与账户余额。",
+      "url": "https://github.com/jackylong1987/dsh-long-plugins",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "合集",
+        "上传"
+      ],
+      "icon": "🧩",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "agent-board",
+      "desc": "为 DeepSeek Harness Web Profile 提供持久化、按工作区维度的 Agent 追踪管理看板。",
+      "url": "https://github.com/meisam2236/agent-board",
+      "category": "ui",
+      "tags": [
+        "看板",
+        "Agent",
+        "管理"
+      ],
+      "icon": "📋",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "看板",
+      "hot": 27
+    },
+    {
+      "name": "dsh-node-appearance",
+      "desc": "DSH Web GUI 会话节点外观插件：按节点类型/工具名着色（可配置配色）+ 思考过程显示开关。",
+      "url": "https://github.com/Max-Null/dsh-node-appearance",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "节点",
+        "配色"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "Tokdash",
+      "desc": "Agent 仪表盘：会话与配额用量的可视化分析，跨供应商追踪与优化 Token 消耗。",
+      "url": "https://github.com/JingbiaoMei/Tokdash",
+      "category": "ui",
+      "tags": [
+        "仪表盘",
+        "Token",
+        "配额"
+      ],
+      "icon": "📊",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "仪表盘",
+      "hot": 37
+    },
+    {
+      "name": "DSH-EasyRewrite",
+      "desc": "DSH Web 内最无感的消息重编辑插件，原版体验、兼容性强、功能可开关、设置丰富。",
+      "url": "https://github.com/Renzic-Stone/DSH-EasyRewrite",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "重编辑",
+        "消息"
+      ],
+      "icon": "✏️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "Restart-service-button",
+      "desc": "DSH Web 插件：在网页界面右上角添加一键重启服务按钮，并提供按钮位置设置页。",
+      "url": "https://github.com/DeBug-lzy/Restart-service-button",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "重启",
+        "按钮"
+      ],
+      "icon": "🔄",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugins",
+      "desc": "DeepSeek Harness 单仓插件集：dsh-file-explorer 面板文件树 + Web UI 工作区查看器。",
+      "url": "https://github.com/onchainyaotoshi/dsh-plugins",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "文件",
+        "资源管理"
+      ],
+      "icon": "📁",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-chat-rail",
+      "desc": "画卷式消息导航栏：右侧竖条 hover 展开画卷，scroll-spy 高亮居中跟随，与 better-sidebar 动画同步避让。",
+      "url": "https://github.com/Max-Null/dsh-chat-rail",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "导航",
+        "消息"
+      ],
+      "icon": "🚌",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-motion-manager",
+      "desc": "DeepSeek Harness 可配置的锚定弹层与设置动画。",
+      "url": "https://github.com/zhoupengjie/dsh-motion-manager",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "动画",
+        "弹层"
+      ],
+      "icon": "🎬",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-explorer-plugin",
+      "desc": "DeepSeek Harness 轻量级资源管理器插件。",
+      "url": "https://github.com/dgadelha1/dsh-explorer-plugin",
+      "category": "ui",
+      "tags": [
+        "资源管理",
+        "Web UI"
+      ],
+      "icon": "🧭",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "资源管理",
+      "hot": 27
+    },
+    {
+      "name": "dsh-thinking-levels",
+      "desc": "DSH 思考强度（reasoning level）调节插件，控制推理深度。",
+      "url": "https://github.com/drscrewdriver/dsh-thinking-levels",
+      "category": "ui",
+      "tags": [
+        "设置",
+        "推理",
+        "强度"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "设置",
+      "hot": 27
+    },
+    {
+      "name": "dsh-window",
+      "desc": "DeepSeek Harness 桌面 GUI 客户端：双击启动，自动拉起 DSH Web 并在桌面窗口中打开。",
+      "url": "https://github.com/he110Warudo/dsh-window",
+      "category": "ui",
+      "tags": [
+        "桌面",
+        "GUI",
+        "Electron"
+      ],
+      "icon": "🖧",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "桌面",
+      "hot": 27
+    },
+    {
+      "name": "dsh-desktop-browser",
+      "desc": "Cordis 插件：以无地址栏的 --app 模式在浏览器中打开 DSH Web UI。",
+      "url": "https://github.com/Mby159/dsh-desktop-browser",
+      "category": "ui",
+      "tags": [
+        "桌面",
+        "浏览器",
+        "app模式"
+      ],
+      "icon": "🌐",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "桌面",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mobile-ui",
+      "desc": "DSH Web GUI 的移动端响应式布局插件：视口检测、触控友好控件与底部导航栏。",
+      "url": "https://github.com/Perederey/dsh-mobile-ui",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "移动端",
+        "响应式"
+      ],
+      "icon": "📱",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-webui",
+      "desc": "DSH WebUI 增强：右上角「对话/轨迹」图块视图切换 + 会话消息导航。",
+      "url": "https://github.com/statem-li/dsh-webui",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "导航",
+        "视图"
+      ],
+      "icon": "🗂️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-weniger-theme",
+      "desc": "Weniger（少即是好）：受 Dieter Rams 启发的 DSH Web GUI 极简主题。",
+      "url": "https://github.com/lesliechowsh/dsh-weniger-theme",
+      "category": "ui",
+      "tags": [
+        "主题",
+        "极简",
+        "Web UI"
+      ],
+      "icon": "🖌️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "主题",
+      "hot": 27
+    },
+    {
+      "name": "dsh-conversation-accents",
+      "desc": "为 DSH Web 的助手 Markdown、工具调用与 Think 内容提供可自定义语义配色。",
+      "url": "https://github.com/YaoaY/dsh-conversation-accents",
+      "category": "ui",
+      "tags": [
+        "Web UI",
+        "配色",
+        "语义"
+      ],
+      "icon": "🌈",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-gui",
+      "desc": "DeepSeek Harness 的 Electron GUI 客户端：WebUI 转桌面，内核不改。",
+      "url": "https://github.com/EricXu20266/dsh-gui",
+      "category": "ui",
+      "tags": [
+        "桌面",
+        "GUI",
+        "Electron"
+      ],
+      "icon": "💠",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "桌面",
+      "hot": 30
+    },
+    {
       "name": "Deep Research",
       "desc": "自适应深度研究编排器，自动拆解、检索、核查并产出报告。",
       "url": "https://github.com/omdsh-dev/dsh-deep-research",
@@ -1424,6 +1768,36 @@
       "hot": 25
     },
     {
+      "name": "dsh-crew",
+      "desc": "DSH 插件：把工作拆给一支角色化 Agent 小队（产品经理、研究员、架构师、工程师、QA、代码评审、安全评审）。",
+      "url": "https://github.com/stuarthu/dsh-crew",
+      "category": "agent",
+      "tags": [
+        "Agent",
+        "多角色",
+        "协作"
+      ],
+      "icon": "🧑‍🤝‍🧑",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "Codex-Co-Engineer",
+      "desc": "面向独立 DeepSeek Harness 的 Codex 优先控制面：Codex 担任首席工程师与操作员，DeepSeek Harness 协同执行。",
+      "url": "https://github.com/ajhcs/Codex-Co-Engineer",
+      "category": "agent",
+      "tags": [
+        "Agent",
+        "Codex",
+        "控制面"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
       "name": "Mnemon",
       "desc": "本地三层记忆体（情景/语义/程序），跨会话长期记忆的完整实现。",
       "url": "https://github.com/omdsh-dev/dsh-mnemon",
@@ -1585,6 +1959,51 @@
       "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
       "tool": "技能",
       "hot": 25
+    },
+    {
+      "name": "dsh-tutorials",
+      "desc": "DeepSeek Harness 中英双语教程：入门、架构、插件开发、发布前自检与贡献者路线图。",
+      "url": "https://github.com/zoahdev/dsh-tutorials",
+      "category": "knowledge",
+      "tags": [
+        "教程",
+        "双语",
+        "入门"
+      ],
+      "icon": "📚",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "教程",
+      "hot": 28
+    },
+    {
+      "name": "dsh-session-handoff",
+      "desc": "DSH 会话交接与上下文管理：结构化交接文档（导出/恢复/状态）+ 活动上下文裁剪。",
+      "url": "https://github.com/snow-The/dsh-session-handoff",
+      "category": "knowledge",
+      "tags": [
+        "会话",
+        "上下文",
+        "交接"
+      ],
+      "icon": "🤝",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "上下文",
+      "hot": 27
+    },
+    {
+      "name": "dsh-memory",
+      "desc": "DSH 记忆插件：CJK 感知的会话全文检索、工具结果去重与向量+FTS5 混合记忆，降低 Token 消耗。",
+      "url": "https://github.com/QIANLING-0831/dsh-memory",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "检索",
+        "向量"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "记忆",
+      "hot": 27
     },
     {
       "name": "Better Browser",
@@ -2209,6 +2628,198 @@
       "hot": 10
     },
     {
+      "name": "dsh-feishu",
+      "desc": "DeepSeek Harness 的飞书 UI：面板驱动的控制台，每个斜杠命令都是控制面板卡片上的按钮。",
+      "url": "https://github.com/PGZXB/dsh-feishu",
+      "category": "tool",
+      "tags": [
+        "飞书",
+        "控制台",
+        "UI"
+      ],
+      "icon": "📨",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "飞书",
+      "hot": 30
+    },
+    {
+      "name": "dsh-worktree-studio",
+      "desc": "面向 DeepSeek Harness 的手动 Git worktree 任务看板。",
+      "url": "https://github.com/Palaiologos1453/dsh-worktree-studio",
+      "category": "tool",
+      "tags": [
+        "Git",
+        "worktree",
+        "任务"
+      ],
+      "icon": "🌿",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Git",
+      "hot": 27
+    },
+    {
+      "name": "dsh-api-balance",
+      "desc": "DSH 插件：多平台 AI 账户余额悬浮监控。",
+      "url": "https://github.com/Badegg404/dsh-api-balance",
+      "category": "tool",
+      "tags": [
+        "监控",
+        "余额",
+        "多平台"
+      ],
+      "icon": "💰",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "监控",
+      "hot": 27
+    },
+    {
+      "name": "dsh-geodesy",
+      "desc": "DSH 的大地测量数学工具箱：大圆距离、方位角、目的地点与 DMS 坐标解析。",
+      "url": "https://github.com/TYEclipse/dsh-geodesy",
+      "category": "tool",
+      "tags": [
+        "工具",
+        "大地测量",
+        "数学"
+      ],
+      "icon": "🌍",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "工具",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-harness-workbench-plugin",
+      "desc": "DeepSeek Harness 工作台（Workbench）插件。",
+      "url": "https://github.com/loadingvx/deepseek-harness-workbench-plugin",
+      "category": "tool",
+      "tags": [
+        "工作台",
+        "Workbench"
+      ],
+      "icon": "🛠️",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "工作台",
+      "hot": 32
+    },
+    {
+      "name": "dsh-rigorquant",
+      "desc": "为 DeepSeek Harness 增加严谨的量化金融分析能力。",
+      "url": "https://github.com/linxichen/dsh-rigorquant",
+      "category": "tool",
+      "tags": [
+        "量化",
+        "金融"
+      ],
+      "icon": "📈",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "量化",
+      "hot": 28
+    },
+    {
+      "name": "dsh-plugin-llm-verifier",
+      "desc": "DSH 的 LLM-as-a-Verifier：通过选择/比较/追踪提供持续奖励信号。",
+      "url": "https://github.com/uson1x/dsh-plugin-llm-verifier",
+      "category": "tool",
+      "tags": [
+        "验证",
+        "LLM",
+        "奖励"
+      ],
+      "icon": "✅",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "验证",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-harness-fnos",
+      "desc": "DeepSeek Harness（官方 Agent 浏览器 UI）的 fnOS 应用，本地常驻服务。",
+      "url": "https://github.com/techysy/deepseek-harness-fnos",
+      "category": "tool",
+      "tags": [
+        "fnOS",
+        "桌面",
+        "常驻"
+      ],
+      "icon": "🖥️",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "桌面",
+      "hot": 32
+    },
+    {
+      "name": "dsh-voice",
+      "desc": "DSH 语音输入插件。",
+      "url": "https://github.com/KotDath/dsh-voice",
+      "category": "tool",
+      "tags": [
+        "语音",
+        "输入"
+      ],
+      "icon": "🎙️",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "语音",
+      "hot": 27
+    },
+    {
+      "name": "DeepSeek-Harness-for-VS-Code",
+      "desc": "VS Code 版 DeepSeek Harness：@dsh 聊天参与者、侧边栏与独立聊天、计划模式、目标与子 Agent。",
+      "url": "https://github.com/NEXTINDIE/DeepSeek-Harness-for-VS-Code",
+      "category": "tool",
+      "tags": [
+        "VS Code",
+        "编辑器",
+        "子Agent"
+      ],
+      "icon": "💻",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "VS Code",
+      "hot": 29
+    },
+    {
+      "name": "dsh-git-rescue",
+      "desc": "DSH Git 版本管理 + 崩溃自动救援插件（仅 GitHub token 方案）。",
+      "url": "https://github.com/EIGHTfs/dsh-git-rescue",
+      "category": "tool",
+      "tags": [
+        "Git",
+        "救援",
+        "版本"
+      ],
+      "icon": "🆘",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "Git",
+      "hot": 28
+    },
+    {
+      "name": "DSh-feishu-bot",
+      "desc": "连接飞书/Lark 与本地 DSH 的机器人组件。",
+      "url": "https://github.com/wangsan71/DSh-feishu-bot",
+      "category": "tool",
+      "tags": [
+        "飞书",
+        "机器人",
+        "Lark"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "飞书",
+      "hot": 27
+    },
+    {
+      "name": "deepsiper-enthea",
+      "desc": "从 deepseek-harness 派生的主权化、Agent 驱动的 LLM 评测 Harness，采用 Cordis 插件架构。",
+      "url": "https://github.com/8b-is/deepsiper-enthea",
+      "category": "tool",
+      "tags": [
+        "评测",
+        "Harness",
+        "派生"
+      ],
+      "icon": "🧪",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "评测",
+      "hot": 27
+    },
+    {
       "name": "Vision Toolkit",
       "desc": "让纯文本模型获得视觉：视图工具桥接任意 OpenAI 兼容 VLM。",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
@@ -2503,6 +3114,81 @@
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "探测",
       "hot": 25
+    },
+    {
+      "name": "dsh-tailscale-surface",
+      "desc": "DSH 插件：Tailscale serve 表面，提供规范外部 URL 与身份门控的特权 RPC 中继。",
+      "url": "https://github.com/mrlfarano/dsh-tailscale-surface",
+      "category": "security",
+      "tags": [
+        "安全",
+        "Tailscale",
+        "RPC"
+      ],
+      "icon": "🔗",
+      "bg": "linear-gradient(135deg, #283048 0%, #859398 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-gpt-compat",
+      "desc": "DSH 的 GPT/Codex 沙箱提权参数兼容插件，默认失败关闭（fail-closed）。",
+      "url": "https://github.com/YaoaY/dsh-gpt-compat",
+      "category": "security",
+      "tags": [
+        "安全",
+        "沙箱",
+        "权限"
+      ],
+      "icon": "🔐",
+      "bg": "linear-gradient(135deg, #283048 0%, #859398 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-trapstreet",
+      "desc": "检查哪些 DSH 插件真正加载成功，并查询 trapstreet.run 上的公开评测榜。",
+      "url": "https://github.com/trapstreet/dsh-trapstreet",
+      "category": "security",
+      "tags": [
+        "安全",
+        "加载",
+        "评测"
+      ],
+      "icon": "🔍",
+      "bg": "linear-gradient(135deg, #283048 0%, #859398 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-runtime-xray",
+      "desc": "DeepSeek Harness 只读运行时 X-Ray 透视工具。",
+      "url": "https://github.com/hollis-openlab/dsh-runtime-xray",
+      "category": "security",
+      "tags": [
+        "安全",
+        "运行时",
+        "透视"
+      ],
+      "icon": "🔬",
+      "bg": "linear-gradient(135deg, #283048 0%, #859398 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dshscan",
+      "desc": "DShScan —— 受 NVIDIA SkillSpector 启发的 DSH 插件安全扫描器。",
+      "url": "https://github.com/shaoshi20/dshscan",
+      "category": "security",
+      "tags": [
+        "安全",
+        "扫描",
+        "SkillSpector"
+      ],
+      "icon": "🔎",
+      "bg": "linear-gradient(135deg, #283048 0%, #859398 100%)",
+      "tool": "安全",
+      "hot": 29
     },
     {
       "name": "Gomoku",
@@ -7057,6 +7743,50 @@
       "bg": "linear-gradient(135deg, #f83600 0%, #f9d423 100%)",
       "tool": "桌宠",
       "hot": 58
+    },
+    {
+      "name": "dsh-wallpaper_share",
+      "desc": "挂载于 DeepSeek Harness 的壁纸引擎同步插件，可同步不同显示器的静态壁纸。",
+      "url": "https://github.com/YRN-playmaker/dsh-wallpaper_share",
+      "category": "fun",
+      "tags": [
+        "壁纸",
+        "桌面",
+        "同步"
+      ],
+      "icon": "🖼️",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "壁纸",
+      "hot": 28
+    },
+    {
+      "name": "dsh-BigfishPet",
+      "desc": "dsh-BigfishPet —— DeepSeek Harness 桌面宠物插件。",
+      "url": "https://github.com/s17179XTY/dsh-BigfishPet",
+      "category": "fun",
+      "tags": [
+        "桌宠",
+        "宠物"
+      ],
+      "icon": "🐟",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "桌宠",
+      "hot": 28
+    },
+    {
+      "name": "dsh-niulai-pet",
+      "desc": "牛来桌宠：Agent 任务完成时蹦出来喊「妈～妈～」的 DSH 纯客户端桌宠插件（5 皮肤/签名动作/合成叫声）。",
+      "url": "https://github.com/whitefirer/dsh-niulai-pet",
+      "category": "fun",
+      "tags": [
+        "桌宠",
+        "宠物",
+        "牛来"
+      ],
+      "icon": "🐮",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "桌宠",
+      "hot": 27
     }
   ],
   "categories": [
