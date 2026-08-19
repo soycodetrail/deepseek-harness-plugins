@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:06:50.118Z",
+  "updatedAt": "2026-08-19T23:24:56.682Z",
   "items": [
     {
       "name": "deepseek-harness",
@@ -7787,6 +7787,878 @@
       "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
       "tool": "桌宠",
       "hot": 27
+    },
+    {
+      "name": "awesome-deepseek-harness-plugins",
+      "desc": "DeepSeek Harness（DSH）插件、工具、皮肤与扩展的中文精选清单。",
+      "url": "https://github.com/vvlife/awesome-deepseek-harness-plugins",
+      "category": "core",
+      "tags": [
+        "索引",
+        "清单"
+      ],
+      "icon": "📚",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "索引",
+      "hot": 30
+    },
+    {
+      "name": "acks-dsh-plugins",
+      "desc": "ACKS 的 DeepSeek Harness 插件库：AI Agent / 创意 / 知识 / 服务四类插件合集。",
+      "url": "https://github.com/shynloc/acks-dsh-plugins",
+      "category": "core",
+      "tags": [
+        "合集",
+        "插件库"
+      ],
+      "icon": "📦",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "合集",
+      "hot": 27
+    },
+    {
+      "name": "Oh-My-DSH",
+      "desc": "DeepSeek Harness 插件生态总览，每小时更新一次插件索引。",
+      "url": "https://github.com/NoWint/Oh-My-DSH",
+      "category": "core",
+      "tags": [
+        "生态",
+        "索引"
+      ],
+      "icon": "🐚",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "生态",
+      "hot": 31
+    },
+    {
+      "name": "dsh-plugin-store",
+      "desc": "DeepSeek Harness 原生插件市场：发现、筛选、安装并管理 2900+ 社区插件。",
+      "url": "https://github.com/sandbaseai/dsh-plugin-store",
+      "category": "core",
+      "tags": [
+        "市场",
+        "一键安装"
+      ],
+      "icon": "🏪",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "市场",
+      "hot": 27
+    },
+    {
+      "name": "sandbase-skills",
+      "desc": "88 个可安装的开源 Agent 技能包，兼容 Codex/Claude Code/Cursor/Gemini CLI 与 DeepSeek Harness。",
+      "url": "https://github.com/sandbaseai/sandbase-skills",
+      "category": "core",
+      "tags": [
+        "技能",
+        "合集",
+        "兼容"
+      ],
+      "icon": "🧩",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "技能包",
+      "hot": 33
+    },
+    {
+      "name": "dsh-turn-fold",
+      "desc": "为 DeepSeek Harness 提供 Codex 风格已完成回合折叠（dsh-harmony 驱动）。",
+      "url": "https://github.com/CH4ACKO3/dsh-turn-fold",
+      "category": "ui",
+      "tags": [
+        "折叠",
+        "回合"
+      ],
+      "icon": "📜",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-logcat",
+      "desc": "DSH Web GUI 的 Android Logcat 查看器：自动连接 adb、实时日志流、级别/关键词过滤与导出。",
+      "url": "https://github.com/WindyPro-rourou/dsh-logcat",
+      "category": "ui",
+      "tags": [
+        "Android",
+        "日志",
+        "调试"
+      ],
+      "icon": "📟",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-code-studio",
+      "desc": "DSH Web GUI 的 Code Studio：文件树 + 高亮编辑器 + Cline 风格行级 diff。",
+      "url": "https://github.com/WindyPro-rourou/dsh-code-studio",
+      "category": "ui",
+      "tags": [
+        "编辑器",
+        "diff"
+      ],
+      "icon": "💻",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "mddl-harness",
+      "desc": "DeepSeek Harness 可视化编排器：拖拽模型与工具到画布，导出真实 cordis.patch.yml 覆盖层。",
+      "url": "https://github.com/taltara/mddl-harness",
+      "category": "ui",
+      "tags": [
+        "编排",
+        "可视化"
+      ],
+      "icon": "🎛️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "编排",
+      "hot": 27
+    },
+    {
+      "name": "dsh-toolfold",
+      "desc": "DSH Web GUI 的 Codex 风格工具调用折叠。",
+      "url": "https://github.com/Minecraftbe/dsh-toolfold",
+      "category": "ui",
+      "tags": [
+        "折叠",
+        "工具调用"
+      ],
+      "icon": "🗂️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 28
+    },
+    {
+      "name": "dsh-brand-landingpage",
+      "desc": "DSH 技能：品牌落地页设计，从访谈到可部署 HTML。",
+      "url": "https://github.com/satan9394/dsh-brand-landingpage",
+      "category": "ui",
+      "tags": [
+        "落地页",
+        "设计"
+      ],
+      "icon": "🖼️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-hermit",
+      "desc": "Hermit（小寄）——基于 DeepSeek Harness 插件组合实现的常驻用户侧多模态交互中枢。",
+      "url": "https://github.com/jorinyang/dsh-hermit",
+      "category": "ui",
+      "tags": [
+        "多模态",
+        "交互"
+      ],
+      "icon": "🐾",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "多模态",
+      "hot": 27
+    },
+    {
+      "name": "balance-show",
+      "desc": "DSH Web GUI 的余额与用量卡片：DeepSeek 账户余额分级 + 实时单会话 Token 用量与成本。",
+      "url": "https://github.com/JavierNier/balance-show",
+      "category": "ui",
+      "tags": [
+        "余额",
+        "Token"
+      ],
+      "icon": "💳",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-usage-record",
+      "desc": "DSH Web 对话区左侧提问导航轨：横线=提问，点击跳转 + 鱼眼 + 滚动跟随。",
+      "url": "https://github.com/kkishapppy/dsh-usage-record",
+      "category": "ui",
+      "tags": [
+        "导航",
+        "会话"
+      ],
+      "icon": "🧭",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-webui-studio",
+      "desc": "面向交互式、可视化优先的 DSH 客户端插件开发 Studio。",
+      "url": "https://github.com/memorax-ai/dsh-webui-studio",
+      "category": "ui",
+      "tags": [
+        "开发",
+        "Studio"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "开发",
+      "hot": 27
+    },
+    {
+      "name": "dsh-prompt-stash",
+      "desc": "DeepSeek Harness Web 的本地、分对话提示词暂存架，临时存放未完成的想法。",
+      "url": "https://github.com/Wine-Red/dsh-prompt-stash",
+      "category": "ui",
+      "tags": [
+        "提示词",
+        "草稿"
+      ],
+      "icon": "📝",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 28
+    },
+    {
+      "name": "dsh-wayfinder",
+      "desc": "DSH 技能：大工程决策地图，决策票据逐个解析。",
+      "url": "https://github.com/satan9394/dsh-wayfinder",
+      "category": "agent",
+      "tags": [
+        "决策",
+        "地图"
+      ],
+      "icon": "🧭",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-to-questionnaire",
+      "desc": "DSH 技能：决策转问卷，提取他人知识。",
+      "url": "https://github.com/satan9394/dsh-to-questionnaire",
+      "category": "agent",
+      "tags": [
+        "问卷",
+        "知识提取"
+      ],
+      "icon": "📋",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-teach",
+      "desc": "DSH 技能：教学与讲解，教学工作区与合意困难。",
+      "url": "https://github.com/satan9394/dsh-teach",
+      "category": "agent",
+      "tags": [
+        "教学",
+        "讲解"
+      ],
+      "icon": "🎓",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-issue-triage",
+      "desc": "DSH 技能：Issue/PR 分流，状态机与简报。",
+      "url": "https://github.com/satan9394/dsh-issue-triage",
+      "category": "agent",
+      "tags": [
+        "Issue",
+        "PR",
+        "分流"
+      ],
+      "icon": "🏷️",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-full-stack-orchestration",
+      "desc": "DSH 技能：全栈功能编排，状态机与检查点。",
+      "url": "https://github.com/satan9394/dsh-full-stack-orchestration",
+      "category": "agent",
+      "tags": [
+        "编排",
+        "全栈"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-sales-automation",
+      "desc": "DSH 技能：销售自动化与客服，冷邮序列与异议处理。",
+      "url": "https://github.com/satan9394/dsh-sales-automation",
+      "category": "agent",
+      "tags": [
+        "销售",
+        "客服"
+      ],
+      "icon": "🤝",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-content-marketing",
+      "desc": "DSH 技能：内容营销，SEO 与多渠道分发。",
+      "url": "https://github.com/satan9394/dsh-content-marketing",
+      "category": "agent",
+      "tags": [
+        "营销",
+        "SEO"
+      ],
+      "icon": "📣",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-operating-kit",
+      "desc": "DSH 技能：会话操作纪律，开始简报与结束收尾。",
+      "url": "https://github.com/satan9394/dsh-operating-kit",
+      "category": "agent",
+      "tags": [
+        "操作纪律",
+        "简报"
+      ],
+      "icon": "🧰",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-track-driven-dev",
+      "desc": "DSH 技能：Track 驱动开发，spec/plan 与质量门。",
+      "url": "https://github.com/satan9394/dsh-track-driven-dev",
+      "category": "agent",
+      "tags": [
+        "Track",
+        "开发"
+      ],
+      "icon": "🛤️",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-x-twitter-research",
+      "desc": "DSH 技能：X/Twitter 研究，社交倾听与受控发帖。",
+      "url": "https://github.com/satan9394/dsh-x-twitter-research",
+      "category": "agent",
+      "tags": [
+        "Twitter",
+        "研究"
+      ],
+      "icon": "🐦",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ai-council",
+      "desc": "面向 DeepSeek Harness 的按角色驱动的企业级 AI 审议插件。",
+      "url": "https://github.com/AGSQ11/dsh-ai-council",
+      "category": "agent",
+      "tags": [
+        "审议",
+        "企业"
+      ],
+      "icon": "⚖️",
+      "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-writing-for-agents",
+      "desc": "DSH 技能：写给 agent 的文档，指针与信息层级。",
+      "url": "https://github.com/satan9394/dsh-writing-for-agents",
+      "category": "knowledge",
+      "tags": [
+        "文档",
+        "写作"
+      ],
+      "icon": "✍️",
+      "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-knowledge-graph",
+      "desc": "DSH Cordis 插件：将任意源文本转为 AI 知识图谱，图谱与原文双向链接。",
+      "url": "https://github.com/cwbcheng/dsh-knowledge-graph",
+      "category": "knowledge",
+      "tags": [
+        "知识图谱",
+        "双向链接"
+      ],
+      "icon": "🕸️",
+      "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
+      "tool": "Cordis",
+      "hot": 28
+    },
+    {
+      "name": "dsh-prototype",
+      "desc": "DSH 技能：原型验证，用可丢弃代码回答设计问题。",
+      "url": "https://github.com/satan9394/dsh-prototype",
+      "category": "tool",
+      "tags": [
+        "原型",
+        "验证"
+      ],
+      "icon": "🧪",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-codebase-design",
+      "desc": "DSH 技能：深模块设计，接口与接缝。",
+      "url": "https://github.com/satan9394/dsh-codebase-design",
+      "category": "tool",
+      "tags": [
+        "设计",
+        "模块"
+      ],
+      "icon": "🏗️",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-api-scaffolding",
+      "desc": "DSH 技能：FastAPI 脚手架，异步与分层结构。",
+      "url": "https://github.com/satan9394/dsh-api-scaffolding",
+      "category": "tool",
+      "tags": [
+        "FastAPI",
+        "脚手架"
+      ],
+      "icon": "🚀",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-web-scripting",
+      "desc": "DSH 技能：PHP/Ruby Web 开发，现代惯用法。",
+      "url": "https://github.com/satan9394/dsh-web-scripting",
+      "category": "tool",
+      "tags": [
+        "Web",
+        "PHP",
+        "Ruby"
+      ],
+      "icon": "🌐",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-api-documentation",
+      "desc": "DSH 技能：API 文档与开发者体验，OpenAPI 与门户。",
+      "url": "https://github.com/satan9394/dsh-api-documentation",
+      "category": "tool",
+      "tags": [
+        "API",
+        "文档"
+      ],
+      "icon": "📖",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-tech-debt",
+      "desc": "DSH 技能：技术债治理，审计与还债优先级。",
+      "url": "https://github.com/satan9394/dsh-tech-debt",
+      "category": "tool",
+      "tags": [
+        "技术债",
+        "审计"
+      ],
+      "icon": "🩹",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-functional-programming",
+      "desc": "DSH 技能：函数式编程，Elixir/OTP 与 Haskell 类型。",
+      "url": "https://github.com/satan9394/dsh-functional-programming",
+      "category": "tool",
+      "tags": [
+        "函数式",
+        "Elixir"
+      ],
+      "icon": "λ",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-distributed-debugging",
+      "desc": "DSH 技能：分布式排障，应急响应与根因分析。",
+      "url": "https://github.com/satan9394/dsh-distributed-debugging",
+      "category": "tool",
+      "tags": [
+        "排障",
+        "分布式"
+      ],
+      "icon": "🐛",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-observability-tools",
+      "desc": "DSH 技能：可观测性工具，Prometheus/Grafana/追踪。",
+      "url": "https://github.com/satan9394/dsh-observability-tools",
+      "category": "tool",
+      "tags": [
+        "可观测性",
+        "监控"
+      ],
+      "icon": "📈",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-dotnet-backend",
+      "desc": "DSH 技能：.NET 后端模式，Clean Architecture 与 EF Core。",
+      "url": "https://github.com/satan9394/dsh-dotnet-backend",
+      "category": "tool",
+      "tags": [
+        ".NET",
+        "后端"
+      ],
+      "icon": "🟦",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-kpi-dashboard-design",
+      "desc": "DSH 技能：KPI 仪表盘设计，指标选型与治理。",
+      "url": "https://github.com/satan9394/dsh-kpi-dashboard-design",
+      "category": "tool",
+      "tags": [
+        "KPI",
+        "仪表盘"
+      ],
+      "icon": "📊",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-bash-testing",
+      "desc": "DSH 技能：Shell 脚本测试，BATS 单元测试。",
+      "url": "https://github.com/satan9394/dsh-bash-testing",
+      "category": "tool",
+      "tags": [
+        "Shell",
+        "测试"
+      ],
+      "icon": "🐚",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-eval",
+      "desc": "DSH 技能：插件质量评估方法论，三层评估与改进。",
+      "url": "https://github.com/satan9394/dsh-plugin-eval",
+      "category": "tool",
+      "tags": [
+        "评估",
+        "质量"
+      ],
+      "icon": "🔬",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-framework-migration",
+      "desc": "DSH 技能：框架迁移，Angular/React 与依赖升级。",
+      "url": "https://github.com/satan9394/dsh-framework-migration",
+      "category": "tool",
+      "tags": [
+        "迁移",
+        "框架"
+      ],
+      "icon": "🔄",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-reverse-engineering",
+      "desc": "DSH 技能：逆向工程，二进制分析与取证。",
+      "url": "https://github.com/satan9394/dsh-reverse-engineering",
+      "category": "tool",
+      "tags": [
+        "逆向",
+        "取证"
+      ],
+      "icon": "🔍",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-kubernetes-operations",
+      "desc": "DSH 技能：Kubernetes 运维，Helm 与安全策略。",
+      "url": "https://github.com/satan9394/dsh-kubernetes-operations",
+      "category": "tool",
+      "tags": [
+        "K8s",
+        "运维"
+      ],
+      "icon": "☸️",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-data-engineering",
+      "desc": "DSH 技能：数据工程，Airflow/dbt/Spark。",
+      "url": "https://github.com/satan9394/dsh-data-engineering",
+      "category": "tool",
+      "tags": [
+        "数据工程",
+        "ETL"
+      ],
+      "icon": "🗄️",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-codebase-scanner",
+      "desc": "DSH 技能：代码库扫描，项目文档与漂移检测。",
+      "url": "https://github.com/satan9394/dsh-codebase-scanner",
+      "category": "tool",
+      "tags": [
+        "扫描",
+        "漂移"
+      ],
+      "icon": "📡",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugins",
+      "desc": "DeepSeek Harness 社区插件：首发一个 Harness 未自带的 Telegram 频道。",
+      "url": "https://github.com/iia-arg/dsh-plugins",
+      "category": "tool",
+      "tags": [
+        "Telegram",
+        "社区"
+      ],
+      "icon": "💬",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "连接",
+      "hot": 27
+    },
+    {
+      "name": "dsh-checkdigit",
+      "desc": "DeepSeek Harness 校验位数学工具箱：生成/校验 Luhn/Verhoeff/Damm/ISBN/EAN/IBAN 等。",
+      "url": "https://github.com/TYEclipse/dsh-checkdigit",
+      "category": "tool",
+      "tags": [
+        "校验位",
+        "数学"
+      ],
+      "icon": "🔢",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "工具",
+      "hot": 27
+    },
+    {
+      "name": "dsh-factor-mining-plugin",
+      "desc": "面向 DSH 的 Agent 化因子挖掘插件，适配 qwen 等小模型，核心包可独立运行。",
+      "url": "https://github.com/Rtyyy233/dsh-factor-mining-plugin",
+      "category": "tool",
+      "tags": [
+        "因子",
+        "量化"
+      ],
+      "icon": "📊",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "量化",
+      "hot": 27
+    },
+    {
+      "name": "dsh-llm-retry-infinite",
+      "desc": "为 DSH 提供更好的 LLM 重试处理。",
+      "url": "https://github.com/PineappleTwilight/dsh-llm-retry-infinite",
+      "category": "tool",
+      "tags": [
+        "重试",
+        "稳定性"
+      ],
+      "icon": "🔁",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "工具",
+      "hot": 27
+    },
+    {
+      "name": "dsh-backup",
+      "desc": "一键备份 DeepSeek Harness 用户数据：/backup、定时自动备份、sha256 校验与轮转。",
+      "url": "https://github.com/xiaoyuyu6420/dsh-backup",
+      "category": "tool",
+      "tags": [
+        "备份",
+        "运维"
+      ],
+      "icon": "💾",
+      "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "tool": "运维",
+      "hot": 28
+    },
+    {
+      "name": "dsh-ai-image-design",
+      "desc": "DSH 技能：AI 图像生成工作流，提示词与批量派生。",
+      "url": "https://github.com/satan9394/dsh-ai-image-design",
+      "category": "vision",
+      "tags": [
+        "图像",
+        "AIGC"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-git-guardrails",
+      "desc": "DSH 技能：Git 安全护栏，拦截危险命令。",
+      "url": "https://github.com/satan9394/dsh-git-guardrails",
+      "category": "security",
+      "tags": [
+        "Git",
+        "护栏"
+      ],
+      "icon": "🚧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-security-compliance",
+      "desc": "DSH 技能：安全审计与合规，DevSecOps 与框架。",
+      "url": "https://github.com/satan9394/dsh-security-compliance",
+      "category": "security",
+      "tags": [
+        "合规",
+        "审计"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-deployment-validation",
+      "desc": "DSH 技能：部署验证与配置管理，schema 与密钥扫描。",
+      "url": "https://github.com/satan9394/dsh-deployment-validation",
+      "category": "security",
+      "tags": [
+        "部署",
+        "密钥"
+      ],
+      "icon": "🚀",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-threat-modeling",
+      "desc": "DSH 技能：威胁建模，攻击树与 STRIDE。",
+      "url": "https://github.com/satan9394/dsh-threat-modeling",
+      "category": "security",
+      "tags": [
+        "威胁建模",
+        "STRIDE"
+      ],
+      "icon": "⚠️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-before-you-build",
+      "desc": "DSH 技能：建前风险预审，七维检查与最小验证。",
+      "url": "https://github.com/satan9394/dsh-before-you-build",
+      "category": "security",
+      "tags": [
+        "风险",
+        "预审"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-hr-legal-compliance",
+      "desc": "DSH 技能：HR 与法律合规，雇佣文档与 GDPR。",
+      "url": "https://github.com/satan9394/dsh-hr-legal-compliance",
+      "category": "security",
+      "tags": [
+        "HR",
+        "合规"
+      ],
+      "icon": "⚖️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "技能",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ankh-guard",
+      "desc": "防止 Agent 自我修改把服务改崩的守护插件：绿色构建凭证绑定 git HEAD，watchdog 重启 + canary 回滚。",
+      "url": "https://github.com/Khorsheed/dsh-ankh-guard",
+      "category": "security",
+      "tags": [
+        "守护",
+        "回滚"
+      ],
+      "icon": "🔐",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "守护",
+      "hot": 29
+    },
+    {
+      "name": "dsh-auto-approval-llm",
+      "desc": "为 DeepSeek Harness Auto 预设提供 LLM 辅助自动审批 + 超时兜底。",
+      "url": "https://github.com/cuddly-guacamole/dsh-auto-approval-llm",
+      "category": "security",
+      "tags": [
+        "自动审批",
+        "安全"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "审批",
+      "hot": 27
+    },
+    {
+      "name": "dsh-bgm",
+      "desc": "DSH 插件：把 AI 对话变成节奏游戏，开启你的 BGM！",
+      "url": "https://github.com/skymecode/dsh-bgm",
+      "category": "fun",
+      "tags": [
+        "节奏游戏",
+        "趣味"
+      ],
+      "icon": "🎵",
+      "bg": "linear-gradient(135deg, #ff6a00 0%, #ee0979 100%)",
+      "tool": "趣味",
+      "hot": 28
     }
   ],
   "categories": [

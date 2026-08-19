@@ -4,14 +4,13 @@
 >
 > 👈 **返回主站对应模块**：[DeepSeek Harness 插件库](https://soycodetrail.top/dsh-plugins)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-19 21:06:50
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-19 23:24:56
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
-- [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（561 个条目 / 8 个分类）
+## 📑 内容导航（623 个条目 / 8 个分类）
 
 - [🧭 核心引擎](#cat-核心引擎)
 - [🎨 界面与体验](#cat-界面与体验)
@@ -168,6 +167,16 @@
   标签：插件市场 / 一键安装 / 目录
 - [dsh-plugin-verify](https://github.com/qing3a/dsh-plugin-verify) — 验证 DSH 插件的 CLI：一条命令跑 mock-llm 完整 agent 循环，检查 waterfall 链与零副作用，产出验证报告。  
   标签：验证 / CLI / 测试
+- [awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) — DeepSeek Harness（DSH）插件、工具、皮肤与扩展的中文精选清单。  
+  标签：索引 / 清单
+- [acks-dsh-plugins](https://github.com/shynloc/acks-dsh-plugins) — ACKS 的 DeepSeek Harness 插件库：AI Agent / 创意 / 知识 / 服务四类插件合集。  
+  标签：合集 / 插件库
+- [Oh-My-DSH](https://github.com/NoWint/Oh-My-DSH) — DeepSeek Harness 插件生态总览，每小时更新一次插件索引。  
+  标签：生态 / 索引
+- [dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) — DeepSeek Harness 原生插件市场：发现、筛选、安装并管理 2900+ 社区插件。  
+  标签：市场 / 一键安装
+- [sandbase-skills](https://github.com/sandbaseai/sandbase-skills) — 88 个可安装的开源 Agent 技能包，兼容 Codex/Claude Code/Cursor/Gemini CLI 与 DeepSeek Harness。  
+  标签：技能 / 合集 / 兼容
 
 <a id="cat-界面与体验" name="cat-界面与体验"></a>
 
@@ -497,6 +506,28 @@
   标签：思考 / 总结 / 分段
 - [dsh-input-traffic](https://github.com/drscrewdriver/dsh-input-traffic) — 打断输入与下一轮插入不再二选一：支持红色打断插入、黄色下一轮插入、绿色逻辑完成后输入，并支持邻近高峰冻结会话。  
   标签：输入 / 打断 / 会话
+- [dsh-turn-fold](https://github.com/CH4ACKO3/dsh-turn-fold) — 为 DeepSeek Harness 提供 Codex 风格已完成回合折叠（dsh-harmony 驱动）。  
+  标签：折叠 / 回合
+- [dsh-logcat](https://github.com/WindyPro-rourou/dsh-logcat) — DSH Web GUI 的 Android Logcat 查看器：自动连接 adb、实时日志流、级别/关键词过滤与导出。  
+  标签：Android / 日志 / 调试
+- [dsh-code-studio](https://github.com/WindyPro-rourou/dsh-code-studio) — DSH Web GUI 的 Code Studio：文件树 + 高亮编辑器 + Cline 风格行级 diff。  
+  标签：编辑器 / diff
+- [mddl-harness](https://github.com/taltara/mddl-harness) — DeepSeek Harness 可视化编排器：拖拽模型与工具到画布，导出真实 cordis.patch.yml 覆盖层。  
+  标签：编排 / 可视化
+- [dsh-toolfold](https://github.com/Minecraftbe/dsh-toolfold) — DSH Web GUI 的 Codex 风格工具调用折叠。  
+  标签：折叠 / 工具调用
+- [dsh-brand-landingpage](https://github.com/satan9394/dsh-brand-landingpage) — DSH 技能：品牌落地页设计，从访谈到可部署 HTML。  
+  标签：落地页 / 设计
+- [dsh-hermit](https://github.com/jorinyang/dsh-hermit) — Hermit（小寄）——基于 DeepSeek Harness 插件组合实现的常驻用户侧多模态交互中枢。  
+  标签：多模态 / 交互
+- [balance-show](https://github.com/JavierNier/balance-show) — DSH Web GUI 的余额与用量卡片：DeepSeek 账户余额分级 + 实时单会话 Token 用量与成本。  
+  标签：余额 / Token
+- [dsh-usage-record](https://github.com/kkishapppy/dsh-usage-record) — DSH Web 对话区左侧提问导航轨：横线=提问，点击跳转 + 鱼眼 + 滚动跟随。  
+  标签：导航 / 会话
+- [dsh-webui-studio](https://github.com/memorax-ai/dsh-webui-studio) — 面向交互式、可视化优先的 DSH 客户端插件开发 Studio。  
+  标签：开发 / Studio
+- [dsh-prompt-stash](https://github.com/Wine-Red/dsh-prompt-stash) — DeepSeek Harness Web 的本地、分对话提示词暂存架，临时存放未完成的想法。  
+  标签：提示词 / 草稿
 
 <a id="cat-agent-与自动化" name="cat-agent-与自动化"></a>
 
@@ -620,6 +651,28 @@
   标签：任务 / Mission
 - [dsh-plugin-anti-rot](https://github.com/orangelightening/dsh-plugin-anti-rot) — DSH 插件：在冗长工具错误到达模型上下文前先压缩。  
   标签：压缩 / 错误 / 上下文
+- [dsh-wayfinder](https://github.com/satan9394/dsh-wayfinder) — DSH 技能：大工程决策地图，决策票据逐个解析。  
+  标签：决策 / 地图
+- [dsh-to-questionnaire](https://github.com/satan9394/dsh-to-questionnaire) — DSH 技能：决策转问卷，提取他人知识。  
+  标签：问卷 / 知识提取
+- [dsh-teach](https://github.com/satan9394/dsh-teach) — DSH 技能：教学与讲解，教学工作区与合意困难。  
+  标签：教学 / 讲解
+- [dsh-issue-triage](https://github.com/satan9394/dsh-issue-triage) — DSH 技能：Issue/PR 分流，状态机与简报。  
+  标签：Issue / PR / 分流
+- [dsh-full-stack-orchestration](https://github.com/satan9394/dsh-full-stack-orchestration) — DSH 技能：全栈功能编排，状态机与检查点。  
+  标签：编排 / 全栈
+- [dsh-sales-automation](https://github.com/satan9394/dsh-sales-automation) — DSH 技能：销售自动化与客服，冷邮序列与异议处理。  
+  标签：销售 / 客服
+- [dsh-content-marketing](https://github.com/satan9394/dsh-content-marketing) — DSH 技能：内容营销，SEO 与多渠道分发。  
+  标签：营销 / SEO
+- [dsh-operating-kit](https://github.com/satan9394/dsh-operating-kit) — DSH 技能：会话操作纪律，开始简报与结束收尾。  
+  标签：操作纪律 / 简报
+- [dsh-track-driven-dev](https://github.com/satan9394/dsh-track-driven-dev) — DSH 技能：Track 驱动开发，spec/plan 与质量门。  
+  标签：Track / 开发
+- [dsh-x-twitter-research](https://github.com/satan9394/dsh-x-twitter-research) — DSH 技能：X/Twitter 研究，社交倾听与受控发帖。  
+  标签：Twitter / 研究
+- [dsh-ai-council](https://github.com/AGSQ11/dsh-ai-council) — 面向 DeepSeek Harness 的按角色驱动的企业级 AI 审议插件。  
+  标签：审议 / 企业
 
 <a id="cat-记忆与知识" name="cat-记忆与知识"></a>
 
@@ -701,6 +754,10 @@
   标签：长期记忆
 - [dsh-workshpace-plugin](https://github.com/kaiqiangh/dsh-workshpace-plugin) — 检视 Agent 触碰过的文件、审查会话产物、预览边界内容、管理本地工作区记忆。  
   标签：工作区 / 记忆
+- [dsh-writing-for-agents](https://github.com/satan9394/dsh-writing-for-agents) — DSH 技能：写给 agent 的文档，指针与信息层级。  
+  标签：文档 / 写作
+- [dsh-knowledge-graph](https://github.com/cwbcheng/dsh-knowledge-graph) — DSH Cordis 插件：将任意源文本转为 AI 知识图谱，图谱与原文双向链接。  
+  标签：知识图谱 / 双向链接
 
 <a id="cat-工具与连接" name="cat-工具与连接"></a>
 
@@ -968,6 +1025,52 @@
   标签：用量 / API / 余额
 - [dsh-agent-shell](https://github.com/PastSheep/dsh-agent-shell) — Bash/cmd/shell 工具 + 命令记录 Shell 抽屉。  
   标签：Shell / 命令记录 / Bash
+- [dsh-prototype](https://github.com/satan9394/dsh-prototype) — DSH 技能：原型验证，用可丢弃代码回答设计问题。  
+  标签：原型 / 验证
+- [dsh-codebase-design](https://github.com/satan9394/dsh-codebase-design) — DSH 技能：深模块设计，接口与接缝。  
+  标签：设计 / 模块
+- [dsh-api-scaffolding](https://github.com/satan9394/dsh-api-scaffolding) — DSH 技能：FastAPI 脚手架，异步与分层结构。  
+  标签：FastAPI / 脚手架
+- [dsh-web-scripting](https://github.com/satan9394/dsh-web-scripting) — DSH 技能：PHP/Ruby Web 开发，现代惯用法。  
+  标签：Web / PHP / Ruby
+- [dsh-api-documentation](https://github.com/satan9394/dsh-api-documentation) — DSH 技能：API 文档与开发者体验，OpenAPI 与门户。  
+  标签：API / 文档
+- [dsh-tech-debt](https://github.com/satan9394/dsh-tech-debt) — DSH 技能：技术债治理，审计与还债优先级。  
+  标签：技术债 / 审计
+- [dsh-functional-programming](https://github.com/satan9394/dsh-functional-programming) — DSH 技能：函数式编程，Elixir/OTP 与 Haskell 类型。  
+  标签：函数式 / Elixir
+- [dsh-distributed-debugging](https://github.com/satan9394/dsh-distributed-debugging) — DSH 技能：分布式排障，应急响应与根因分析。  
+  标签：排障 / 分布式
+- [dsh-observability-tools](https://github.com/satan9394/dsh-observability-tools) — DSH 技能：可观测性工具，Prometheus/Grafana/追踪。  
+  标签：可观测性 / 监控
+- [dsh-dotnet-backend](https://github.com/satan9394/dsh-dotnet-backend) — DSH 技能：.NET 后端模式，Clean Architecture 与 EF Core。  
+  标签：.NET / 后端
+- [dsh-kpi-dashboard-design](https://github.com/satan9394/dsh-kpi-dashboard-design) — DSH 技能：KPI 仪表盘设计，指标选型与治理。  
+  标签：KPI / 仪表盘
+- [dsh-bash-testing](https://github.com/satan9394/dsh-bash-testing) — DSH 技能：Shell 脚本测试，BATS 单元测试。  
+  标签：Shell / 测试
+- [dsh-plugin-eval](https://github.com/satan9394/dsh-plugin-eval) — DSH 技能：插件质量评估方法论，三层评估与改进。  
+  标签：评估 / 质量
+- [dsh-framework-migration](https://github.com/satan9394/dsh-framework-migration) — DSH 技能：框架迁移，Angular/React 与依赖升级。  
+  标签：迁移 / 框架
+- [dsh-reverse-engineering](https://github.com/satan9394/dsh-reverse-engineering) — DSH 技能：逆向工程，二进制分析与取证。  
+  标签：逆向 / 取证
+- [dsh-kubernetes-operations](https://github.com/satan9394/dsh-kubernetes-operations) — DSH 技能：Kubernetes 运维，Helm 与安全策略。  
+  标签：K8s / 运维
+- [dsh-data-engineering](https://github.com/satan9394/dsh-data-engineering) — DSH 技能：数据工程，Airflow/dbt/Spark。  
+  标签：数据工程 / ETL
+- [dsh-codebase-scanner](https://github.com/satan9394/dsh-codebase-scanner) — DSH 技能：代码库扫描，项目文档与漂移检测。  
+  标签：扫描 / 漂移
+- [dsh-plugins](https://github.com/iia-arg/dsh-plugins) — DeepSeek Harness 社区插件：首发一个 Harness 未自带的 Telegram 频道。  
+  标签：Telegram / 社区
+- [dsh-checkdigit](https://github.com/TYEclipse/dsh-checkdigit) — DeepSeek Harness 校验位数学工具箱：生成/校验 Luhn/Verhoeff/Damm/ISBN/EAN/IBAN 等。  
+  标签：校验位 / 数学
+- [dsh-factor-mining-plugin](https://github.com/Rtyyy233/dsh-factor-mining-plugin) — 面向 DSH 的 Agent 化因子挖掘插件，适配 qwen 等小模型，核心包可独立运行。  
+  标签：因子 / 量化
+- [dsh-llm-retry-infinite](https://github.com/PineappleTwilight/dsh-llm-retry-infinite) — 为 DSH 提供更好的 LLM 重试处理。  
+  标签：重试 / 稳定性
+- [dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — 一键备份 DeepSeek Harness 用户数据：/backup、定时自动备份、sha256 校验与轮转。  
+  标签：备份 / 运维
 
 <a id="cat-多模态与视觉" name="cat-多模态与视觉"></a>
 
@@ -1015,6 +1118,8 @@
   标签：视觉 / 翻译 / VLM
 - [deepseek-visionary](https://github.com/xlight/deepseek-visionary) — 用 DeepSeek 官方多模态视觉模型让 Agent 不再眼瞎（支持 DSH、Zed、OpenCode、Codex、Claude Code、Cursor、Claude Desktop）。  
   标签：视觉 / 多模态 / DeepSeek
+- [dsh-ai-image-design](https://github.com/satan9394/dsh-ai-image-design) — DSH 技能：AI 图像生成工作流，提示词与批量派生。  
+  标签：图像 / AIGC
 
 <a id="cat-安全与运维" name="cat-安全与运维"></a>
 
@@ -1102,6 +1207,22 @@
   标签：安全 / allowlist / 网络
 - [dsh-server-deployment](https://github.com/AnkoCD/dsh-server-deployment) — DSH 多用户服务器部署：登录门户、每用户独立实例与 OS 级隔离、独立 API Key、交付文件抽屉（sudo 助手降权执行）。  
   标签：部署 / 多用户 / 隔离
+- [dsh-git-guardrails](https://github.com/satan9394/dsh-git-guardrails) — DSH 技能：Git 安全护栏，拦截危险命令。  
+  标签：Git / 护栏
+- [dsh-security-compliance](https://github.com/satan9394/dsh-security-compliance) — DSH 技能：安全审计与合规，DevSecOps 与框架。  
+  标签：合规 / 审计
+- [dsh-deployment-validation](https://github.com/satan9394/dsh-deployment-validation) — DSH 技能：部署验证与配置管理，schema 与密钥扫描。  
+  标签：部署 / 密钥
+- [dsh-threat-modeling](https://github.com/satan9394/dsh-threat-modeling) — DSH 技能：威胁建模，攻击树与 STRIDE。  
+  标签：威胁建模 / STRIDE
+- [dsh-before-you-build](https://github.com/satan9394/dsh-before-you-build) — DSH 技能：建前风险预审，七维检查与最小验证。  
+  标签：风险 / 预审
+- [dsh-hr-legal-compliance](https://github.com/satan9394/dsh-hr-legal-compliance) — DSH 技能：HR 与法律合规，雇佣文档与 GDPR。  
+  标签：HR / 合规
+- [dsh-ankh-guard](https://github.com/Khorsheed/dsh-ankh-guard) — 防止 Agent 自我修改把服务改崩的守护插件：绿色构建凭证绑定 git HEAD，watchdog 重启 + canary 回滚。  
+  标签：守护 / 回滚
+- [dsh-auto-approval-llm](https://github.com/cuddly-guacamole/dsh-auto-approval-llm) — 为 DeepSeek Harness Auto 预设提供 LLM 辅助自动审批 + 超时兜底。  
+  标签：自动审批 / 安全
 
 <a id="cat-趣味与社区" name="cat-趣味与社区"></a>
 
@@ -1185,6 +1306,8 @@
   标签：桌宠 / 宠物
 - [dsh-niulai-pet](https://github.com/whitefirer/dsh-niulai-pet) — 牛来桌宠：Agent 任务完成时蹦出来喊「妈～妈～」的 DSH 纯客户端桌宠插件（5 皮肤/签名动作/合成叫声）。  
   标签：桌宠 / 宠物 / 牛来
+- [dsh-bgm](https://github.com/skymecode/dsh-bgm) — DSH 插件：把 AI 对话变成节奏游戏，开启你的 BGM！  
+  标签：节奏游戏 / 趣味
 
 
 ---
