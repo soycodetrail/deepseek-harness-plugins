@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:09:10.140Z",
+  "updatedAt": "2026-08-27T01:00:05.514Z",
   "items": [
     {
       "name": "deepseek-harness",
@@ -16394,6 +16394,565 @@
       "icon": "🐾",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "社区",
+      "hot": 27
+    },
+    {
+      "name": "dsh-firecrawl",
+      "desc": "为 DeepSeek Harness ctx.web 提供 Firecrawl 网页搜索与 Markdown 抓取 provider。",
+      "url": "https://github.com/Lorodn4x/dsh-firecrawl",
+      "category": "tool",
+      "tags": [
+        "爬虫",
+        "搜索",
+        "web"
+      ],
+      "icon": "🔥",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "Provider",
+      "hot": 27
+    },
+    {
+      "name": "dsh-inline-diff",
+      "desc": "在 DeepSeek Harness 对话内直接显示文件编辑的内联 / 并排 diff，覆盖 edit/write 工具调用。",
+      "url": "https://github.com/JanEickholt/dsh-inline-diff",
+      "category": "ui",
+      "tags": [
+        "diff",
+        "文件",
+        "可视化"
+      ],
+      "icon": "🔀",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-stability-audit",
+      "desc": "扫描已安装的 dsh 插件并评估稳定性风险（hook 面、启动负载、preflight、依赖），可选隔离安装验证。",
+      "url": "https://github.com/chunfenxiazhi-collab/dsh-stability-audit",
+      "category": "security",
+      "tags": [
+        "审计",
+        "稳定性",
+        "依赖"
+      ],
+      "icon": "🔍",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "审计",
+      "hot": 28
+    },
+    {
+      "name": "dsh-ENHANCED",
+      "desc": "一站式增强：多引擎免费联网搜索、Skills/MCP 管理、自动压缩调参、实例 RESTART/SHUTDOWN 控制与主题。",
+      "url": "https://github.com/HIT-HTML/dsh-ENHANCED",
+      "category": "ui",
+      "tags": [
+        "增强",
+        "搜索",
+        "MCP",
+        "主题"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "合集",
+      "hot": 29
+    },
+    {
+      "name": "DeepGuard",
+      "desc": "DSH 插件安全审计：提交 issue 即可触发安全审计团队生成审计报告。",
+      "url": "https://github.com/SoberReport-AI/DeepGuard",
+      "category": "security",
+      "tags": [
+        "审计",
+        "安全",
+        "issue"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 28
+    },
+    {
+      "name": "dsh-turn-notify",
+      "desc": "DSH 插件：Agent 需要你时（回合完成、阻塞、报错、审批、提问、计划审阅）触发 Windows 弹窗与提示音。",
+      "url": "https://github.com/Ruiming-cn/dsh-turn-notify",
+      "category": "ui",
+      "tags": [
+        "通知",
+        "桌面",
+        "提醒"
+      ],
+      "icon": "🔔",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 28
+    },
+    {
+      "name": "dsh-ask-in-sidebar",
+      "desc": "在侧边栏基于当前会话上下文向助手提问所选内容，不干扰主对话。",
+      "url": "https://github.com/Ruiming-cn/dsh-ask-in-sidebar",
+      "category": "ui",
+      "tags": [
+        "侧边栏",
+        "问答"
+      ],
+      "icon": "💬",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "侧边栏",
+      "hot": 28
+    },
+    {
+      "name": "dsh-voice",
+      "desc": "DSH Web UI 语音消息：Edge TTS 朗读按钮 + Agent 发送语音便签。",
+      "url": "https://github.com/Lorodn4x/dsh-voice",
+      "category": "ui",
+      "tags": [
+        "语音",
+        "TTS"
+      ],
+      "icon": "🎙️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-web-restart",
+      "desc": "DeepSeek Harness Web UI 一键重启：设置页常驻确认按钮 + 实时状态点 + 分离式 Linux 重启器。",
+      "url": "https://github.com/bigfurma-bot/dsh-web-restart",
+      "category": "ui",
+      "tags": [
+        "重启",
+        "Web UI"
+      ],
+      "icon": "🔄",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-drop-any-file",
+      "desc": "DSH Web 聊天支持拖拽任意文件：非图片文件存入当前会话工作区供 Agent 读取。",
+      "url": "https://github.com/Zenjibad/dsh-drop-any-file",
+      "category": "ui",
+      "tags": [
+        "拖拽",
+        "文件",
+        "工作区"
+      ],
+      "icon": "📎",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-toggle",
+      "desc": "在设置 → 插件页直接启用 / 停用 DSH 插件，实时起停 loader 并持久化。",
+      "url": "https://github.com/Zenjibad/dsh-plugin-toggle",
+      "category": "tool",
+      "tags": [
+        "插件管理",
+        "设置"
+      ],
+      "icon": "🔘",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "设置",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mcp-toggle",
+      "desc": "在 DSH 设置页直接启用 / 停用 MCP 服务器，实时起停连接并持久化。",
+      "url": "https://github.com/Zenjibad/dsh-mcp-toggle",
+      "category": "tool",
+      "tags": [
+        "MCP",
+        "设置"
+      ],
+      "icon": "🔌",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "设置",
+      "hot": 27
+    },
+    {
+      "name": "llmtrim-stats-plugin",
+      "desc": "DSH Web UI 实时 llmtrim 节省看板：设置面板 + 输入框下方轮播统计条。",
+      "url": "https://github.com/Zenjibad/llmtrim-stats-plugin",
+      "category": "ui",
+      "tags": [
+        "Token",
+        "统计",
+        "压缩"
+      ],
+      "icon": "📊",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 28
+    },
+    {
+      "name": "dsh-omp-advisor",
+      "desc": "把 oh-my-pi 顾问子系统移植到 DSH：独立审查模型观察并建议（注入 nit、阻断 / 关切转向）。",
+      "url": "https://github.com/AndrasSama/dsh-omp-advisor",
+      "category": "agent",
+      "tags": [
+        "顾问",
+        "评审",
+        "review"
+      ],
+      "icon": "🧭",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "deepfusion",
+      "desc": "DSH × Reasonix 融合 Agent 引擎：DeepSeek 原生编排 + 前缀缓存优化。",
+      "url": "https://github.com/wpc725562-dotcom/deepfusion",
+      "category": "core",
+      "tags": [
+        "编排",
+        "推理",
+        "融合"
+      ],
+      "icon": "🔗",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "引擎",
+      "hot": 27
+    },
+    {
+      "name": "graph-memory",
+      "desc": "DSH/Openclaw 知识图谱记忆插件：从对话抽取结构化三元组，压缩上下文 75%，支持跨会话经验复用。",
+      "url": "https://github.com/adoresever/graph-memory",
+      "category": "knowledge",
+      "tags": [
+        "知识图谱",
+        "记忆",
+        "上下文"
+      ],
+      "icon": "🕸️",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 30
+    },
+    {
+      "name": "dsh-guarded-live-voice",
+      "desc": "带显式同意的实时语音：精确会话绑定 + 仅提案式 composer 交接。",
+      "url": "https://github.com/Jstn-1g/dsh-guarded-live-voice",
+      "category": "ui",
+      "tags": [
+        "语音",
+        "实时",
+        "隐私"
+      ],
+      "icon": "🎤",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mobile-ui",
+      "desc": "DSH Web UI 移动端布局适配：溢出自适应、底部抽屉、安全区处理。",
+      "url": "https://github.com/lan450/dsh-mobile-ui",
+      "category": "ui",
+      "tags": [
+        "移动端",
+        "响应式"
+      ],
+      "icon": "📱",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "Remote_DSH_Center",
+      "desc": "本地 / 远程 dsh web 实例的单页管理器与 CLI，支持 SSH 隧道。",
+      "url": "https://github.com/shendeguize/Remote_DSH_Center",
+      "category": "tool",
+      "tags": [
+        "远程",
+        "SSH",
+        "管理"
+      ],
+      "icon": "🖧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "管理",
+      "hot": 27
+    },
+    {
+      "name": "dsh-netdoctor",
+      "desc": "DSH 网络诊断工具箱：DNS 查询、ICMP ping、TCP 端口、TLS 证书、traceroute、WHOIS、公网 IP，零运行时依赖。",
+      "url": "https://github.com/TYEclipse/dsh-netdoctor",
+      "category": "tool",
+      "tags": [
+        "网络",
+        "诊断",
+        "运维"
+      ],
+      "icon": "🩺",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "运维",
+      "hot": 28
+    },
+    {
+      "name": "dsh-plugin-mnemosyne",
+      "desc": "DSH 错误记忆插件：从 Agent 自身失误中学习并阻断重复错误。",
+      "url": "https://github.com/xuviga/dsh-plugin-mnemosyne",
+      "category": "knowledge",
+      "tags": [
+        "记忆",
+        "错误",
+        "自愈"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-better-sidebar-lite",
+      "desc": "轻量改善 DSH Web 的 UX/UI 的侧边栏插件。",
+      "url": "https://github.com/pixellover1433/dsh-better-sidebar-lite",
+      "category": "ui",
+      "tags": [
+        "侧边栏",
+        "UX"
+      ],
+      "icon": "📐",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "侧边栏",
+      "hot": 29
+    },
+    {
+      "name": "dsh-llm-mlx",
+      "desc": "DSH 本地 MLX-LM 模型插件：默认仅回环、可选托管服务启动。",
+      "url": "https://github.com/robbywang25/dsh-llm-mlx",
+      "category": "tool",
+      "tags": [
+        "本地模型",
+        "MLX",
+        "Apple"
+      ],
+      "icon": "🍎",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "模型",
+      "hot": 27
+    },
+    {
+      "name": "dsh-liquid-glass-input",
+      "desc": "DSH Web GUI 液态玻璃输入卡片：SVG 折射 + 弹簧按压动画。",
+      "url": "https://github.com/jkamkk/dsh-liquid-glass-input",
+      "category": "ui",
+      "tags": [
+        "输入",
+        "玻璃拟态"
+      ],
+      "icon": "💎",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-visual-workbench",
+      "desc": "DSH 可视化工作台：Obsidian 式知识空间 + 本地 Comfy MCP 工作流。",
+      "url": "https://github.com/Destined-at-Dawn/dsh-visual-workbench",
+      "category": "tool",
+      "tags": [
+        "知识空间",
+        "Comfy",
+        "可视化"
+      ],
+      "icon": "🏗️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "工作台",
+      "hot": 27
+    },
+    {
+      "name": "genesis-agents/dsh-plugins",
+      "desc": "DeepSeek Harness 插件集：读取 72 个 feed 生成播客 / 摘要 / 报告，并支持 Serper/Tavily/Brave 联网搜索。",
+      "url": "https://github.com/genesis-agents/dsh-plugins",
+      "category": "core",
+      "tags": [
+        "合集",
+        "资讯",
+        "搜索"
+      ],
+      "icon": "📦",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "合集",
+      "hot": 27
+    },
+    {
+      "name": "dsh-trajectory-ablation",
+      "desc": "通过重建、diff 与消融 Agent 上下文，定位失败真正原因的 DSH 插件。",
+      "url": "https://github.com/Ardig24/dsh-trajectory-ablation",
+      "category": "agent",
+      "tags": [
+        "诊断",
+        "上下文",
+        "debug"
+      ],
+      "icon": "🔬",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "诊断",
+      "hot": 27
+    },
+    {
+      "name": "dsh-safe-tui",
+      "desc": "DSH 安全模式恢复控制台：极简 TUI、历史、修复、模型 / 供应商管理。",
+      "url": "https://github.com/aorucshiea/dsh-safe-tui",
+      "category": "ui",
+      "tags": [
+        "TUI",
+        "恢复",
+        "安全"
+      ],
+      "icon": "🛟",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "TUI",
+      "hot": 28
+    },
+    {
+      "name": "dsh-study-buddy",
+      "desc": "使用 DeepSeek Harness 进行学习与笔记的插件。",
+      "url": "https://github.com/V-Reason/dsh-study-buddy",
+      "category": "agent",
+      "tags": [
+        "学习",
+        "笔记"
+      ],
+      "icon": "📚",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "学习",
+      "hot": 27
+    },
+    {
+      "name": "dsh-approval-first",
+      "desc": "DSH 编辑 / 写入前审批：在 sandbox 会拒绝的变更前先请求用户确认。",
+      "url": "https://github.com/joao-paulo-santos/dsh-approval-first",
+      "category": "security",
+      "tags": [
+        "审批",
+        "安全",
+        "沙箱"
+      ],
+      "icon": "✅",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "awesome-dsh-plugins (dongsheng)",
+      "desc": "证据驱动的 DSH 插件雷达 + 2Origin 插件实验室。",
+      "url": "https://github.com/dongsheng123132/awesome-dsh-plugins",
+      "category": "core",
+      "tags": [
+        "索引",
+        "雷达"
+      ],
+      "icon": "📚",
+      "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
+      "tool": "索引",
+      "hot": 28
+    },
+    {
+      "name": "deepseek-harness-GUI",
+      "desc": "基于 Tauri 的 DeepSeek Harness 超轻量桌面版，支持升级内核与免安装便携版。",
+      "url": "https://github.com/festoney8/deepseek-harness-GUI",
+      "category": "ui",
+      "tags": [
+        "桌面",
+        "Tauri",
+        "便携"
+      ],
+      "icon": "🖥️",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "桌面",
+      "hot": 29
+    },
+    {
+      "name": "dsh-force-compact",
+      "desc": "为本地优先 Agent 做激进上下文压缩：自托管 llama.cpp 低上下文运行 Qwen3.8-27B 收缩历史，零 API 成本。",
+      "url": "https://github.com/falling-ts/dsh-force-compact",
+      "category": "tool",
+      "tags": [
+        "压缩",
+        "上下文",
+        "本地"
+      ],
+      "icon": "🗜️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "上下文",
+      "hot": 27
+    },
+    {
+      "name": "dsh-easy-start",
+      "desc": "DSH 浏览器生命周期管理：关闭浏览器时询问 / 保持服务、一键重启并自动刷新。",
+      "url": "https://github.com/aorucshiea/dsh-easy-start",
+      "category": "ui",
+      "tags": [
+        "生命周期",
+        "重启"
+      ],
+      "icon": "🚀",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-code-security",
+      "desc": "DSH 代码安全：13 个审计技能 + 5 个扫描工具预设，本地模型自动审计新插件，无需 API key。",
+      "url": "https://github.com/ihuajiu/dsh-code-security",
+      "category": "security",
+      "tags": [
+        "代码审计",
+        "安全",
+        "扫描"
+      ],
+      "icon": "🔐",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 28
+    },
+    {
+      "name": "dshline",
+      "desc": "DeepSeek Harness 插件生态的终端原生前端。",
+      "url": "https://github.com/riesbri/dshline",
+      "category": "ui",
+      "tags": [
+        "终端",
+        "TUI",
+        "前端"
+      ],
+      "icon": "💻",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "终端",
+      "hot": 28
+    },
+    {
+      "name": "dsh-russian-lang",
+      "desc": "DSH Web UI 俄语本地化：核心命名空间词典 + 语言列表新增俄语选项。",
+      "url": "https://github.com/GooDAnDReaDY/dsh-russian-lang",
+      "category": "ui",
+      "tags": [
+        "本地化",
+        "俄语"
+      ],
+      "icon": "🌐",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "本地化",
+      "hot": 27
+    },
+    {
+      "name": "dsh-remote-exec",
+      "desc": "DSH 的 SSH/MOSH/SAM 远程执行 provider：本地跑 Agent，远端执行命令。",
+      "url": "https://github.com/moreWax/dsh-remote-exec",
+      "category": "tool",
+      "tags": [
+        "SSH",
+        "远程执行",
+        "运维"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "运维",
       "hot": 27
     }
   ],

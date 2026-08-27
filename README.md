@@ -4,14 +4,14 @@
 >
 > 👈 **返回主站对应模块**：[DeepSeek Harness 插件库](https://soycodetrail.top/dsh-plugins)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-25 21:09:10
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-08-27 01:00:05
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
 - [Vibe Coding 作品展](https://github.com/soycodetrail/vibe-coding-gallery) · [主站模块 ↗](https://soycodetrail.top/vibe-coding) · [在线浏览 ↗](https://soycodetrail.github.io/vibe-coding-gallery/)
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 
-## 📑 内容导航（1127 个条目 / 8 个分类）
+## 📑 内容导航（1165 个条目 / 8 个分类）
 
 - [🧭 核心引擎](#cat-核心引擎)
 - [🎨 界面与体验](#cat-界面与体验)
@@ -252,6 +252,12 @@
   标签：市场 / 一键安装
 - [sandbase-skills](https://github.com/sandbaseai/sandbase-skills) — 88 个可安装的开源 Agent 技能包，兼容 Codex/Claude Code/Cursor/Gemini CLI 与 DeepSeek Harness。  
   标签：技能 / 合集 / 兼容
+- [deepfusion](https://github.com/wpc725562-dotcom/deepfusion) — DSH × Reasonix 融合 Agent 引擎：DeepSeek 原生编排 + 前缀缓存优化。  
+  标签：编排 / 推理 / 融合
+- [genesis-agents/dsh-plugins](https://github.com/genesis-agents/dsh-plugins) — DeepSeek Harness 插件集：读取 72 个 feed 生成播客 / 摘要 / 报告，并支持 Serper/Tavily/Brave 联网搜索。  
+  标签：合集 / 资讯 / 搜索
+- [awesome-dsh-plugins (dongsheng)](https://github.com/dongsheng123132/awesome-dsh-plugins) — 证据驱动的 DSH 插件雷达 + 2Origin 插件实验室。  
+  标签：索引 / 雷达
 
 <a id="cat-界面与体验" name="cat-界面与体验"></a>
 
@@ -853,6 +859,40 @@
   标签：开发 / Studio
 - [dsh-prompt-stash](https://github.com/Wine-Red/dsh-prompt-stash) — DeepSeek Harness Web 的本地、分对话提示词暂存架，临时存放未完成的想法。  
   标签：提示词 / 草稿
+- [dsh-inline-diff](https://github.com/JanEickholt/dsh-inline-diff) — 在 DeepSeek Harness 对话内直接显示文件编辑的内联 / 并排 diff，覆盖 edit/write 工具调用。  
+  标签：diff / 文件 / 可视化
+- [dsh-ENHANCED](https://github.com/HIT-HTML/dsh-ENHANCED) — 一站式增强：多引擎免费联网搜索、Skills/MCP 管理、自动压缩调参、实例 RESTART/SHUTDOWN 控制与主题。  
+  标签：增强 / 搜索 / MCP / 主题
+- [dsh-turn-notify](https://github.com/Ruiming-cn/dsh-turn-notify) — DSH 插件：Agent 需要你时（回合完成、阻塞、报错、审批、提问、计划审阅）触发 Windows 弹窗与提示音。  
+  标签：通知 / 桌面 / 提醒
+- [dsh-ask-in-sidebar](https://github.com/Ruiming-cn/dsh-ask-in-sidebar) — 在侧边栏基于当前会话上下文向助手提问所选内容，不干扰主对话。  
+  标签：侧边栏 / 问答
+- [dsh-voice](https://github.com/Lorodn4x/dsh-voice) — DSH Web UI 语音消息：Edge TTS 朗读按钮 + Agent 发送语音便签。  
+  标签：语音 / TTS
+- [dsh-web-restart](https://github.com/bigfurma-bot/dsh-web-restart) — DeepSeek Harness Web UI 一键重启：设置页常驻确认按钮 + 实时状态点 + 分离式 Linux 重启器。  
+  标签：重启 / Web UI
+- [dsh-drop-any-file](https://github.com/Zenjibad/dsh-drop-any-file) — DSH Web 聊天支持拖拽任意文件：非图片文件存入当前会话工作区供 Agent 读取。  
+  标签：拖拽 / 文件 / 工作区
+- [llmtrim-stats-plugin](https://github.com/Zenjibad/llmtrim-stats-plugin) — DSH Web UI 实时 llmtrim 节省看板：设置面板 + 输入框下方轮播统计条。  
+  标签：Token / 统计 / 压缩
+- [dsh-guarded-live-voice](https://github.com/Jstn-1g/dsh-guarded-live-voice) — 带显式同意的实时语音：精确会话绑定 + 仅提案式 composer 交接。  
+  标签：语音 / 实时 / 隐私
+- [dsh-mobile-ui](https://github.com/lan450/dsh-mobile-ui) — DSH Web UI 移动端布局适配：溢出自适应、底部抽屉、安全区处理。  
+  标签：移动端 / 响应式
+- [dsh-better-sidebar-lite](https://github.com/pixellover1433/dsh-better-sidebar-lite) — 轻量改善 DSH Web 的 UX/UI 的侧边栏插件。  
+  标签：侧边栏 / UX
+- [dsh-liquid-glass-input](https://github.com/jkamkk/dsh-liquid-glass-input) — DSH Web GUI 液态玻璃输入卡片：SVG 折射 + 弹簧按压动画。  
+  标签：输入 / 玻璃拟态
+- [dsh-safe-tui](https://github.com/aorucshiea/dsh-safe-tui) — DSH 安全模式恢复控制台：极简 TUI、历史、修复、模型 / 供应商管理。  
+  标签：TUI / 恢复 / 安全
+- [deepseek-harness-GUI](https://github.com/festoney8/deepseek-harness-GUI) — 基于 Tauri 的 DeepSeek Harness 超轻量桌面版，支持升级内核与免安装便携版。  
+  标签：桌面 / Tauri / 便携
+- [dsh-easy-start](https://github.com/aorucshiea/dsh-easy-start) — DSH 浏览器生命周期管理：关闭浏览器时询问 / 保持服务、一键重启并自动刷新。  
+  标签：生命周期 / 重启
+- [dshline](https://github.com/riesbri/dshline) — DeepSeek Harness 插件生态的终端原生前端。  
+  标签：终端 / TUI / 前端
+- [dsh-russian-lang](https://github.com/GooDAnDReaDY/dsh-russian-lang) — DSH Web UI 俄语本地化：核心命名空间词典 + 语言列表新增俄语选项。  
+  标签：本地化 / 俄语
 
 <a id="cat-agent-与自动化" name="cat-agent-与自动化"></a>
 
@@ -1204,6 +1244,12 @@
   标签：Twitter / 研究
 - [dsh-ai-council](https://github.com/AGSQ11/dsh-ai-council) — 面向 DeepSeek Harness 的按角色驱动的企业级 AI 审议插件。  
   标签：审议 / 企业
+- [dsh-omp-advisor](https://github.com/AndrasSama/dsh-omp-advisor) — 把 oh-my-pi 顾问子系统移植到 DSH：独立审查模型观察并建议（注入 nit、阻断 / 关切转向）。  
+  标签：顾问 / 评审 / review
+- [dsh-trajectory-ablation](https://github.com/Ardig24/dsh-trajectory-ablation) — 通过重建、diff 与消融 Agent 上下文，定位失败真正原因的 DSH 插件。  
+  标签：诊断 / 上下文 / debug
+- [dsh-study-buddy](https://github.com/V-Reason/dsh-study-buddy) — 使用 DeepSeek Harness 进行学习与笔记的插件。  
+  标签：学习 / 笔记
 
 <a id="cat-记忆与知识" name="cat-记忆与知识"></a>
 
@@ -1355,6 +1401,10 @@
   标签：文档 / 写作
 - [dsh-knowledge-graph](https://github.com/cwbcheng/dsh-knowledge-graph) — DSH Cordis 插件：将任意源文本转为 AI 知识图谱，图谱与原文双向链接。  
   标签：知识图谱 / 双向链接
+- [graph-memory](https://github.com/adoresever/graph-memory) — DSH/Openclaw 知识图谱记忆插件：从对话抽取结构化三元组，压缩上下文 75%，支持跨会话经验复用。  
+  标签：知识图谱 / 记忆 / 上下文
+- [dsh-plugin-mnemosyne](https://github.com/xuviga/dsh-plugin-mnemosyne) — DSH 错误记忆插件：从 Agent 自身失误中学习并阻断重复错误。  
+  标签：记忆 / 错误 / 自愈
 
 <a id="cat-工具与连接" name="cat-工具与连接"></a>
 
@@ -1918,6 +1968,24 @@
   标签：重试 / 稳定性
 - [dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — 一键备份 DeepSeek Harness 用户数据：/backup、定时自动备份、sha256 校验与轮转。  
   标签：备份 / 运维
+- [dsh-firecrawl](https://github.com/Lorodn4x/dsh-firecrawl) — 为 DeepSeek Harness ctx.web 提供 Firecrawl 网页搜索与 Markdown 抓取 provider。  
+  标签：爬虫 / 搜索 / web
+- [dsh-plugin-toggle](https://github.com/Zenjibad/dsh-plugin-toggle) — 在设置 → 插件页直接启用 / 停用 DSH 插件，实时起停 loader 并持久化。  
+  标签：插件管理 / 设置
+- [dsh-mcp-toggle](https://github.com/Zenjibad/dsh-mcp-toggle) — 在 DSH 设置页直接启用 / 停用 MCP 服务器，实时起停连接并持久化。  
+  标签：MCP / 设置
+- [Remote_DSH_Center](https://github.com/shendeguize/Remote_DSH_Center) — 本地 / 远程 dsh web 实例的单页管理器与 CLI，支持 SSH 隧道。  
+  标签：远程 / SSH / 管理
+- [dsh-netdoctor](https://github.com/TYEclipse/dsh-netdoctor) — DSH 网络诊断工具箱：DNS 查询、ICMP ping、TCP 端口、TLS 证书、traceroute、WHOIS、公网 IP，零运行时依赖。  
+  标签：网络 / 诊断 / 运维
+- [dsh-llm-mlx](https://github.com/robbywang25/dsh-llm-mlx) — DSH 本地 MLX-LM 模型插件：默认仅回环、可选托管服务启动。  
+  标签：本地模型 / MLX / Apple
+- [dsh-visual-workbench](https://github.com/Destined-at-Dawn/dsh-visual-workbench) — DSH 可视化工作台：Obsidian 式知识空间 + 本地 Comfy MCP 工作流。  
+  标签：知识空间 / Comfy / 可视化
+- [dsh-force-compact](https://github.com/falling-ts/dsh-force-compact) — 为本地优先 Agent 做激进上下文压缩：自托管 llama.cpp 低上下文运行 Qwen3.8-27B 收缩历史，零 API 成本。  
+  标签：压缩 / 上下文 / 本地
+- [dsh-remote-exec](https://github.com/moreWax/dsh-remote-exec) — DSH 的 SSH/MOSH/SAM 远程执行 provider：本地跑 Agent，远端执行命令。  
+  标签：SSH / 远程执行 / 运维
 
 <a id="cat-多模态与视觉" name="cat-多模态与视觉"></a>
 
@@ -2210,6 +2278,14 @@
   标签：守护 / 回滚
 - [dsh-auto-approval-llm](https://github.com/cuddly-guacamole/dsh-auto-approval-llm) — 为 DeepSeek Harness Auto 预设提供 LLM 辅助自动审批 + 超时兜底。  
   标签：自动审批 / 安全
+- [dsh-stability-audit](https://github.com/chunfenxiazhi-collab/dsh-stability-audit) — 扫描已安装的 dsh 插件并评估稳定性风险（hook 面、启动负载、preflight、依赖），可选隔离安装验证。  
+  标签：审计 / 稳定性 / 依赖
+- [DeepGuard](https://github.com/SoberReport-AI/DeepGuard) — DSH 插件安全审计：提交 issue 即可触发安全审计团队生成审计报告。  
+  标签：审计 / 安全 / issue
+- [dsh-approval-first](https://github.com/joao-paulo-santos/dsh-approval-first) — DSH 编辑 / 写入前审批：在 sandbox 会拒绝的变更前先请求用户确认。  
+  标签：审批 / 安全 / 沙箱
+- [dsh-code-security](https://github.com/ihuajiu/dsh-code-security) — DSH 代码安全：13 个审计技能 + 5 个扫描工具预设，本地模型自动审计新插件，无需 API key。  
+  标签：代码审计 / 安全 / 扫描
 
 <a id="cat-趣味与社区" name="cat-趣味与社区"></a>
 
