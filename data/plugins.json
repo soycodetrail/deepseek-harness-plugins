@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:10:00.414Z",
+  "updatedAt": "2026-09-03T01:06:01.824Z",
   "items": [
     {
       "name": "dsh-go",
@@ -27329,6 +27329,141 @@
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "Web UI",
       "hot": 27
+    },
+    {
+      "name": "dsh-v-token-insight",
+      "desc": "DSH Token 用量洞察插件：可视化展示每次请求的 token 消耗与成本。",
+      "url": "https://github.com/victor10035445/dsh-v-token-insight",
+      "category": "tool",
+      "tags": [
+        "Token",
+        "观测",
+        "成本"
+      ],
+      "icon": "💡",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "观测",
+      "hot": 24
+    },
+    {
+      "name": "dsh-subagent-router",
+      "desc": "DSH 子代理模型路由插件：按任务档位自动选择模型，支持失败升级与可审计路由。",
+      "url": "https://github.com/NinjaSln-labs/dsh-subagent-router",
+      "category": "agent",
+      "tags": [
+        "子代理",
+        "路由",
+        "模型"
+      ],
+      "icon": "🔀",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "路由",
+      "hot": 27
+    },
+    {
+      "name": "dsh-theme-win98",
+      "desc": "DeepSeek Harness Web 的 Windows 98 复古主题插件。",
+      "url": "https://github.com/FourTow/dsh-theme-win98",
+      "category": "ui",
+      "tags": [
+        "主题",
+        "复古",
+        "Web"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "主题",
+      "hot": 26
+    },
+    {
+      "name": "prompt-skill-armory",
+      "desc": "DeepSeek Harness 提示词、技能与 MCP 工具统一管理插件（含壁纸）。",
+      "url": "https://github.com/Qian-Ning/prompt-skill-armory",
+      "category": "knowledge",
+      "tags": [
+        "提示词",
+        "技能",
+        "MCP"
+      ],
+      "icon": "🗡️",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "技能",
+      "hot": 26
+    },
+    {
+      "name": "dsh-shadow-auditor",
+      "desc": "DSH 后台安全审计插件：密钥泄漏检测与命令安全检查。",
+      "url": "https://github.com/GooDAnDReaDY/dsh-shadow-auditor",
+      "category": "security",
+      "tags": [
+        "安全",
+        "审计",
+        "密钥"
+      ],
+      "icon": "🕵️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "审计",
+      "hot": 27
+    },
+    {
+      "name": "subagent-model-picker",
+      "desc": "DSH 插件：主会话从已配置模型里自主选择子代理运行模型，并提供配置卡片维护能力描述。",
+      "url": "https://github.com/cczzyy-cn/subagent-model-picker",
+      "category": "agent",
+      "tags": [
+        "子代理",
+        "模型",
+        "路由"
+      ],
+      "icon": "🎚️",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "路由",
+      "hot": 27
+    },
+    {
+      "name": "dsh-time-machine",
+      "desc": "DSH 智能快照插件：工作区安全护栏与一键回滚。",
+      "url": "https://github.com/GooDAnDReaDY/dsh-time-machine",
+      "category": "security",
+      "tags": [
+        "快照",
+        "回滚",
+        "安全"
+      ],
+      "icon": "🕰️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-context-lens",
+      "desc": "DSH 上下文压缩插件：AST 上下文压缩、测试日志过滤与 token 预算护栏。",
+      "url": "https://github.com/GooDAnDReaDY/dsh-context-lens",
+      "category": "knowledge",
+      "tags": [
+        "上下文",
+        "压缩",
+        "Token"
+      ],
+      "icon": "🔍",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "压缩",
+      "hot": 27
+    },
+    {
+      "name": "dsh-playwright",
+      "desc": "基于 Playwright 的 DSH 浏览器自动化插件，支持 browser-use。",
+      "url": "https://github.com/whklwhkl/dsh-playwright",
+      "category": "tool",
+      "tags": [
+        "浏览器",
+        "自动化",
+        "Playwright"
+      ],
+      "icon": "🌐",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "自动化",
+      "hot": 26
     }
   ],
   "categories": [

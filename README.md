@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[DeepSeek Harness 插件库](https://soycodetrail.top/dsh-plugins)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-02 21:10:00
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-03 01:06:01
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -12,7 +12,7 @@
 - [AI 技能工坊](https://github.com/soycodetrail/ai-skills-workshop) · [主站模块 ↗](https://soycodetrail.top/skills) · [在线浏览 ↗](https://soycodetrail.github.io/ai-skills-workshop/)
 - [开源书籍宝库](https://github.com/soycodetrail/ai-books-treasury) · [主站模块 ↗](https://soycodetrail.top/books) · [在线浏览 ↗](https://soycodetrail.github.io/ai-books-treasury/)
 
-## 📑 内容导航（1903 个条目 / 8 个分类）
+## 📑 内容导航（1912 个条目 / 8 个分类）
 
 - [🧭 核心引擎](#cat-核心引擎)
 - [🎨 界面与体验](#cat-界面与体验)
@@ -1440,6 +1440,8 @@
   标签：插件
 - [dsh-session-lab](https://github.com/zhangguiping-xydt/dsh-session-lab) — DeepSeek Harness session teaching, evidence capsules, and controlled trajectory comparison  
   标签：插件
+- [dsh-theme-win98](https://github.com/FourTow/dsh-theme-win98) — DeepSeek Harness Web 的 Windows 98 复古主题插件。  
+  标签：主题 / 复古 / Web
 
 <a id="cat-agent-与自动化" name="cat-agent-与自动化"></a>
 
@@ -1953,6 +1955,10 @@
   标签：插件
 - [dsh-plugin-better-glob](https://github.com/HuanLinOTO/dsh-plugin-better-glob) — 以 per-agent 阴影顶替内置 glob：自动排除无底洞目录（node_modules 等），传 include 白名单才能搜入 | Shadows the built-in glob per agent: auto-excludes bottomless directories (node_modules et  
   标签：Agent / 搜索
+- [dsh-subagent-router](https://github.com/NinjaSln-labs/dsh-subagent-router) — DSH 子代理模型路由插件：按任务档位自动选择模型，支持失败升级与可审计路由。  
+  标签：子代理 / 路由 / 模型
+- [subagent-model-picker](https://github.com/cczzyy-cn/subagent-model-picker) — DSH 插件：主会话从已配置模型里自主选择子代理运行模型，并提供配置卡片维护能力描述。  
+  标签：子代理 / 模型 / 路由
 
 <a id="cat-记忆与知识" name="cat-记忆与知识"></a>
 
@@ -2210,6 +2216,10 @@
   标签：插件
 - [dsh-meow-memory](https://github.com/Phant0Meow/dsh-meow-memory) — Cross-session memory plugin for DeepSeek Harness: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules), BM25 retrieval, per-window dream consoli  
   标签：记忆 / 插件
+- [prompt-skill-armory](https://github.com/Qian-Ning/prompt-skill-armory) — DeepSeek Harness 提示词、技能与 MCP 工具统一管理插件（含壁纸）。  
+  标签：提示词 / 技能 / MCP
+- [dsh-context-lens](https://github.com/GooDAnDReaDY/dsh-context-lens) — DSH 上下文压缩插件：AST 上下文压缩、测试日志过滤与 token 预算护栏。  
+  标签：上下文 / 压缩 / Token
 
 <a id="cat-工具与连接" name="cat-工具与连接"></a>
 
@@ -3217,6 +3227,10 @@
   标签：Web
 - [dsh-session-sight](https://github.com/Yidien/dsh-session-sight) — DeepSeek Harness 会话「看清再动手」外挂：归档/彻底删除（系统回收站）+ 会话内容只读预览（Markdown），零依赖、不 patch 官方。  
   标签：插件
+- [dsh-v-token-insight](https://github.com/victor10035445/dsh-v-token-insight) — DSH Token 用量洞察插件：可视化展示每次请求的 token 消耗与成本。  
+  标签：Token / 观测 / 成本
+- [dsh-playwright](https://github.com/whklwhkl/dsh-playwright) — 基于 Playwright 的 DSH 浏览器自动化插件，支持 browser-use。  
+  标签：浏览器 / 自动化 / Playwright
 
 <a id="cat-多模态与视觉" name="cat-多模态与视觉"></a>
 
@@ -3733,6 +3747,10 @@
   标签：插件
 - [awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) — A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.  
   标签：插件
+- [dsh-shadow-auditor](https://github.com/GooDAnDReaDY/dsh-shadow-auditor) — DSH 后台安全审计插件：密钥泄漏检测与命令安全检查。  
+  标签：安全 / 审计 / 密钥
+- [dsh-time-machine](https://github.com/GooDAnDReaDY/dsh-time-machine) — DSH 智能快照插件：工作区安全护栏与一键回滚。  
+  标签：快照 / 回滚 / 安全
 
 <a id="cat-趣味与社区" name="cat-趣味与社区"></a>
 
