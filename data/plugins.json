@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:15:10.343Z",
+  "updatedAt": "2026-09-05T04:37:32.285Z",
   "items": [
     {
       "name": "dsh-go",
@@ -41,7 +41,7 @@
         "HMR",
         "DevKit"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "开发",
       "hot": 27
@@ -71,7 +71,7 @@
         "实验",
         "预设"
       ],
-      "icon": "🐳",
+      "icon": "⚡",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "运行时",
       "hot": 27
@@ -210,7 +210,7 @@
         "开发",
         "技能"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "脚手架",
       "hot": 25
@@ -278,7 +278,7 @@
       "tags": [
         "运行时"
       ],
-      "icon": "🐳",
+      "icon": "⚡",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "运行时",
       "hot": 25
@@ -411,7 +411,7 @@
         "桌面",
         "终端"
       ],
-      "icon": " ",
+      "icon": "📦",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "发行版",
       "hot": 28
@@ -1537,7 +1537,7 @@
         "管理",
         "Web"
       ],
-      "icon": "🐳",
+      "icon": "📋",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -1937,7 +1937,7 @@
         "皮肤",
         "桌面宠物"
       ],
-      "icon": " ",
+      "icon": "🐳",
       "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
       "tool": "皮肤",
       "hot": 10
@@ -2070,7 +2070,7 @@
         "计划",
         "批注"
       ],
-      "icon": "🐳",
+      "icon": "📋",
       "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
       "tool": "Web UI",
       "hot": 10
@@ -2096,7 +2096,7 @@
       "tags": [
         "输入"
       ],
-      "icon": "🐳",
+      "icon": "📋",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "Web UI",
       "hot": 10
@@ -2488,7 +2488,7 @@
       "tags": [
         "皮肤"
       ],
-      "icon": "🐳",
+      "icon": "⚡",
       "bg": "linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%)",
       "tool": "皮肤",
       "hot": 10
@@ -2596,7 +2596,7 @@
         "Agent",
         "管理"
       ],
-      "icon": "🐳",
+      "icon": "📋",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "看板",
       "hot": 27
@@ -4738,7 +4738,7 @@
     },
     {
       "name": "dsh-luban",
-      "desc": "️ Custom workbench plugin suite for DeepSeek Harness (DSH) — LAN auth, task board, SSH + tmux keep-alive, shared Windows/Ubuntu sessions, context HUD & serial/debug tooling. Built for embedded devs: Windows debug box + LAN Ubuntu build server. Monorepo of dsh-luban-* plugins.",
+      "desc": "🛠️ Custom workbench plugin suite for DeepSeek Harness (DSH) — LAN auth, task board, SSH + tmux keep-alive, shared Windows/Ubuntu sessions, context HUD & serial/debug tooling. Built for embedded devs: Windows debug box + LAN Ubuntu build server. Monorepo of dsh-luban-* plugins.",
       "url": "https://github.com/yin52133/dsh-luban",
       "category": "ui",
       "tags": [
@@ -5262,7 +5262,7 @@
         "契约",
         "认证"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
       "tool": "Agent",
       "hot": 27
@@ -5401,7 +5401,7 @@
       "tags": [
         "工程"
       ],
-      "icon": "🐳",
+      "icon": "⭐",
       "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
       "tool": "Agent",
       "hot": 10
@@ -5506,7 +5506,7 @@
       "tags": [
         "审批"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #4776e6 0%, #8e54e9 100%)",
       "tool": "审批",
       "hot": 10
@@ -5610,7 +5610,7 @@
       "tags": [
         "交付"
       ],
-      "icon": " ",
+      "icon": "📦",
       "bg": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
       "tool": "交付",
       "hot": 10
@@ -5758,7 +5758,7 @@
     },
     {
       "name": "dsh-mattpocock-skills-deck",
-      "desc": "拨开迷雾看见终点，剩下的交给任务栏。Part the fog, see the end — the task bar handles the rest. 🎮 mattpocock/skills 的 DSH 游戏任务系统：map 拨迷雾，任务栏推进一步。A game-like mission system for Matt Pocock skills in DeepSeek Harness. More by @FeatherHunter: 🎨 dsh-opencode-palette ·  dsh-prompt",
+      "desc": "拨开迷雾看见终点，剩下的交给任务栏。Part the fog, see the end — the task bar handles the rest. 🎮 mattpocock/skills 的 DSH 游戏任务系统：map 拨迷雾，任务栏推进一步。A game-like mission system for Matt Pocock skills in DeepSeek Harness. More by @FeatherHunter: 🎨 dsh-opencode-palette · ⚡ dsh-prompt",
       "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
       "category": "agent",
       "tags": [
@@ -7796,7 +7796,7 @@
         "mtm",
         "插件"
       ],
-      "icon": " ",
+      "icon": "📦",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "移植",
       "hot": 27
@@ -8047,7 +8047,7 @@
         "自定义",
         "沙箱"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #ffb347 0%, #ffcc33 100%)",
       "tool": "沙箱",
       "hot": 35
@@ -8351,7 +8351,7 @@
       "tags": [
         "沙箱"
       ],
-      "icon": " ",
+      "icon": "📦",
       "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
       "tool": "沙箱",
       "hot": 25
@@ -8390,7 +8390,7 @@
       "tags": [
         "审批"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
       "tool": "审批",
       "hot": 10
@@ -8508,7 +8508,7 @@
       "tags": [
         "沙箱"
       ],
-      "icon": " ",
+      "icon": "📦",
       "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
       "tool": "沙箱",
       "hot": 25
@@ -9156,7 +9156,7 @@
         "工作台",
         "Workbench"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "工作台",
       "hot": 32
@@ -9185,7 +9185,7 @@
         "LLM",
         "奖励"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
       "tool": "验证",
       "hot": 27
@@ -9290,7 +9290,7 @@
         "Dsh",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9306,7 +9306,7 @@
         "chime",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9322,7 +9322,7 @@
         "process",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9338,7 +9338,7 @@
         "local-first",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 30
@@ -9354,7 +9354,7 @@
         "Deepseek",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -9386,7 +9386,7 @@
         "settings",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9401,7 +9401,7 @@
         "Way",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9455,7 +9455,7 @@
     },
     {
       "name": "dsh-thunderforge",
-      "desc": " ThunderForge — 励志做 0 元以内最 nb 的 DSH 插件（产品目标）：一站式 DSH 插件开发套件（单一 Bundle）",
+      "desc": "⚡ ThunderForge — 励志做 0 元以内最 nb 的 DSH 插件（产品目标）：一站式 DSH 插件开发套件（单一 Bundle）",
       "url": "https://github.com/oneinitAI/dsh-thunderforge",
       "category": "tool",
       "tags": [
@@ -9463,7 +9463,7 @@
         "Bundle",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9494,7 +9494,7 @@
         "confirmo",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9510,7 +9510,7 @@
         "most",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9588,7 +9588,7 @@
         "default",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9604,7 +9604,7 @@
         "role-based",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 32
@@ -9636,7 +9636,7 @@
         "history",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9651,7 +9651,7 @@
         "dsh-pocket",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9681,7 +9681,7 @@
         "massive",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9695,7 +9695,7 @@
         "archive",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9726,7 +9726,7 @@
         "harness",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9740,7 +9740,7 @@
         "mindmap",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9756,7 +9756,7 @@
         "Connection",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9772,7 +9772,7 @@
         "Markdown",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -9819,7 +9819,7 @@
         "define",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 35
@@ -9835,7 +9835,7 @@
         "workspaces",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9927,7 +9927,7 @@
         "vibe",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9943,7 +9943,7 @@
         "view",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9959,7 +9959,7 @@
         "Android",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9975,7 +9975,7 @@
         "adds",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -9991,7 +9991,7 @@
         "reuses",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10023,7 +10023,7 @@
         "mis-rendered",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10039,7 +10039,7 @@
         "analysis",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10070,7 +10070,7 @@
         "dsh",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -10118,7 +10118,7 @@
         "Codex",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -10134,7 +10134,7 @@
         "subscription",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10150,7 +10150,7 @@
         "deepseek",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10166,7 +10166,7 @@
         "MCP",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10180,7 +10180,7 @@
         "grafana",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 30
@@ -10228,14 +10228,14 @@
         "logo",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
     },
     {
       "name": "dsh-quant",
-      "desc": "'  Dsh-Quant: The Everything-Plugin Ai native Quant OS '",
+      "desc": "'🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS '",
       "url": "https://github.com/pengpengyi92/dsh-quant",
       "category": "tool",
       "tags": [
@@ -10260,7 +10260,7 @@
         "activate",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10292,7 +10292,7 @@
         "needs",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10307,7 +10307,7 @@
         "Hot",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10339,7 +10339,7 @@
         "flowgraph",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 30
@@ -10370,7 +10370,7 @@
         "file",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 47
@@ -10386,7 +10386,7 @@
         "CLI",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -10418,7 +10418,7 @@
         "install-and-smoke",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10434,7 +10434,7 @@
         "Learning",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10450,7 +10450,7 @@
         "diving",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -10482,7 +10482,7 @@
         "Bing",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10512,7 +10512,7 @@
         "dsh-mnemon",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10560,7 +10560,7 @@
         "env",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -10590,7 +10590,7 @@
         "http",
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -10621,7 +10621,7 @@
         "dsh",
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 32
@@ -10650,7 +10650,7 @@
       "tags": [
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 27
@@ -10666,7 +10666,7 @@
         "dsh",
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 27
@@ -10681,7 +10681,7 @@
         "dsh-plugin",
         "dsh-plugins"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 32
@@ -10713,7 +10713,7 @@
         "deepseek-harness",
         "dsh"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "余额",
       "hot": 30
@@ -10729,7 +10729,7 @@
         "dsh-plugin",
         "llm"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Git",
       "hot": 29
@@ -10743,7 +10743,7 @@
         "dsh",
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Git",
       "hot": 29
@@ -10759,7 +10759,7 @@
         "dsh",
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 29
@@ -10772,7 +10772,7 @@
       "tags": [
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Token",
       "hot": 29
@@ -10785,7 +10785,7 @@
       "tags": [
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 29
@@ -10801,7 +10801,7 @@
         "cache-hit",
         "cost"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 30
@@ -10815,7 +10815,7 @@
         "dsh",
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "Token",
       "hot": 29
@@ -10828,7 +10828,7 @@
       "tags": [
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 29
@@ -10841,7 +10841,7 @@
       "tags": [
         "dsh-plugin"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)",
       "tool": "插件",
       "hot": 27
@@ -13074,7 +13074,7 @@
         "运维",
         "自愈"
       ],
-      "icon": "🐳",
+      "icon": "⚡",
       "bg": "linear-gradient(135deg, #0f0c29 0%, #302b63 100%)",
       "tool": "运维",
       "hot": 10
@@ -13944,7 +13944,7 @@
         "office",
         "office-harness"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 37
@@ -13960,7 +13960,7 @@
         "hashline-edit",
         "oh-my-pi"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 31
@@ -13976,7 +13976,7 @@
         "curated-list",
         "deepseek"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 31
@@ -13992,7 +13992,7 @@
         "cordis",
         "creative-writing"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "IM 桥接",
       "hot": 29
@@ -14008,7 +14008,7 @@
         "dsh-plugins",
         "recovery"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 28
@@ -14021,7 +14021,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 28
@@ -14034,7 +14034,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 28
@@ -14050,7 +14050,7 @@
         "deepseek",
         "llm"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "IM 桥接",
       "hot": 28
@@ -14063,7 +14063,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 28
@@ -14076,7 +14076,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 28
@@ -14090,7 +14090,7 @@
         "telegram",
         "wechat"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "IM 桥接",
       "hot": 27
@@ -14106,7 +14106,7 @@
         "sub2api",
         "web-search"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14119,7 +14119,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14135,7 +14135,7 @@
         "faster-whisper",
         "gemini"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14148,7 +14148,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14164,7 +14164,7 @@
         "luxueliu",
         "token-usage"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14177,7 +14177,7 @@
       "tags": [
         "dsh-plugins"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14190,7 +14190,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14203,7 +14203,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14216,7 +14216,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14229,7 +14229,7 @@
       "tags": [
         "updater"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14242,7 +14242,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14255,7 +14255,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14271,7 +14271,7 @@
         "self-improvement",
         "skillopt"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14285,7 +14285,7 @@
         "mcp",
         "model-context-protocol"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "MCP",
       "hot": 27
@@ -14298,7 +14298,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14311,7 +14311,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14324,7 +14324,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14337,7 +14337,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14350,7 +14350,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14365,7 +14365,7 @@
         "stock-screener",
         "tushare"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14381,7 +14381,7 @@
         "llm",
         "luxueliu"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "IM 桥接",
       "hot": 27
@@ -14394,7 +14394,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14410,7 +14410,7 @@
         "windows",
         "wsl"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14426,7 +14426,7 @@
         "mcp",
         "model-context-protocol"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "MCP",
       "hot": 27
@@ -14439,7 +14439,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14452,7 +14452,7 @@
       "tags": [
         "工具与连接"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14468,7 +14468,7 @@
         "deepseek-v4",
         "javascript"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14482,7 +14482,7 @@
         "ai",
         "deepseek"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "IM 桥接",
       "hot": 27
@@ -14497,7 +14497,7 @@
         "openai",
         "responses-api"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #3a1c71 0%, #d76d77 100%)",
       "tool": "工具",
       "hot": 27
@@ -14941,7 +14941,7 @@
     },
     {
       "name": "dsh-whale-picks",
-      "desc": "  鲸选 dsh-whale-picks — 敢装，值得装：有品味的 DeepSeek Harness 插件精品商店（创始人亲测 + 安全体检 + 四维评分）",
+      "desc": "🐳 鲸选 dsh-whale-picks — 敢装，值得装：有品味的 DeepSeek Harness 插件精品商店（创始人亲测 + 安全体检 + 四维评分）",
       "url": "https://github.com/LeeKai233/dsh-whale-picks",
       "category": "security",
       "tags": [
@@ -15402,7 +15402,7 @@
         "看板",
         "任务"
       ],
-      "icon": "🐳",
+      "icon": "📋",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "Web UI",
       "hot": 10
@@ -15668,7 +15668,7 @@
         "Docker",
         "容器"
       ],
-      "icon": " ",
+      "icon": "🐳",
       "bg": "linear-gradient(135deg, #485563 0%, #29323c 100%)",
       "tool": "容器",
       "hot": 10
@@ -15962,7 +15962,7 @@
         "激励",
         "语录"
       ],
-      "icon": " ",
+      "icon": "🔥",
       "bg": "linear-gradient(135deg, #ff9966 0%, #ff5e62 100%)",
       "tool": "激励",
       "hot": 0
@@ -16382,7 +16382,7 @@
         "确认",
         "防护"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #0ba360 0%, #3cba92 100%)",
       "tool": "评审",
       "hot": 10
@@ -16508,7 +16508,7 @@
         "技能",
         "提炼"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
       "tool": "技能",
       "hot": 10
@@ -16970,7 +16970,7 @@
         "推荐",
         "排行"
       ],
-      "icon": "🐳",
+      "icon": "⭐",
       "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
       "tool": "发现",
       "hot": 10
@@ -18839,7 +18839,7 @@
         "CLI",
         "测试"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "开发",
       "hot": 27
@@ -18921,7 +18921,7 @@
     },
     {
       "name": "Minke",
-      "desc": "  DeepSeek Harness 桌面客户端。",
+      "desc": "🐳 DeepSeek Harness 桌面客户端。",
       "url": "https://github.com/lencx/Minke",
       "category": "ui",
       "tags": [
@@ -18974,7 +18974,7 @@
         "面板",
         "Web"
       ],
-      "icon": "🐳",
+      "icon": "📋",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "面板",
       "hot": 27
@@ -19049,7 +19049,7 @@
         "回车",
         "权限"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "tool": "审批",
       "hot": 27
@@ -19423,7 +19423,7 @@
         "3D",
         "鲸鱼"
       ],
-      "icon": " ",
+      "icon": "🐳",
       "bg": "linear-gradient(135deg, #f83600 0%, #f9d423 100%)",
       "tool": "桌宠",
       "hot": 29
@@ -19510,7 +19510,7 @@
         "合集",
         "插件库"
       ],
-      "icon": " ",
+      "icon": "📦",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "合集",
       "hot": 27
@@ -19736,7 +19736,7 @@
         "问卷",
         "知识提取"
       ],
-      "icon": "🐳",
+      "icon": "📋",
       "bg": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)",
       "tool": "技能",
       "hot": 27
@@ -20284,7 +20284,7 @@
         "威胁建模",
         "STRIDE"
       ],
-      "icon": " ️",
+      "icon": "⚠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "技能",
       "hot": 27
@@ -20528,7 +20528,7 @@
         "搜索",
         "web"
       ],
-      "icon": " ",
+      "icon": "🔥",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Provider",
       "hot": 27
@@ -20896,7 +20896,7 @@
         "资讯",
         "搜索"
       ],
-      "icon": " ",
+      "icon": "📦",
       "bg": "linear-gradient(135deg, #0f2027 0%, #203a43 100%)",
       "tool": "合集",
       "hot": 27
@@ -20955,7 +20955,7 @@
         "安全",
         "沙箱"
       ],
-      "icon": "🐳",
+      "icon": "✅",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "安全",
       "hot": 27
@@ -21126,7 +21126,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -21165,7 +21165,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -21220,7 +21220,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21260,7 +21260,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21273,7 +21273,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21312,7 +21312,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21338,7 +21338,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21364,7 +21364,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21445,7 +21445,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21484,7 +21484,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -21524,7 +21524,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21537,7 +21537,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21564,7 +21564,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21636,7 +21636,7 @@
         "Web",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 28
@@ -21649,7 +21649,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21688,7 +21688,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21702,7 +21702,7 @@
         "MCP",
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "MCP",
       "hot": 28
@@ -21774,7 +21774,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21814,7 +21814,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -21827,7 +21827,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21908,7 +21908,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21921,7 +21921,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -21975,7 +21975,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -21988,7 +21988,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 32
@@ -22029,7 +22029,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22042,7 +22042,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 34
@@ -22055,7 +22055,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22282,7 +22282,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22365,7 +22365,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -22378,7 +22378,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22404,7 +22404,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22430,7 +22430,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 27
@@ -22443,7 +22443,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22482,7 +22482,7 @@
       "tags": [
         "SSH"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 32
@@ -22495,7 +22495,7 @@
       "tags": [
         "API"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22508,7 +22508,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 28
@@ -22560,7 +22560,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22588,7 +22588,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -22601,7 +22601,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -22614,7 +22614,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -22627,7 +22627,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 27
@@ -22653,7 +22653,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -22666,7 +22666,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22679,7 +22679,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22731,7 +22731,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22744,7 +22744,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22770,7 +22770,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -22796,7 +22796,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22823,7 +22823,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -22836,7 +22836,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22863,7 +22863,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 38
@@ -22891,7 +22891,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22933,7 +22933,7 @@
         "搜索",
         "API"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -22946,7 +22946,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 28
@@ -22972,7 +22972,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -22985,7 +22985,7 @@
       "tags": [
         "MCP"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "MCP",
       "hot": 27
@@ -22998,7 +22998,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23011,7 +23011,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23024,7 +23024,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23037,7 +23037,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23050,7 +23050,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 29
@@ -23077,7 +23077,7 @@
       "tags": [
         "Tauri"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "桌面",
       "hot": 27
@@ -23104,7 +23104,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 33
@@ -23117,7 +23117,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23196,7 +23196,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 35
@@ -23288,7 +23288,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 28
@@ -23328,7 +23328,7 @@
         "插件",
         "API"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23410,7 +23410,7 @@
       "tags": [
         "搜索"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 31
@@ -23451,7 +23451,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23464,7 +23464,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -23477,7 +23477,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 27
@@ -23532,7 +23532,7 @@
         "插件",
         "API"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -23545,7 +23545,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23613,7 +23613,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23653,7 +23653,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 30
@@ -23706,7 +23706,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23740,13 +23740,13 @@
     },
     {
       "name": "dsh-infinite-gen-2",
-      "desc": "DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ",
+      "desc": "DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐",
       "url": "https://github.com/Minglink/dsh-infinite-gen-2",
       "category": "tool",
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 49
@@ -23787,7 +23787,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23841,7 +23841,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23922,7 +23922,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -23935,7 +23935,7 @@
       "tags": [
         "SSH"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 36
@@ -24032,7 +24032,7 @@
         "Web",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 28
@@ -24071,7 +24071,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -24197,7 +24197,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -24210,7 +24210,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -24250,7 +24250,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -24276,7 +24276,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -24303,7 +24303,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -24372,7 +24372,7 @@
         "Web",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 28
@@ -24385,7 +24385,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -24412,7 +24412,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -24425,7 +24425,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -24556,7 +24556,7 @@
     },
     {
       "name": "dsh-ui-whale",
-      "desc": "【求】🐋DSH Web UI 全手绘像素鲸鱼伙伴插件：会话标题栏常驻，平时眨眼/偶尔摆尾/动胸鳍，思考运行时持续动起来，回合完成头顶喷水，点击还会冒爱心，不工作时还会偷懒睡觉，零核心改动。 【喜欢的话就点点star吧~】",
+      "desc": "【求⭐】🐋DSH Web UI 全手绘像素鲸鱼伙伴插件：会话标题栏常驻，平时眨眼/偶尔摆尾/动胸鳍，思考运行时持续动起来，回合完成头顶喷水，点击还会冒爱心，不工作时还会偷懒睡觉，零核心改动。 【喜欢的话就点点star⭐吧~】",
       "url": "https://github.com/omdsh-dev/dsh-ui-whale",
       "category": "ui",
       "tags": [
@@ -24708,7 +24708,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -24734,7 +24734,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 31
@@ -24760,7 +24760,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -24799,7 +24799,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -24812,7 +24812,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -24825,7 +24825,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 28
@@ -24866,7 +24866,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 31
@@ -24919,7 +24919,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25019,7 +25019,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25046,7 +25046,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 31
@@ -25059,7 +25059,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25072,7 +25072,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25129,7 +25129,7 @@
         "Web",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 28
@@ -25142,7 +25142,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -25169,7 +25169,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25211,7 +25211,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 32
@@ -25224,7 +25224,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25237,7 +25237,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25292,7 +25292,7 @@
         "搜索",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25305,7 +25305,7 @@
       "tags": [
         "MCP"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "MCP",
       "hot": 38
@@ -25320,7 +25320,7 @@
         "Web",
         "搜索"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "MCP",
       "hot": 31
@@ -25333,7 +25333,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25346,7 +25346,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 29
@@ -25372,7 +25372,7 @@
       "tags": [
         "API"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25454,7 +25454,7 @@
         "搜索",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -25481,7 +25481,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25507,7 +25507,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25559,7 +25559,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -25585,7 +25585,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25611,7 +25611,7 @@
       "tags": [
         "搜索"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -25624,7 +25624,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -25637,7 +25637,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25678,7 +25678,7 @@
         "Web",
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -25691,7 +25691,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25717,7 +25717,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25745,7 +25745,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 33
@@ -25827,7 +25827,7 @@
       "tags": [
         "Agent"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 40
@@ -25853,7 +25853,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -25895,7 +25895,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -25951,7 +25951,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -25964,7 +25964,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 50
@@ -25977,7 +25977,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -26006,7 +26006,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -26032,7 +26032,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26072,7 +26072,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26085,7 +26085,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -26099,7 +26099,7 @@
         "搜索",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -26112,7 +26112,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26164,7 +26164,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26190,7 +26190,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26217,7 +26217,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "终端",
       "hot": 28
@@ -26272,7 +26272,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 49
@@ -26285,7 +26285,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26337,7 +26337,7 @@
       "tags": [
         "API"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26351,7 +26351,7 @@
         "Agent",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Agent",
       "hot": 27
@@ -26364,7 +26364,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26437,7 +26437,7 @@
     },
     {
       "name": "dsh-dros-vajraclaw",
-      "desc": " DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin",
+      "desc": "⚡ DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin",
       "url": "https://github.com/Top-Celestial-Company-Ltd/dsh-dros-vajraclaw",
       "category": "security",
       "tags": [
@@ -26498,7 +26498,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -26525,7 +26525,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26538,7 +26538,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26552,7 +26552,7 @@
         "搜索",
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26591,7 +26591,7 @@
       "tags": [
         "MCP"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "MCP",
       "hot": 27
@@ -26617,7 +26617,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 31
@@ -26630,7 +26630,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 29
@@ -26657,7 +26657,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26683,7 +26683,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 28
@@ -26778,7 +26778,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26791,7 +26791,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 31
@@ -26804,7 +26804,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -26830,7 +26830,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 28
@@ -26913,7 +26913,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -26943,7 +26943,7 @@
         "插件",
         "API"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 29
@@ -26956,7 +26956,7 @@
       "tags": [
         "搜索"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -27079,7 +27079,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -27092,7 +27092,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -27189,7 +27189,7 @@
       "tags": [
         "MCP"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "MCP",
       "hot": 32
@@ -27230,7 +27230,7 @@
       "tags": [
         "Web"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "Web UI",
       "hot": 27
@@ -27282,7 +27282,7 @@
       "tags": [
         "插件"
       ],
-      "icon": "️",
+      "icon": "🛠️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "社区",
       "hot": 27
@@ -27470,42 +27470,42 @@
     {
       "key": "core",
       "label": "核心引擎",
-      "icon": "box"
+      "icon": "🧭"
     },
     {
       "key": "ui",
       "label": "界面与体验",
-      "icon": "box"
+      "icon": "🎨"
     },
     {
       "key": "agent",
       "label": "Agent 与自动化",
-      "icon": "box"
+      "icon": "🤖"
     },
     {
       "key": "knowledge",
       "label": "记忆与知识",
-      "icon": "box"
+      "icon": "🧠"
     },
     {
       "key": "tool",
       "label": "工具与连接",
-      "icon": "box"
+      "icon": "🛠️"
     },
     {
       "key": "vision",
       "label": "多模态与视觉",
-      "icon": "box"
+      "icon": "👁️"
     },
     {
       "key": "security",
       "label": "安全与运维",
-      "icon": "box"
+      "icon": "🛡️"
     },
     {
       "key": "fun",
       "label": "趣味与社区",
-      "icon": "box"
+      "icon": "🎮"
     }
   ]
 }

@@ -4,7 +4,7 @@
 >
 > 👈 **返回主站对应模块**：[DeepSeek Harness 插件库](https://soycodetrail.top/dsh-plugins)  ·  🏠 全站：[https://soycodetrail.top](https://soycodetrail.top)
 >
-> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-04 13:15:10
+> 🤖 本仓库内容由脚本自动同步自主站，**与网站保持实时同步**（source 数据变更 → GitHub Actions 推送即更新）。最近同步：2026-09-05 04:37:32
 
 ## 📚 系列展示站（更多精选内容，互相导流）
 
@@ -14,20 +14,20 @@
 
 ## 📑 内容导航（1912 个条目 / 8 个分类）
 
-- [box 核心引擎](#cat-核心引擎)
-- [box 界面与体验](#cat-界面与体验)
-- [box Agent 与自动化](#cat-agent-与自动化)
-- [box 记忆与知识](#cat-记忆与知识)
-- [box 工具与连接](#cat-工具与连接)
-- [box 多模态与视觉](#cat-多模态与视觉)
-- [box 安全与运维](#cat-安全与运维)
-- [box 趣味与社区](#cat-趣味与社区)
+- [🧭 核心引擎](#cat-核心引擎)
+- [🎨 界面与体验](#cat-界面与体验)
+- [🤖 Agent 与自动化](#cat-agent-与自动化)
+- [🧠 记忆与知识](#cat-记忆与知识)
+- [🛠️ 工具与连接](#cat-工具与连接)
+- [👁️ 多模态与视觉](#cat-多模态与视觉)
+- [🛡️ 安全与运维](#cat-安全与运维)
+- [🎮 趣味与社区](#cat-趣味与社区)
 
 ---
 
 <a id="cat-核心引擎" name="cat-核心引擎"></a>
 
-### box 核心引擎
+### 🧭 核心引擎
 
 - [dsh-go](https://github.com/JopenChen/dsh-go) — dsh-go：纯 Go、进程内的 DeepSeek Harness Agent 实现，让任意 Go 后端以嵌入库方式获得等效、具备规划能力的 Agent。  
   标签：Go / 运行时 / 嵌入
@@ -438,7 +438,7 @@
 
 <a id="cat-界面与体验" name="cat-界面与体验"></a>
 
-### box 界面与体验
+### 🎨 界面与体验
 
 - [deepseek-harness-desktop](https://github.com/ningbainb/deepseek-harness-desktop) — DeepSeek Harness 开源 Windows 桌面客户端与 GUI：零配置安装器，内置 Codex、插件、技能、SSH、手机远程与 11 款皮肤。  
   标签：桌面 / GUI / Windows / 插件
@@ -896,7 +896,7 @@
   标签：deepseek-harness / dsh / dsh-plugin
 - [dsh-plugin-authoring-guide](https://github.com/kittimzhe/dsh-plugin-authoring-guide) — Hands-on guide to building a DeepSeek Harness plugin (EN/ZH) — real code & pitfalls from dsh-session-export and dsh-session-recall  
   标签：deepseek-agent / deepseek-harness / dsh-plugin / tutorial
-- [dsh-luban](https://github.com/yin52133/dsh-luban) — ️ Custom workbench plugin suite for DeepSeek Harness (DSH) — LAN auth, task board, SSH + tmux keep-alive, shared Windows/Ubuntu sessions, context HUD & serial/debug tooling. Built for embedded devs: Windows debug box + LAN Ubuntu build server. Monorepo of dsh-luban-* plugins.  
+- [dsh-luban](https://github.com/yin52133/dsh-luban) — 🛠️ Custom workbench plugin suite for DeepSeek Harness (DSH) — LAN auth, task board, SSH + tmux keep-alive, shared Windows/Ubuntu sessions, context HUD & serial/debug tooling. Built for embedded devs: Windows debug box + LAN Ubuntu build server. Monorepo of dsh-luban-* plugins.  
   标签：dsh-plugin
 - [dsh-qr-share](https://github.com/xiaoguomeiyitian/dsh-qr-share) — DSH web plugin: a sidebar-footer QR-code button that lets a phone scan and re-issue the current browser's authenticated launch URL.  
   标签：deepseek-harness / dsh / dsh-plugin / dsh-plugins
@@ -1174,7 +1174,7 @@
   标签：Prompt / 行为规范 / Web UI
 - [dsh-web-scroll-flow](https://github.com/TYOPXN360/dsh-web-scroll-flow) — DSH Web 对话滚动动效：自动跟随动画、边缘橡皮筋回弹、流式逐字打字机。  
   标签：滚动 / 动效 / 打字机
-- [Minke](https://github.com/lencx/Minke) —   DeepSeek Harness 桌面客户端。  
+- [Minke](https://github.com/lencx/Minke) — 🐳 DeepSeek Harness 桌面客户端。  
   标签：桌面端 / 客户端 / Electron
 - [dsh-any-background](https://github.com/Tkingxiao/dsh-any-background) — 自定义主题插件：背景图（大小/位置）、主界面与设置界面（透明度、色轮主题色）。  
   标签：皮肤 / 背景 / 主题
@@ -1342,7 +1342,7 @@
   标签：插件
 - [dsh_desktop](https://github.com/myYangyunfan/dsh_desktop) — DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch  
   标签：桌面
-- [dsh-ui-whale](https://github.com/omdsh-dev/dsh-ui-whale) — 【求】🐋DSH Web UI 全手绘像素鲸鱼伙伴插件：会话标题栏常驻，平时眨眼/偶尔摆尾/动胸鳍，思考运行时持续动起来，回合完成头顶喷水，点击还会冒爱心，不工作时还会偷懒睡觉，零核心改动。 【喜欢的话就点点star吧~】  
+- [dsh-ui-whale](https://github.com/omdsh-dev/dsh-ui-whale) — 【求⭐】🐋DSH Web UI 全手绘像素鲸鱼伙伴插件：会话标题栏常驻，平时眨眼/偶尔摆尾/动胸鳍，思考运行时持续动起来，回合完成头顶喷水，点击还会冒爱心，不工作时还会偷懒睡觉，零核心改动。 【喜欢的话就点点star⭐吧~】  
   标签：Web
 - [dsh-ui-progress](https://github.com/omdsh-dev/dsh-ui-progress) — DSH Web UI 会话进度插件：输入框停靠区常驻会话进度条（todos 真实进度 / 实时 token 生成速率 / 中断橘红态 / 待办提醒），零核心改动  
   标签：Web
@@ -1445,7 +1445,7 @@
 
 <a id="cat-agent-与自动化" name="cat-agent-与自动化"></a>
 
-### box Agent 与自动化
+### 🤖 Agent 与自动化
 
 - [dsh-team](https://github.com/huxint/dsh-team) — DeepSeek Harness 的 Agent 团队：基于 ctx.subagents 的常驻成员、共享任务清单、成员间信箱、虚拟工作区与会话内团队室。  
   标签：Agent / 团队 / 协作
@@ -1541,7 +1541,7 @@
   标签：Enterprise-grade / local-first / Agent 与自动化
 - [dsh-whale-girl-pet](https://github.com/yanzwzz/dsh-whale-girl-pet) — 🐋 DeepSeek 娘桌宠：住进 DeepSeek Harness Web 界面的蓝发鲸鱼女仆。工作链路、任务完成统计（用时/消耗/花费）、睡眠系统、时间感知、余额/天气/喂食按钮、完整设置面板。  
   标签：whale / Web / Agent 与自动化
-- [dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — 拨开迷雾看见终点，剩下的交给任务栏。Part the fog, see the end — the task bar handles the rest. 🎮 mattpocock/skills 的 DSH 游戏任务系统：map 拨迷雾，任务栏推进一步。A game-like mission system for Matt Pocock skills in DeepSeek Harness. More by @FeatherHunter: 🎨 dsh-opencode-palette ·  dsh-prompt  
+- [dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) — 拨开迷雾看见终点，剩下的交给任务栏。Part the fog, see the end — the task bar handles the rest. 🎮 mattpocock/skills 的 DSH 游戏任务系统：map 拨迷雾，任务栏推进一步。A game-like mission system for Matt Pocock skills in DeepSeek Harness. More by @FeatherHunter: 🎨 dsh-opencode-palette · ⚡ dsh-prompt  
   标签：mattpocock / Part / fog / Agent 与自动化
 - [dsh-agent-sticky-note](https://github.com/alanpaul1969/dsh-agent-sticky-note) — 📌 Sticky-note plugin for DeepSeek Harness — agent notices & pending decisions visible in the Web GUI (Tailscale-friendly)  
   标签：agent / Sticky-note / notices / Agent 与自动化
@@ -1962,7 +1962,7 @@
 
 <a id="cat-记忆与知识" name="cat-记忆与知识"></a>
 
-### box 记忆与知识
+### 🧠 记忆与知识
 
 - [dsh-layered-memory](https://github.com/JunNanLYS/dsh-layered-memory) — 让 DeepSeek Harness 拥有跨会话长期记忆：自动记住用户身份、项目与偏好，新会话自动带上背景，生活与工作记忆自动分离，零配置。  
   标签：记忆 / 长期 / 跨会话
@@ -2223,7 +2223,7 @@
 
 <a id="cat-工具与连接" name="cat-工具与连接"></a>
 
-### box 工具与连接
+### 🛠️ 工具与连接
 
 - [dsh-with-chatgpt](https://github.com/BeforeWave/dsh-with-chatgpt) — 把 ChatGPT 的推理能力接入本地代码库：可直接使用，也可把大任务委派给 DSH 处理。  
   标签：ChatGPT / 集成 / 推理
@@ -2423,7 +2423,7 @@
   标签：mcp / Server / Prompt / 工具与连接
 - [dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) — DeepSeek Harness 多通道远程访问插件 | 手机扫码秒连本地 AI、微信/QQ 直接对话、流式输出、按钮交互、多工作区切换、会话持久化 | 无需公网服务器，支持局域网直连、Cloudflare 隧道、自建隧道 | QQ Bot  + 微信 ClawBot  
   标签：bridge / Cloudflare / Bot / 工具与连接
-- [dsh-thunderforge](https://github.com/oneinitAI/dsh-thunderforge) —  ThunderForge — 励志做 0 元以内最 nb 的 DSH 插件（产品目标）：一站式 DSH 插件开发套件（单一 Bundle）  
+- [dsh-thunderforge](https://github.com/oneinitAI/dsh-thunderforge) — ⚡ ThunderForge — 励志做 0 元以内最 nb 的 DSH 插件（产品目标）：一站式 DSH 插件开发套件（单一 Bundle）  
   标签：thunderforge / Bundle / 工具与连接
 - [dsh-local-voice-dictation](https://github.com/LionGateOS/dsh-local-voice-dictation) — Local voice plugin for DeepSeek Harness: microphone dictation with local STT plus assistant-response Kokoro TTS playback.  
   标签：local / voice / microphone / 工具与连接
@@ -2523,7 +2523,7 @@
   标签：standard / ToolKit / token / 工具与连接
 - [dsh-bloub-mood](https://github.com/Yuuhann1999/dsh-bloub-mood) — 动态心情图标 · DeepSeek Harness 插件 — bloub 表情随会话状态切换 favicon 与 logo，形状/颜色/文字可配置（8 shapes × 12 colors, animated SVG, MIT）  
   标签：bloub / favicon / logo / 工具与连接
-- [dsh-quant](https://github.com/pengpengyi92/dsh-quant) — '  Dsh-Quant: The Everything-Plugin Ai native Quant OS '  
+- [dsh-quant](https://github.com/pengpengyi92/dsh-quant) — '🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS '  
   标签：quant / Dsh-Quant / The / 工具与连接
 - [dsh-ark-plan](https://github.com/snow-The/dsh-ark-plan) — Correctly activate DeepSeek v4 flash on the Volcano Ark plan API for DeepSeek Harness: default config injection (reasoningEfforts + effort=max) + ark_plan_doctor self-check  
   标签：ark / Correctly / activate / 工具与连接
@@ -3041,7 +3041,7 @@
   标签：Web
 - [dsh-workspace-history](https://github.com/joao-paulo-santos/dsh-workspace-history) — Workspace history: journals every compaction summary to the workspace and adds a History subtab to the Workspace Overview tab for reading it back.  
   标签：插件
-- [dsh-infinite-gen-2](https://github.com/Minglink/dsh-infinite-gen-2) — DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏   
+- [dsh-infinite-gen-2](https://github.com/Minglink/dsh-infinite-gen-2) — DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐  
   标签：插件
 - [dsh-model-sync](https://github.com/GooDAnDReaDY/dsh-model-sync) — Automated provider model catalog discovery and quota balance monitoring for DeepSeek Harness  
   标签：插件
@@ -3234,7 +3234,7 @@
 
 <a id="cat-多模态与视觉" name="cat-多模态与视觉"></a>
 
-### box 多模态与视觉
+### 👁️ 多模态与视觉
 
 - [dsh-llm-multimodal](https://github.com/xiaokaizhou/dsh-llm-multimodal) — DSH 插件：在聊天中提供图像/视频生成工具，基于 OpenAI 兼容 API。  
   标签：多模态 / 图像 / 视频
@@ -3417,7 +3417,7 @@
 
 <a id="cat-安全与运维" name="cat-安全与运维"></a>
 
-### box 安全与运维
+### 🛡️ 安全与运维
 
 - [weiwen-law-dsh](https://github.com/Shaky77/weiwen-law-dsh) — 唯稳律（Weiwen's Law）白箱风控 DSH 插件——DeepSeek Harness 的因果约束中间件。  
   标签：白箱 / 风控 / 约束
@@ -3579,7 +3579,7 @@
   标签：android / authentication / mdns / mobile
 - [dsh-identity-control](https://github.com/orpheus0829/dsh-identity-control) — 为 DeepSeek Harness (DSH) 打造的自定义人设控制插件。 在对话输入栏旁自由填写你的人设文本，一键开关，所有新对话自动生效、免重启。 人设纯粹是你设定的风格，不覆盖 DSH 安全护栏，安装即用、状态持久化。  
   标签：ai-assisted / cordis / custom-personas / deepseek
-- [dsh-whale-picks](https://github.com/LeeKai233/dsh-whale-picks) —   鲸选 dsh-whale-picks — 敢装，值得装：有品味的 DeepSeek Harness 插件精品商店（创始人亲测 + 安全体检 + 四维评分）  
+- [dsh-whale-picks](https://github.com/LeeKai233/dsh-whale-picks) — 🐳 鲸选 dsh-whale-picks — 敢装，值得装：有品味的 DeepSeek Harness 插件精品商店（创始人亲测 + 安全体检 + 四维评分）  
   标签：curated
 - [dsh-secret-scan](https://github.com/vlln/dsh-secret-scan) — 密钥泄露扫描，检出代码与日志中的 API Key、密码等敏感信息。  
   标签：安全 / 密钥扫描
@@ -3729,7 +3729,7 @@
   标签：插件
 - [dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) — 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。  
   标签：插件
-- [dsh-dros-vajraclaw](https://github.com/Top-Celestial-Company-Ltd/dsh-dros-vajraclaw) —  DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin  
+- [dsh-dros-vajraclaw](https://github.com/Top-Celestial-Company-Ltd/dsh-dros-vajraclaw) — ⚡ DROS™ VajraClaw for DSH: Deterministic Runtime Execution Governance & Security Circuit-Breaker Plugin  
   标签：安全 / 插件
 - [dsh-win-toolkit](https://github.com/Edge-Echo/dsh-win-toolkit) — Windows-native capability pack for DeepSeek Harness (dsh): clipboard, notifications, hosts file, network diagnostics — safe PowerShell-backed tools.  
   标签：插件
@@ -3754,7 +3754,7 @@
 
 <a id="cat-趣味与社区" name="cat-趣味与社区"></a>
 
-### box 趣味与社区
+### 🎮 趣味与社区
 
 - [dsh-music-tui](https://github.com/Nagi-ovo/dsh-music-tui) — 为 dsh-TUI 提供 YesPlayMusic 控制与「正在播放」状态显示。  
   标签：音乐 / TUI / 播放
