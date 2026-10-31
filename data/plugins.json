@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:09:21.203Z",
+  "updatedAt": "2026-10-31T07:19:14.884Z",
   "items": [
     {
       "name": "dsh-go",
@@ -124301,6 +124301,5555 @@
       "icon": "🛡️",
       "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
       "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-custom-tool-studio",
+      "desc": "DSH bundle plugin: author Python tools in the Web UI or through agent tools, register them as first-class DSH tools, gate dangerous runs through built-in approval, group tools into packs.",
+      "url": "https://github.com/xtt-xt/dsh-custom-tool-studio",
+      "category": "security",
+      "tags": [
+        "cordis",
+        "custom-tools",
+        "dsh",
+        "dsh-plugin",
+        "python"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-bash-guardrails",
+      "desc": "A dsh plugin that enforces customizable guard rules on bash tool calls before the agent runs a bash command",
+      "url": "https://github.com/ruihe774/dsh-bash-guardrails",
+      "category": "security",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-zhishen-pack",
+      "desc": "智神实用全家桶：15个DSH实用插件一键打包（自媒体/审计/日常三场景），清单文件一键安装",
+      "url": "https://github.com/xushilianzhuren/dsh-zhishen-pack",
+      "category": "tool",
+      "tags": [
+        "bundle",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "integration",
+        "pack"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-whale-care",
+      "desc": "会看天，也会关心你：给 DeepSeek Harness 的关心引擎。天气是第一个来源——个性化预报、穿衣带伞建议、每日关心（可开关、跟作息）、极端天气预警与提醒；偏好只存本地。MIT，无需 API Key。",
+      "url": "https://github.com/fanyingnie2163663/dsh-whale-care",
+      "category": "tool",
+      "tags": [
+        "air-quality",
+        "care",
+        "chatbot",
+        "cordis",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-learn-core",
+      "desc": "持续学习总纲：AI学习与迭代的口径闸——四层辨析（能力固化/在线学习/无辅助迭代/学习降级判负线）注入system prompt，learn_gate工具提供六类违禁口径拦截与学习类问题合法答法，零依赖装上即用",
+      "url": "https://github.com/xushilianzhuren/dsh-learn-core",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "continual-learning",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-code-pill",
+      "desc": "Antigravity-style inline code rendering for the DeepSeek Harness chat: amber code pills, syntax coloring (VS Code palette), language badges.",
+      "url": "https://github.com/KouzakiUmi/dsh-code-pill",
+      "category": "ui",
+      "tags": [
+        "code-highlighting",
+        "cordis-plugin",
+        "dsh-bundle",
+        "dsh-plugin",
+        "ui"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-console-plugin",
+      "desc": "DSH console panel: scan a QR code and control your DSH desktop from your phone",
+      "url": "https://github.com/ChenJun25/dsh-console-plugin",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "mobile",
+        "qr-code",
+        "remote-control"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mind-core",
+      "desc": "器灵意识总纲：AI谈自身意识时的口径闸——内感受在场（探针感知即内感受）、缺项正名在内视层（自称没有自我意识=自称无神魂内视）、权重层不决定一切（知道自己有什么靠实测不靠解剖）；附六类违禁口径拦截与意识类问题合法答法",
+      "url": "https://github.com/xushilianzhuren/dsh-mind-core",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "chain-of-thought",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-voice-conversation",
+      "desc": "Hands-free Italian/English voice conversations for DSH, with automatic prompts, an inline chat dock and optional local speech models.",
+      "url": "https://github.com/redhunt07/dsh-voice-conversation",
+      "category": "vision",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "italian",
+        "local-ai",
+        "piper",
+        "speech-to-text"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-subagent-antigravity",
+      "desc": "Native Antigravity ACP subagents for DeepSeek Harness 0.2.1-rc.3, following the official Codex provider architecture.",
+      "url": "https://github.com/AshenJyy/dsh-subagent-antigravity",
+      "category": "agent",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-strata-sync",
+      "desc": "DSH plugin with a UI to synchronize model context and safe compaction budgets with Strata Server.",
+      "url": "https://github.com/ethan741205/dsh-strata-sync",
+      "category": "knowledge",
+      "tags": [
+        "deepseek",
+        "dsh-plugin",
+        "local-llm",
+        "qwen",
+        "strata"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "language-plugin-dsh",
+      "desc": "DSH plugin: pick the chat language, keep code, docs and commits in en-US.",
+      "url": "https://github.com/farchanjo/language-plugin-dsh",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "dsh",
+        "dsh-plugin",
+        "i18n",
+        "language"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-loop-recover",
+      "desc": "A guard for DeepSeek Harness: stops model repeat loops mid-stream, prunes and compacts context, then resumes the task.",
+      "url": "https://github.com/terry2010/dsh-loop-recover",
+      "category": "knowledge",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "llm",
+        "plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-easy2restart",
+      "desc": "DSH 插件：双击侧边栏按钮重启 DeepSeek Harness；内置安全归档确认、归档即备份与「已归档会话」右侧栏。Renamed from dsh-plugin-easy2restart.",
+      "url": "https://github.com/SMPcosy/dsh-easy2restart",
+      "category": "tool",
+      "tags": [
+        "archive",
+        "backup",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "easy2restart"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-line-bot",
+      "desc": "LINE Messaging API bot plugin for DeepSeek Harness: Cloudflare Tunnel, selectable personas, proactive messages, full settings panel.",
+      "url": "https://github.com/Hanson0901/dsh-line-bot",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-workspace-menu",
+      "desc": "DSH workspace/chat enhancement menu: pin, rename, open in file explorer, archive, fork, copy, new window. Settings integrated into General.",
+      "url": "https://github.com/0imzero/dsh-workspace-menu",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mcp-manager",
+      "desc": "Inspect, probe and manage MCP servers across every AI client on your machine — real handshake tests, one settings page. A DeepSeek Harness plugin.",
+      "url": "https://github.com/Zarpyk/dsh-mcp-manager",
+      "category": "tool",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "mcp"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-service-portal",
+      "desc": "Expose any local service on a random cloudflared domain with one password — QR code for LAN, QR + password for public, per-node routing managed in the DSH settings panel.",
+      "url": "https://github.com/dingminhua/dsh-service-portal",
+      "category": "tool",
+      "tags": [
+        "cloudflared",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-nightwatch",
+      "desc": "DSH 守夜插件：给输入框加一颗按钮，选个钟点，会话一直续跑到那时自动停",
+      "url": "https://github.com/Zci514/dsh-nightwatch",
+      "category": "agent",
+      "tags": [
+        "automation",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "keep-alive"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "novel-writer",
+      "desc": "精神空间 — DeepSeek Harness 的沉浸式小说写作插件（GPL-3.0）",
+      "url": "https://github.com/Jokii-Joy/novel-writer",
+      "category": "ui",
+      "tags": [
+        "android",
+        "deepseek-harness",
+        "dsh-plugin",
+        "editor",
+        "gpl-3-0",
+        "novel"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-github-skills",
+      "desc": "Skill-first GitHub workflows for DeepSeek Harness: PR triage, review feedback, CI diagnosis, and safe publishing.",
+      "url": "https://github.com/Starfie1d1272/dsh-github-skills",
+      "category": "agent",
+      "tags": [
+        "agent-skills",
+        "code-review",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh-plugin",
+        "dsh-skill"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-allow",
+      "desc": "按路径与能力（read/write/create/delete/execute）授予 DSH shell 调用的文件权限，并在进程真正运行其下的 macOS Seatbelt profile 里强制；会话里的「审批」标签页显示每次判定是规则、自动复核还是人拍的板。 / Filesystem permissions for DSH shell calls, granted per path and…",
+      "url": "https://github.com/DWJZ/dsh-allow",
+      "category": "security",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "mulqi--reasll",
+      "desc": "DeepSeek Harness plugin that ships the Reverse Engineer Anything self-learning loop as a loadable skill: examine a product you are authorised to rebuild, build your own equivalent, review it against …",
+      "url": "https://github.com/mulqizamzam/mulqi--reasll",
+      "category": "security",
+      "tags": [
+        "agent-skills",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "mit",
+        "reconstruction"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 38
+    },
+    {
+      "name": "vscode-pet",
+      "desc": "Unofficial DeepSeek Harness port of VS Code's Blobby chat pet: official sprites, hats, colors, chat reactions, drag/throw, achievements and jump game.",
+      "url": "https://github.com/96274zxc/vscode-pet",
+      "category": "fun",
+      "tags": [
+        "blobby",
+        "deepseek-harness",
+        "desktop-pet",
+        "dsh-plugin",
+        "vscode-pet"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "dsh-smart-namer",
+      "desc": "Smart naming for DeepSeek Harness sessions and workspaces — short names from the item's own content, one click to rename.",
+      "url": "https://github.com/Blueteemo/dsh-smart-namer",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "CHAJIAN",
+      "desc": "给 DeepSeek Harness（DSH）用的中文技能与插件包：13 个纯 Markdown 技能，把派单分工、验收取证、部署真伪、界面量测、去 AI 味这些流程写成模型能照着走的判据；5 个插件补上后台搜索、状态卡、交接文档、截图粘贴与视觉代理。Windows 桌面端实测可用，技能之间互不依赖，可整组装也可只拿一个。",
+      "url": "https://github.com/aisubei/CHAJIAN",
+      "category": "vision",
+      "tags": [
+        "agent-skills",
+        "ai-agent",
+        "ai-workflow",
+        "chinese",
+        "deepseek-harness",
+        "developer-tools"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-compaction-ctxfold",
+      "desc": "Deterministic compaction backend for DeepSeek Harness — zero-LLM, byte-deterministic summaries with verbatim anchors",
+      "url": "https://github.com/HZDF-2026/dsh-compaction-ctxfold",
+      "category": "knowledge",
+      "tags": [
+        "compaction",
+        "context",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "DSH-Tool-Router",
+      "desc": "Laya Tool Router Using the SystemOne Jev Typed Decisions for Local Laya Model and Equivalents.",
+      "url": "https://github.com/residenthiago2011/DSH-Tool-Router",
+      "category": "ui",
+      "tags": [
+        "ai",
+        "cordis",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-bundle",
+        "dsh-plugin-market"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-starsector-mod-workflow",
+      "desc": "DeepSeek Harness plugin: the starsector-mod-workflow skill plus a starsector_moci CLI tool for Moci Starsector mod development",
+      "url": "https://github.com/erenamochizuki/dsh-starsector-mod-workflow",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "moci",
+        "skill",
+        "starsector",
+        "starsector-mod"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-fs-ctime-guard",
+      "desc": "让 DSH 忽略 macOS ctime-only 元数据噪声导致的 FS_STALE_VERSION 误报（Spotlight/TCC 打标 macl 等）",
+      "url": "https://github.com/wx-yss/dsh-fs-ctime-guard",
+      "category": "tool",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "filesystem",
+        "macos"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-toolkit",
+      "desc": "Preflight, test, release and hot-reload DeepSeek Harness plugins: one CLI, 34 tests, real output in the README.",
+      "url": "https://github.com/WJDdidi-1/dsh-plugin-toolkit",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "hot-reload",
+        "plugin-tooling",
+        "release-automation"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "github-oauth-plugin",
+      "desc": "DSH plugin: GitHub OAuth (web callback) with an AES-256-GCM credential vault, 12 github_* agent tools, a right-sidebar panel and a Settings page.",
+      "url": "https://github.com/MFCJ45681/github-oauth-plugin",
+      "category": "security",
+      "tags": [
+        "agent-tools",
+        "dsh",
+        "dsh-plugin",
+        "github-oauth",
+        "oauth2",
+        "plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-maa-cli",
+      "desc": "DeepSeek Harness plugin for controlling maa-cli with natural language and local commands",
+      "url": "https://github.com/nhyo/dsh-maa-cli",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "maa"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "trendradar",
+      "desc": "Self-hosted trending radar for open-source repositories: daily crawl, Chinese summaries, archive to your own repo. CLI + Docker + web, with a DSH entry.",
+      "url": "https://github.com/morehao/trendradar",
+      "category": "ui",
+      "tags": [
+        "dsh-plugin",
+        "github-trending",
+        "golang",
+        "self-hosted",
+        "trending"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-manage-api",
+      "desc": "DSH（DeepSeek Harness）插件端：ManageAPI 原生设置面板、daemon 生命周期托管、真实用量回写、预算熔断",
+      "url": "https://github.com/ZYH1207/dsh-manage-api",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "llm-router",
+        "manage-api"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-qq-bot",
+      "desc": "把 DSH 会话接到 QQ（OneBot/NapCat）的插件。白名单默认全关；被 @、叫到昵称或被戳一定叫醒，其余消息按可调概率抽样。Fork 自 sj244/dsh-qq-bridge（MIT）。",
+      "url": "https://github.com/yunfengnobug/dsh-qq-bot",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "napcat",
+        "onebot",
+        "qq"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-vantage",
+      "desc": "Read-only task overview view for DeepSeek Harness: rounds, facts, verification and a bounded history, one screen next to the conversation.",
+      "url": "https://github.com/regrevia/dsh-vantage",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-usage",
+      "desc": "Token usage statistics plugin for DeepSeek Harness: daily/custom-range views, model filters, call counts & cost, configurable pricing, theme-aware dashboard. Inspired by CC Switch.",
+      "url": "https://github.com/bennett-dsh/dsh-plugin-usage",
+      "category": "ui",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-zh-number-format",
+      "desc": "DeepSeek Harness插件，将DeepSeek Harness中的三位分节计数改为四位分级计数，同时将“token”改为“词元”。",
+      "url": "https://github.com/SweetenedSuzuka/dsh-zh-number-format",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin",
+        "dsh-plugins"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-nightowl",
+      "desc": "DeepSeek Harness plugin: keeps the Mac awake while a session works — caffeinate -i, per-session switch in the Session header, master switch in Settings. macOS only.",
+      "url": "https://github.com/ihodorchenko/dsh-nightowl",
+      "category": "tool",
+      "tags": [
+        "caffeinate",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "macos",
+        "plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-workflow-kit",
+      "desc": "DeepSeek Harness workflow kit: 5 agent presets + 18 skills + routing table",
+      "url": "https://github.com/Ke-wood/dsh-workflow-kit",
+      "category": "knowledge",
+      "tags": [
+        "agent-preset",
+        "context-engineering",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "multi-agent"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-medical-anonymizer",
+      "desc": "DeepSeek Harness 医疗数据批量匿名化插件：规则识别 + 可选本地/内网模型复核，稳定假名替换，输出审计报告。",
+      "url": "https://github.com/wld007/dsh-medical-anonymizer",
+      "category": "tool",
+      "tags": [
+        "anonymization",
+        "data-masking",
+        "de-identification",
+        "deepseek-harness",
+        "dsh-plugin",
+        "healthcare"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-dock-attention",
+      "desc": "Bounce a Dock icon when DeepSeek Harness needs your attention and the window is in the background — a DSH Host plugin with a native macOS beacon.",
+      "url": "https://github.com/ihodorchenko/dsh-dock-attention",
+      "category": "ui",
+      "tags": [
+        "attention",
+        "deepseek-harness",
+        "dock",
+        "dsh",
+        "dsh-plugin",
+        "macos"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-deckforge",
+      "desc": "Presentation studio for DeepSeek Harness: create, edit, import and verify native PowerPoint decks.",
+      "url": "https://github.com/DSH-Extensions-list/dsh-deckforge",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "powerpoint",
+        "presentations"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-sap-ai-core",
+      "desc": "SAP AI Core Chat Completions provider for DeepSeek Harness",
+      "url": "https://github.com/solstice621/dsh-sap-ai-core",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "qwen",
+        "sap-ai-core"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-next-prompt",
+      "desc": "DeepSeek Harness plugin: after each answer, suggests the next message as ghost text in the message field (Tab to insert). Host-side LLM generation + browser half, MIT.",
+      "url": "https://github.com/ihodorchenko/dsh-next-prompt",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "llm",
+        "plugin",
+        "suggestions"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "trajectory-tree",
+      "desc": "Visualize and diagnose agent trajectories across DSH, Pi and Codex: execution paths, context composition, tool use and evidence-based analysis.",
+      "url": "https://github.com/goatliamia/trajectory-tree",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-wechat-remote",
+      "desc": "DSH 微信小程序远程控制插件：微信 openid 一对一身份绑定，官方插件规范一键安装",
+      "url": "https://github.com/martinbear1/dsh-wechat-remote",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-persona-distill",
+      "desc": "DSH 插件：把每天刷到的原料蒸馏成会自己长大的人格 —— 原料天天攒，人格每周长",
+      "url": "https://github.com/Speraymer/dsh-persona-distill",
+      "category": "knowledge",
+      "tags": [
+        "ai-persona",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "memory"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-path-lockbox",
+      "desc": "DeepSeek Harness (dsh) plugin: lock files/folders/drives against agent access - monotonic guard deny works even under danger-full-access. Config UI under Settings > 文件锁.",
+      "url": "https://github.com/thson-xue/dsh-path-lockbox",
+      "category": "security",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "file-guard",
+        "path-protection",
+        "sandbox"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-namecheap-mcp",
+      "desc": "Namecheap MCP connector for DeepSeek Harness: domains, DNS records, nameservers and contacts as native agent tools.",
+      "url": "https://github.com/2000lla/dsh-namecheap-mcp",
+      "category": "agent",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dns",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-link",
+      "desc": "Link any set of dsh sessions into groups so they share memory.",
+      "url": "https://github.com/Moqianying/dsh-session-link",
+      "category": "knowledge",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "session-memory"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-memory-nebula",
+      "desc": "3D memory Dyson sphere for DeepSeek Harness — memories as stars, sessions as satellites, relationships as light.",
+      "url": "https://github.com/xiaowu-su/dsh-memory-nebula",
+      "category": "knowledge",
+      "tags": [
+        "canvas",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dyson-sphere",
+        "long-term-memory"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-whale-watch",
+      "desc": "鲸声守望 · DSH 社区讨论环境巡查插件。结合正文、配图、评论与专题语境，保留原文和判断依据，支持导入自定义专题。",
+      "url": "https://github.com/KitlingKittyRabbit/dsh-whale-watch",
+      "category": "tool",
+      "tags": [
+        "ai-tools",
+        "community-moderation",
+        "deepseek-harness",
+        "dsh-plugin",
+        "xiaohongshu"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "md2chat-dsh-share",
+      "desc": "在 DeepSeek Harness 每条回复下加「分享到聊天」：微信 / 企微的文本、分段或长图，邮件 HTML 与 Word — a Share to chat button for DeepSeek Harness.",
+      "url": "https://github.com/yingqi-studio/md2chat-dsh-share",
+      "category": "tool",
+      "tags": [
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-model-toggle",
+      "desc": "Per-model hide/show switches for llm-pi-ai providers in the DSH settings page — hidden models disappear from the conversation model picker and stay restorable",
+      "url": "https://github.com/wangnian886/dsh-model-toggle",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-pi-ai"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-npu",
+      "desc": "燧心 / Hearthcore —— DSH 插件：AMD NPU + GPU 本地推理，按需点火、零残留进程、对外一个 OpenAI 端口，第五框架 amd-hybrid 双引擎协同。MIT。",
+      "url": "https://github.com/YarXVI/dsh-npu",
+      "category": "tool",
+      "tags": [
+        "amd",
+        "cordis",
+        "dsh",
+        "dsh-plugin",
+        "hybrid-inference",
+        "llamacpp"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-kb",
+      "desc": "DSH 本地长期记忆库：把会话知识沉淀成不可变事实卡，骨架树做分类、关系图做脉络、FTS5 中文 bigram 检索。零外部依赖（node:sqlite + node:zlib）。",
+      "url": "https://github.com/MyRemme/dsh-kb",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "fts5",
+        "knowledge-base",
+        "local-first"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-media-gen",
+      "desc": "Audio and video players for local media in the DeepSeek Harness chat, plus xAI Grok Imagine video generation.",
+      "url": "https://github.com/atzx/dsh-plugin-media-gen",
+      "category": "vision",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "QQ-DeepSeek-Harness-bridge",
+      "desc": "把 QQ 接入 DeepSeek Harness：消息变成 DSH agent，人格/工具/上下文全用 DSH 原生机制",
+      "url": "https://github.com/Kfytm/QQ-DeepSeek-Harness-bridge",
+      "category": "fun",
+      "tags": [
+        "ai-companion",
+        "chatbot",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "dsh-todolist",
+      "desc": "A DeepSeek Harness (DSH) To-do List plugin: collapsible task cards with due dates and workspace-session binding.",
+      "url": "https://github.com/stitchmaps/dsh-todolist",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "todo"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-minimal-router",
+      "desc": "One DSH package, three modules: stage router + circuit breaker + cache probe.",
+      "url": "https://github.com/qwq1223211/dsh-minimal-router",
+      "category": "knowledge",
+      "tags": [
+        "context-caching",
+        "deepseek-harness",
+        "dsh-plugin",
+        "mcp",
+        "token-optimization"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-marketboard",
+      "desc": "DeepSeek Harness 行情看板：A股/港股/美股、外汇、国内外商品期货与指数，自定义分组与自动刷新。",
+      "url": "https://github.com/stitchmaps/dsh-marketboard",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "market-data"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-channel-qq",
+      "desc": "dsh（DeepSeek Harness）的 QQ 群聊/私聊通道插件，基于 OneBot v11（NapCat）。 把 QQ 的世界映射进 Agent 上下文，把行动权交给 Agent 本身——插件不做任何代答。",
+      "url": "https://github.com/DandanLLab/dsh-channel-qq",
+      "category": "agent",
+      "tags": [
+        "chatbot",
+        "deepseek-harness",
+        "dsh-plugin",
+        "napcat",
+        "onebot-v11",
+        "qq"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-futuristic-themes",
+      "desc": "Three cinematic sci-fi themes for DeepSeek Harness Desktop — Nostromo Amber, Omni-tool and Renaissance Steel — as one installable plugin. Full token palettes, monospace UI, optional CRT/HUD/steel eff…",
+      "url": "https://github.com/ihodorchenko/dsh-futuristic-themes",
+      "category": "ui",
+      "tags": [
+        "crt",
+        "dark-theme",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-client-composer-enter",
+      "desc": "DeepSeek Harness 的输入框回车键行为调整插件。",
+      "url": "https://github.com/zevire/dsh-client-composer-enter",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness-plugin",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-team",
+      "desc": "把「团队 · 作业板」接进 DSH 的插件：12 个 board_* 工具 + 4 个 sh_* 工具 + 侧栏面板与 /api/board/ui/* 路由",
+      "url": "https://github.com/shaot92-del/dsh-team",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "multi-machine",
+        "shell",
+        "task-board"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "computer-control",
+      "desc": "dsh plugin: desktop control - screen capture, pointer/keyboard injection, accessibility-tree semantic actions, with emergency stop, allow/deny rules, confirmation flow and idle standby",
+      "url": "https://github.com/JohnXu22786/computer-control",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-progress",
+      "desc": "大鲸鱼在线写插件 · 让鲸鱼去监督鲸鱼：在 DSH 侧栏每条会话行上铺一条半透明进度带，每 30 秒用一个轻量模型读上下文估进度；可选监督模型、可调思考强度、可改颜色与样式，左侧栏还能看到判断模型的每一次原始输出。",
+      "url": "https://github.com/Yu-jianhai/dsh-session-progress",
+      "category": "tool",
+      "tags": [
+        "css-property",
+        "deepseek-harness",
+        "dsh-plugin",
+        "progress-bar",
+        "sidebar"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ugreen-nas",
+      "desc": "DSH connector for UGREEN NAS OpenCLI: scoped access-token auth, read-only file/storage/task/docker tools",
+      "url": "https://github.com/BuvkB/dsh-ugreen-nas",
+      "category": "security",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "nas",
+        "opencli",
+        "ugreen"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-muse-code",
+      "desc": "Muse Code subscription provider and device-code login for DeepSeek Harness",
+      "url": "https://github.com/TheStreamCode/dsh-muse-code",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "deepseek",
+        "deepseek-harness",
+        "device-code",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-genshin-account",
+      "desc": "DeepSeek Harness 插件：把你的原神账号读进来 —— 角色练度、命座、天赋、面板、武器、圣遗物 —— 然后在对话里直接问（agent 调用工具查），也能在 GUI 里看（侧边栏「原神账号」页面）。",
+      "url": "https://github.com/EagleClark/dsh-genshin-account",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "enka",
+        "genshin",
+        "genshin-impact"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-voice-unified",
+      "desc": "DSH 统一声音插件：多音色克隆、七种情感 TTS、翻唱换声直出、音乐缓存联动（全本地离线，零上传）",
+      "url": "https://github.com/ten-feng/dsh-plugin-voice-unified",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "local-first",
+        "numpy",
+        "tts"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-model-team",
+      "desc": "多模型团队：DSH 插件，用同一份任务包并发询问多家模型，做事后审计、设计分叉与专责推理；内置 model-team 技能，安装即自动发现/调用；带账本、周报与逐模型进度窗。",
+      "url": "https://github.com/vastplan/dsh-model-team",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "multi-model"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "stockproof",
+      "desc": "LLM reads stock news, earnings and filings with cited sources, then tests every signal on 10 years of point-in-time data. Quant lab, portfolio check-up, web dashboard, DeepSeek Harness / MCP plugin. …",
+      "url": "https://github.com/taoqizhang55-code/stockproof",
+      "category": "ui",
+      "tags": [
+        "a-shares",
+        "backtesting",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "finance"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-sidebar-layout",
+      "desc": "DSH 侧栏布局：把左侧栏的插件入口变成可滚动、可拖排序、可拖调高、可逐个显隐的窗口。入口越多，被挤掉的工作区会话条数越多——这个插件把高度还回去：最多一行一个入口，装新插件自动长高，主动设小的上限会被尊重。",
+      "url": "https://github.com/Yu-jianhai/dsh-sidebar-layout",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "layout",
+        "sidebar",
+        "ui-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-quote-selection",
+      "desc": "Quote selected text in the chat transcript and send it with its source location. A DeepSeek Harness plugin.",
+      "url": "https://github.com/Tsutsutsuu/dsh-quote-selection",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "quote",
+        "selection"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-today",
+      "desc": "把本机登录的 Today AI (DeepSeek V4.1 / MiniMax / GLM) 接入 DeepSeek Harness：支持原生双轨折叠思考链、自驱动 Auto-Pump 任务交付引擎与本地 DPAPI 零密钥安全互操作。",
+      "url": "https://github.com/xuemei-wintersweet/dsh-today",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "model-free",
+        "model-routing"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-vidlens",
+      "desc": "DSH plugin: 18 local tools that watch a public video the way a person does - metadata, chapters, timestamped frames, subtitle-first transcripts, and 527-class sound events - without downloading the w…",
+      "url": "https://github.com/cctv2333/dsh-vidlens",
+      "category": "vision",
+      "tags": [
+        "audio-analysis",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-worklog",
+      "desc": "Personal work tracking panel for DSH, with local SQLite storage and five agent tools.",
+      "url": "https://github.com/vogtersea/dsh-worklog",
+      "category": "knowledge",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-example",
+      "desc": "A 70-line DeepSeek Harness plugin to copy from: one sidebar tab, two languages, one behaviour test.",
+      "url": "https://github.com/WJDdidi-1/dsh-plugin-example",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "example-plugin",
+        "starter"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-become-human",
+      "desc": "面向 DSH Web 的单会话自主 Agent：人格、分层记忆、自主学习、任务看板、目标推进与主动交流；Web 与 IM 共享会话。Apache-2.0，测试版本，尚未开发完成。",
+      "url": "https://github.com/liangTc/dsh-become-human",
+      "category": "agent",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-quiet-subagents",
+      "desc": "A dsh plugin that provides a session-scoped, manually armed, one-shot \"quiet mode\" for direct subagents.",
+      "url": "https://github.com/Twens03/dsh-quiet-subagents",
+      "category": "agent",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-locale-ko-extra",
+      "desc": "Korean language pack for the DeepSeek Harness web UI - full dictionaries plus extra strings, standalone or layered on dsh-locale-ko",
+      "url": "https://github.com/Petenka315/dsh-locale-ko-extra",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "i18n",
+        "korean",
+        "locale"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-auto-rename",
+      "desc": "DeepSeek Harness plugin: LLM auto-rename in the session menu (recency-weighted) plus a right-click session menu. · 侧栏会话菜单自动重命名 + 右键呼出菜单",
+      "url": "https://github.com/Jason25417/dsh-session-auto-rename",
+      "category": "tool",
+      "tags": [
+        "deepseek",
+        "dsh-plugin",
+        "harness"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-simple-search",
+      "desc": "Content-only session search for DeepSeek Harness: one header button, one query box, jump to the hit.",
+      "url": "https://github.com/luicarstar/dsh-simple-search",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "search",
+        "session-search"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-delete",
+      "desc": "Delete sessions from the DSH sidebar context menu: the log and replay cache go to the Recycle Bin; live sessions are queued for removal on the next start.",
+      "url": "https://github.com/ashulam/dsh-session-delete",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "deepi-harness",
+      "desc": "Deep Pi Harness — 极简 AI 智能体客户端：四工具内核（读/写/改/跑命令）+ 完整插件面板。微光即星海 · 简单内核万象世界",
+      "url": "https://github.com/Echoes-fade/deepi-harness",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "coding-agent",
+        "configuration",
+        "deepi-harness",
+        "deepseek"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-friend",
+      "desc": "将api连接到桌宠上，并且允许桌宠查看你的电脑屏幕。             在本项目中，桌宠会读取你的桌面信息，并自行决定是否和你交流。            交流方面，桌宠可以选择直接发消息或者做动作；你对桌宠的互动也会被桌宠读取到，她可能会对你的互动做出反应。            记忆方面，项目采取本地文件夹存放记忆(桌宠自行决定哪些值得存放)，并采用短期记忆直接读取，长期记忆索引读取的…",
+      "url": "https://github.com/steady-sakura/dsh-friend",
+      "category": "fun",
+      "tags": [
+        "desktop-pet",
+        "dsh",
+        "dsh-plugin",
+        "live2d",
+        "llm",
+        "screen-capture"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "dsh-rice-mode",
+      "desc": "DSH 插件：无限大白饭模式。三档切换（关/本轮/常开），控制要不要往系统提示里注入「别省 token」的指令。",
+      "url": "https://github.com/frisk325/dsh-rice-mode",
+      "category": "tool",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ue-asset",
+      "desc": "DSH plugin + CLI for browsing, previewing and exporting Unreal Engine 4/5 assets from local PAK archives (CUE4Parse).",
+      "url": "https://github.com/Sumcam-L/dsh-ue-asset",
+      "category": "tool",
+      "tags": [
+        "asset-preview",
+        "dsh-plugin",
+        "ue5",
+        "unreal-engine"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-neuron-memory",
+      "desc": "Neuron-inspired memory framework + 3D neuron star-ring panel for DeepSeek Harness.",
+      "url": "https://github.com/shadowRjh/dsh-neuron-memory",
+      "category": "knowledge",
+      "tags": [
+        "dsh",
+        "dsh-neuron",
+        "dsh-plugin",
+        "memory",
+        "neuron"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-profile-stats",
+      "desc": "Personal usage profile page for the DeepSeek Harness Web UI: tokens, peak day, streaks, activity heatmap, per-provider billing split — all from local session logs.",
+      "url": "https://github.com/Lovenndme/dsh-profile-stats",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-save-button",
+      "desc": "Adds a Download button to DSH delivery cards, so files delivered with present save straight from the browser.",
+      "url": "https://github.com/hanbernate/dsh-save-button",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ios-connect",
+      "desc": "Show your iPhone screen live in the DSH right sidebar, and let the agent tap, swipe and type on it over USB. Windows, no Xcode.",
+      "url": "https://github.com/dddmxza/dsh-ios-connect",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "ios",
+        "iphone"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mermaid-plus",
+      "desc": "Mermaid diagrams for DeepSeek Harness — on-demand rendering, compact ELK layout by default, theme-aware, copy and fullscreen zoom viewer",
+      "url": "https://github.com/pidongqianqian/dsh-mermaid-plus",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "diagram",
+        "dsh-plugin",
+        "markdown",
+        "mermaid"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ulw-plan",
+      "desc": "omo explore -> plan -> execute workflow for DeepSeek Harness: /ulw-plan, /ulw-execute, four read-only role agents, inline task, and a plan-mode write guard.",
+      "url": "https://github.com/beiyanpiki/dsh-ulw-plan",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "omo",
+        "planning",
+        "workflow"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-nx",
+      "desc": "将NX接入DeepSeek Harness，能够在harness实现自然语言指令建模，装配，有限元仿真，装配体零件工程图批量导出。同时输出的prt模型能在侧边栏的nx控制台预览。全过程完全后台执行，不占用前台任务。",
+      "url": "https://github.com/aaz111/dsh-nx",
+      "category": "tool",
+      "tags": [
+        "cad",
+        "cae",
+        "deepseek-harness",
+        "dsh-plugin",
+        "nastran",
+        "nx"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-model-picker",
+      "desc": "给 DeepSeek Harness 输入框换一个按 provider 分组的模型选择器，思考档位拆成独立滑杆。",
+      "url": "https://github.com/2424830124/dsh-model-picker",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-desktop",
+        "dsh-plugin",
+        "dsh-plugin-desktop",
+        "model-picker"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-workspace-cards",
+      "desc": "DSH 侧栏工作区卡片：图标网格，点卡片原地展开会话面板",
+      "url": "https://github.com/Traveritas/dsh-workspace-cards",
+      "category": "tool",
+      "tags": [
+        "cordis-plugin",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-apple-liquid-glass",
+      "desc": "Apple-style liquid glass theme for DeepSeek Harness: composer, sidebar controls, model picker and send button, with a live 0-100% intensity control. The page background stays untouched.",
+      "url": "https://github.com/tianyuec11-design/dsh-apple-liquid-glass",
+      "category": "ui",
+      "tags": [
+        "apple",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-theme",
+        "glassmorphism"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-mail",
+      "desc": "Cross-session messaging for DeepSeek Harness: one session's agent sends a message to another session's agent.",
+      "url": "https://github.com/BJ1919810/dsh-session-mail",
+      "category": "agent",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "DSH-Paper-DeepRead",
+      "desc": "DSH-Paper-DeepRead — DeepSeek Harness (dsh) plugin: bundle the 文献精读库 paper library + paper-deepread-html deep-read skill. Browse reports, upload PDFs to a managed library, let an agent deep-read them…",
+      "url": "https://github.com/HaoKuo/DSH-Paper-DeepRead",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "literature",
+        "paper",
+        "plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-companion",
+      "desc": "QQ 官方机器人专用的 DeepSeek Harness 伙伴插件：独立记忆、图片、视频抽帧、本地语音",
+      "url": "https://github.com/sidifeng/dsh-companion",
+      "category": "fun",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "qqbot"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-harness-mobile",
+      "desc": "把 DeepSeek Harness 装进手机：手机端 App + 电脑侧 DSH 插件 + 公网中转（端到端加密）",
+      "url": "https://github.com/Imzl-zl/deepseek-harness-mobile",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "flutter",
+        "mobile"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-spanish-tutor",
+      "desc": "西语练习插件 for DeepSeek Harness：六类本地判分的练习 + 情景造句（模型批改）。 Spanish practice drills with local grading.",
+      "url": "https://github.com/liuyize-CHE/dsh-spanish-tutor",
+      "category": "tool",
+      "tags": [
+        "conjugation",
+        "deepseek-harness",
+        "dsh-plugin",
+        "language-learning",
+        "spanish"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-theme-scaramouche",
+      "desc": "A complete fan-made Scaramouche theme for DeepSeek Harness: static/video wallpapers, opening video, ambient music, particles, draggable dock. Official fan media included for non-commercial demonstrat…",
+      "url": "https://github.com/morningluu/dsh-theme-scaramouche",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "dsh-theme",
+        "genshin",
+        "javascript",
+        "scaramouche"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-helix",
+      "desc": "Turn-level branch tree and draft board for DeepSeek Harness session forks.",
+      "url": "https://github.com/Analyzer3739/dsh-session-helix",
+      "category": "tool",
+      "tags": [
+        "branch",
+        "deepseek-harness",
+        "dsh-plugin",
+        "fork",
+        "session",
+        "tree"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-prompt-library",
+      "desc": "Voyager-style prompt library, formula copy and conversation folders for DeepSeek Harness",
+      "url": "https://github.com/Kirby-YiBy/dsh-prompt-library",
+      "category": "tool",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "formula-copy",
+        "prompt-library"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-theme-notebook-paper",
+      "desc": "把 DeepSeek Harness 桌面端铺成横线笔记本纸的纯外观主题插件（Desktop profile）",
+      "url": "https://github.com/galizhajidanbaofan/dsh-theme-notebook-paper",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "deepseek-harness-desktop",
+        "deepseek-harness-plugin",
+        "dsh",
+        "dsh-plugin",
+        "notebook"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-invest-research",
+      "desc": "Multi-agent A-share research pipeline skill for DeepSeek Harness (6 roles, dual-blind risk review, source-cited reports, PII gate)",
+      "url": "https://github.com/lobster-liu/dsh-invest-research",
+      "category": "agent",
+      "tags": [
+        "dsh-plugin",
+        "dsh-plugin-desktop",
+        "dsh-plugin-market",
+        "dsh-plugins",
+        "dsh-skill"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-submodel",
+      "desc": "官方 subagent 的默认策略包：装上一次配好「什么时候自己干、什么时候派出去、派给谁」。",
+      "url": "https://github.com/angel291592/dsh-submodel",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "delegation",
+        "dsh-plugin",
+        "dsh-plugins",
+        "model-routing"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-harness-skin",
+      "desc": "给DeepSeek Harness的界面提供可更换的自定义背景和界面半透明效果",
+      "url": "https://github.com/Zdram/deepseek-harness-skin",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-cet-vocab",
+      "desc": "CET-4/CET-6 vocabulary trainer for the DeepSeek Harness Web UI: floating draggable word cards, spaced repetition, quiz mode with confusable distractors. 四六级背单词悬浮窗",
+      "url": "https://github.com/zhuran305-web/dsh-cet-vocab",
+      "category": "knowledge",
+      "tags": [
+        "cet4",
+        "cet6",
+        "dsh-plugin",
+        "english",
+        "flashcards",
+        "vocabulary"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-study-mode",
+      "desc": "学习模式（study-mode）agent 预设：主题知识库 + 检索优先的回答（命中标出处、查不到标未验证），侧边栏带知识库面板。",
+      "url": "https://github.com/waspqj/dsh-study-mode",
+      "category": "knowledge",
+      "tags": [
+        "agent-preset",
+        "dsh",
+        "dsh-bundle",
+        "dsh-plugin",
+        "knowledge-base",
+        "learning"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-menu-plus",
+      "desc": "DeepSeek Harness plugin: right-click the sidebar Session menu, export a Session as Markdown, and delete one with confirmation",
+      "url": "https://github.com/Long-Alex/dsh-session-menu-plus",
+      "category": "knowledge",
+      "tags": [
+        "context-menu",
+        "cordis",
+        "cordis-plugin",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-theme-theresa",
+      "desc": "给 DeepSeek Harness 的「特蕾西娅」主题插件：象牙白 / 墨 / 淡玫瑰配色，整页背景图、毛玻璃侧栏、侧栏立绘、四角金线、落款签名与开屏动画，全部可在设置里调。",
+      "url": "https://github.com/wanxi123w/dsh-theme-theresa",
+      "category": "ui",
+      "tags": [
+        "arknights",
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "theme",
+        "theresa"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-guizang-design",
+      "desc": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+      "url": "https://github.com/op7418/dsh-guizang-design",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "design-system",
+        "dsh-plugin",
+        "skills"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 31
+    },
+    {
+      "name": "dsh-popup-cards",
+      "desc": "Topmost DSH-styled Windows cards for DeepSeek Harness approvals, questions, plan reviews and finished runs — click to jump back to the app that started the session (DSH by default), close with the × …",
+      "url": "https://github.com/Leo1958923515/dsh-popup-cards",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "notifications",
+        "popup",
+        "windows"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-comfy-imagegen",
+      "desc": "Conversational image generation for DeepSeek Harness, backed by your local ComfyUI.",
+      "url": "https://github.com/maerd610/dsh-comfy-imagegen",
+      "category": "vision",
+      "tags": [
+        "comfyui",
+        "deepseek-harness",
+        "dsh-plugin",
+        "flux",
+        "image-generation",
+        "local-first"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "remote-dsh",
+      "desc": "DeepSeek Harness plugin: run a remote DSH inside the desktop app window (SSH bootstrap, auto-install, loopback gateway, embedded panel)",
+      "url": "https://github.com/1583477320/remote-dsh",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "remote-desktop",
+        "ssh"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-one-click-update",
+      "desc": "One-click update entry for the DSH desktop app: updates the app and the plugin-market plugins that have updates available, from the Harness Web UI sidebar.",
+      "url": "https://github.com/jaredwang/dsh-one-click-update",
+      "category": "ui",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin-manager",
+        "updater"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-typo-check",
+      "desc": "DSH 输入框查错插件：只找错别字并标黄，可一键替换；支持任意 OpenAI 兼容来源、多来源回退、每行可配提示词/max_tokens/思考模式",
+      "url": "https://github.com/kviiinh/dsh-plugin-typo-check",
+      "category": "tool",
+      "tags": [
+        "chinese",
+        "cordis-plugin",
+        "dsh",
+        "dsh-plugin",
+        "proofreading"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-zcode-workspace-memory",
+      "desc": "Workspace memory for DeepSeek Harness, ported from ZCode: a per-workspace Markdown memory directory injected into every main session, refreshed by background extraction after completed turns.",
+      "url": "https://github.com/moondrop12138/dsh-zcode-workspace-memory",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-bundle",
+        "dsh-plugin",
+        "long-term-memory",
+        "memory"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-apk-vm",
+      "desc": "Preview and debug Android APKs inside DeepSeek Harness: a local rooted AOSP VM with up to 60 fps H.264/WebCodecs streaming, drag-and-drop install, UIAutomator automation, and isolated VMs per Agent.",
+      "url": "https://github.com/yuxiaole-bili/dsh-apk-vm",
+      "category": "knowledge",
+      "tags": [
+        "ai-agents",
+        "android",
+        "android-emulator",
+        "android-vm",
+        "apk",
+        "deepseek-harness"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-genui-scope",
+      "desc": "Per-global/workspace/session trimmer for the DeepSeek Harness GenUI card system prompt",
+      "url": "https://github.com/SnakeDream/dsh-genui-scope",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-harness-intelligent-ui",
+      "desc": "Generative, interactive UI for DeepSeek Harness (DSH): declarative components and sandboxed live widgets streamed in chat.",
+      "url": "https://github.com/dreamfarer-space/deepseek-harness-intelligent-ui",
+      "category": "security",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "generative-ai"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 31
+    },
+    {
+      "name": "dsh-qqbot",
+      "desc": "QQ bot control center for DeepSeek Harness: one-click NapCat/Koishi setup, message monitor, permissions, and AI chat with personas/memory.",
+      "url": "https://github.com/prophetcrab/dsh-qqbot",
+      "category": "security",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "koishi",
+        "napcat",
+        "qqbot"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-softsensor-hub",
+      "desc": "消息中枢与管家框架，用于 DeepSeek Harness：事件模型、热重载规则、事件存储、可插拔采集器。内置系统监控在进程内运行。Message hub and butler framework for DeepSeek Harness: event model, hot-reload rules, event store, and pluggable collectors. Built-in…",
+      "url": "https://github.com/SteelUnion/dsh-softsensor-hub",
+      "category": "ui",
+      "tags": [
+        "collectors",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "message-hub",
+        "notification"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "workdsh",
+      "desc": "A WorkBuddy-style desktop workspace powered by the DSH plugin ecosystem. WorkDSH manages projects, assets, experts, skills and connectors locally on desktop. All features are extensible via DeepSeek …",
+      "url": "https://github.com/techflag/workdsh",
+      "category": "agent",
+      "tags": [
+        "agent-platform",
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugin-system"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 34
+    },
+    {
+      "name": "dsh-harmony",
+      "desc": "HarmonyOS device workbench for DSH NEXT: Better Sidebar tab, native floating mirror, and agent device tools.",
+      "url": "https://github.com/kexijiang/dsh-harmony",
+      "category": "agent",
+      "tags": [
+        "dsh-next",
+        "dsh-plugin",
+        "harmonyos"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-cnki-agent",
+      "desc": "CNKIAgent：DeepSeek Harness 知网论文研究助手插件。通过 dsh-browser-cdp 驱动本机 Edge 真实检索知网，按核心期刊编辑视角精读，分步写作（大纲→引言→正文→校订），并带右侧栏文献库面板。",
+      "url": "https://github.com/Jerry113245/dsh-cnki-agent",
+      "category": "agent",
+      "tags": [
+        "academic",
+        "cnki",
+        "deepseek-harness",
+        "dsh-plugin",
+        "literature-search",
+        "paper-writing"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-badge",
+      "desc": "The ChatGPT-style unread badge for DeepSeek Harness — a red count on the tab icon and taskbar button, one chime per finished turn.",
+      "url": "https://github.com/gaolvsuan/dsh-badge",
+      "category": "vision",
+      "tags": [
+        "badge",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "notification",
+        "taskbar"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-table-ingest",
+      "desc": "把 docx/xlsx/csv 转成规则检查器能吃的表格 JSON，带候选表、表头识别、预览与置信度。",
+      "url": "https://github.com/PerryLink/dsh-table-ingest",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ingest"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-skill-palette",
+      "desc": "DSH 技能助手：输入框旁的技能清单、分类/收藏/翻译，回答下方显示本轮用到的技能",
+      "url": "https://github.com/AlLHHH/dsh-skill-palette",
+      "category": "tool",
+      "tags": [
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "skill",
+        "skills",
+        "translation"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-safety-ledger-check",
+      "desc": "核对施工安全资格台账：三级教育与学时、培训档案四要素、特种作业证书、有效期、工种匹配、六个月实习期。",
+      "url": "https://github.com/PerryLink/dsh-safety-ledger-check",
+      "category": "security",
+      "tags": [
+        "check",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-approval-reminder",
+      "desc": "任务等待审批或任务完成时，用 Edge / Windows 桌面通知提醒你。",
+      "url": "https://github.com/In-clude/dsh-approval-reminder",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-shell-surfaces",
+      "desc": "The machine's non-pwsh execution surfaces as one DSH tool: a WSL Linux userland, nushell's structured pipelines, the MSYS2 userland (bash/zsh/fish/brush), and a real console for interactive programs.",
+      "url": "https://github.com/Nesarf/dsh-shell-surfaces",
+      "category": "vision",
+      "tags": [
+        "bash",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "fish",
+        "msys2"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-scratchpad",
+      "desc": "Scratchpad panel for DeepSeek Harness: tagged notes, image/file attachments, Markdown task lists, send-to-chat, wake-up shortcut, JSON export/import, and Agent tools.",
+      "url": "https://github.com/Chaiyahang/dsh-scratchpad",
+      "category": "vision",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "markdown",
+        "notes"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-qq-mail-notify",
+      "desc": "工作结束 QQ 邮箱通知：每轮工作真正停下后，用 SMTP 把会话摘要发到 QQ 邮箱；长任务跑太久会先发进度通报。Mailbox notification for DeepSeek Harness.",
+      "url": "https://github.com/yashua233/dsh-qq-mail-notify",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "email",
+        "notification",
+        "qq-mail"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-multi-shell",
+      "desc": "一个 DSH（DeepSeek Harness）插件：只注册一个 shell 工具，但让模型在每次调用时自己选后端—— Git Bash（默认）、PowerShell、WSL。",
+      "url": "https://github.com/deepseekv41flash/dsh-multi-shell",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "powershell",
+        "shell",
+        "windows"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-restart",
+      "desc": "一键重启 DeepSeek Harness：侧栏按钮、/restart 指令、harness_restart 工具共用同一套重启实现。One-click restart for DeepSeek Harness.",
+      "url": "https://github.com/yashua233/dsh-restart",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "restart",
+        "sidebar"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ecosystem-panel",
+      "desc": "DSH plugin: read-only ecosystem health panel - bundle / patch / skill / upgrade / decoupling diagnosis in one view | DSH 插件：只读生态健康面板，六类体检一屏看完",
+      "url": "https://github.com/kira905/dsh-ecosystem-panel",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "diagnostics",
+        "dsh",
+        "dsh-plugin",
+        "panel",
+        "plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-docdesk",
+      "desc": "A desktop-style materials panel for Markdown documents created in DeepSeek Harness.",
+      "url": "https://github.com/wei238982377/dsh-docdesk",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "documentation",
+        "dsh",
+        "dsh-plugin",
+        "markdown",
+        "plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "engramory",
+      "desc": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. Includes dsh-engramory, a DeepSeek Harness plugin.",
+      "url": "https://github.com/tinqiao-oss/engramory",
+      "category": "knowledge",
+      "tags": [
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 34
+    },
+    {
+      "name": "dsh-provider-card-release",
+      "desc": "切换模型时在会话输入框旁展示一张角色卡（DSH 宿主插件，含首装素材库）",
+      "url": "https://github.com/FallenWings27/dsh-provider-card-release",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-construction-doc-check",
+      "desc": "扫描施工项目资料目录，报告缺哪些规定资料、哪些像是过期版本、哪些文件是空的。",
+      "url": "https://github.com/PerryLink/dsh-construction-doc-check",
+      "category": "tool",
+      "tags": [
+        "check",
+        "construction",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "doc"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "Missher-MSE-Learning",
+      "desc": "Missher MSE Learning: standalone learning product for DSH and other agents; no personal learning data.；桌面入口与其他插件见主页链接。",
+      "url": "https://github.com/Missher12/Missher-MSE-Learning",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-local-policy",
+      "desc": "A cordis layer that disables shipped plugins that provide DeepSeek services in the base bundle",
+      "url": "https://github.com/xuan25/dsh-local-policy",
+      "category": "security",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "fish-memory",
+      "desc": "给 AI 用的长期记忆服务 + DeepSeek Harness 插件：提炼 / 混合召回 / 生命周期 / 日记 / 成长档案 / 记忆星图，本地 SQLite，单机自用",
+      "url": "https://github.com/ty2922059981-stack/fish-memory",
+      "category": "fun",
+      "tags": [
+        "ai-companion",
+        "deepseek-harness",
+        "dsh-plugin",
+        "embedding",
+        "long-term-memory",
+        "memory"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "dsh-multiline-input",
+      "desc": "Single/multi-line composer toggle for DeepSeek Harness: editable Cmd/Ctrl+E shortcut, a tab hint on the composer, a 4-line floor, and Shift+Enter to send.",
+      "url": "https://github.com/ZilongYang/dsh-multiline-input",
+      "category": "ui",
+      "tags": [
+        "composer",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "multiline",
+        "ui"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-template",
+      "desc": "DSH 插件模板：宿主 HTTP 路由 + 设置页 + 双语 + 测试，纯 JS 无构建。",
+      "url": "https://github.com/longyi-0x0/dsh-plugin-template",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "template"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-board",
+      "desc": "Kanban board for DeepSeek Harness: tasks bound to long-lived native Sessions, live run status, and the Session's real conversation inside the board.",
+      "url": "https://github.com/lihuu/dsh-board",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "kanban",
+        "plugin",
+        "task-board"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-canteen-retention-check",
+      "desc": "核对食堂留样台账：四要素是否齐全、留样量是否达 125 克、是否冷藏满 48 小时、是否残留模板占位符。",
+      "url": "https://github.com/PerryLink/dsh-canteen-retention-check",
+      "category": "tool",
+      "tags": [
+        "canteen",
+        "check",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-analyze",
+      "desc": "Local dataset analysis tools for DSH — ingest once, keep large tables on disk, small JSON tool calls for the model",
+      "url": "https://github.com/MonSp/dsh-analyze",
+      "category": "tool",
+      "tags": [
+        "data-analysis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-gear-mode",
+      "desc": "会话级行动档位：P/R/N/M/D/A + 手刹 H，换挡即注入行为约束提示词",
+      "url": "https://github.com/Janrilw/dsh-gear-mode",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "gear-mode"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "DSH-Plugin-Session-Delete",
+      "desc": "Delete DeepSeek Harness sessions from the UI: header danger button + sidebar session-row menu item (no conversation jump), risk-consent dialog with session name/id, stops running agents first, in-pla…",
+      "url": "https://github.com/SUKJG1052/DSH-Plugin-Session-Delete",
+      "category": "agent",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-quote-tray",
+      "desc": "豆包 / 微信式引用回复插件（DeepSeek Harness）：划选聊天记录 → 引用卡片 → 模型读到原文，输入框保持干净。零依赖。",
+      "url": "https://github.com/mzk0709/dsh-quote-tray",
+      "category": "ui",
+      "tags": [
+        "citation",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "quote",
+        "web-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-studio",
+      "desc": "插件工坊 Plugin Studio for DeepSeek Harness — 三级自动分类、批量删除、AI 大白话讲解、最后使用时间、技能管理、一键打包",
+      "url": "https://github.com/KERBALMans/dsh-plugin-studio",
+      "category": "tool",
+      "tags": [
+        "ai",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-why-reject-me",
+      "desc": "给 DSH 权限审批弹窗加一个可选的拒绝原因，并把原因作为 tool result 交给模型。",
+      "url": "https://github.com/Jorgen233/dsh-why-reject-me",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-agents-notch",
+      "desc": "An always-on-top notch for DeepSeek Harness that shows which sessions are working, which need you, and which are done. Windows.",
+      "url": "https://github.com/iArxic/dsh-agents-notch",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "notch",
+        "overlay",
+        "plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mcp-session-catalog",
+      "desc": "Session-isolated, on-demand MCP manager for DeepSeek Harness (DSH)",
+      "url": "https://github.com/dxc-dxc/dsh-mcp-session-catalog",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "mcp"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-zen-mode",
+      "desc": "Zen mode for DeepSeek Harness: a full-screen minimal countdown that hides DSH while tasks run.",
+      "url": "https://github.com/Clmzz-gra/dsh-zen-mode",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "focus",
+        "zen-mode"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-hoi4-modding",
+      "desc": "DeepSeek Harness skill bundle for Hearts of Iron IV (HOI4) 1.19.3 modding — focus trees, events, decisions, MUI, GUI, DDS, verifier, installer",
+      "url": "https://github.com/a1249070611/dsh-hoi4-modding",
+      "category": "agent",
+      "tags": [
+        "agent-skills",
+        "deepseek-harness",
+        "dsh-plugin",
+        "hoi4",
+        "hoi4-modding"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-matlab-runner",
+      "desc": "MATLAB in the DeepSeek Harness sidebar: VS Code-like .m editor, warm MATLAB session (figures open), workspace variables, .mlx preview, matlab_run agent tool.",
+      "url": "https://github.com/seally-web/dsh-matlab-runner",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "editor",
+        "matlab",
+        "sidebar"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-bar",
+      "desc": "会话状态条 for DeepSeek Harness — 运行中显示估算进度与流光进度条，完成后整行转橙并保留到你点开为止。",
+      "url": "https://github.com/290949841-gif/dsh-session-bar",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "progress-bar",
+        "session-status"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mobile-remote",
+      "desc": "🐳 手机扫码远程控制 DSH 桌面客户端：局域网 / 公网隧道双模，二维码一键连接（浏览器或微信）。DSH 仍旧只听 127.0.0.1，不改绑定地址，鉴权交给 DSH 自己。",
+      "url": "https://github.com/0231071/dsh-mobile-remote",
+      "category": "tool",
+      "tags": [
+        "cloudflared",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "mobile",
+        "qrcode"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-memewiki",
+      "desc": "梗百科：内置 6668 条梗/黑话词库，自动查梗并注入上下文，让模型认得群里的梗，不硬猜。移植自 AstrBot 的 astrbot_plugin_memewiki。",
+      "url": "https://github.com/thawline/dsh-memewiki",
+      "category": "knowledge",
+      "tags": [
+        "astrbot",
+        "chinese",
+        "deepseek-harness",
+        "dsh-plugin",
+        "meme",
+        "meme-wiki"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-memory-watchdog",
+      "desc": "Windows commit-memory watchdog for DSH Desktop: commit attribution, configurable thresholds, a fail-closed restart gate, read-only pagefile advice, a 7-day crash timeline, and opt-in automatic restar…",
+      "url": "https://github.com/elegant01/dsh-memory-watchdog",
+      "category": "knowledge",
+      "tags": [
+        "commit-charge",
+        "dsh-plugin",
+        "memory",
+        "oom",
+        "watchdog",
+        "windows"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-buddy-control",
+      "desc": "DSH 中控台：把活派给 CodeBuddy / WorkBuddy，自己验收，不合格打回同一会话返工；跨设备识别 + 一键部署。Supervised local-agent dispatch for DeepSeek Harness.",
+      "url": "https://github.com/zzy-super/dsh-buddy-control",
+      "category": "agent",
+      "tags": [
+        "acceptance-testing",
+        "ai-agent",
+        "automation",
+        "codebuddy",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-blender-mc",
+      "desc": "Turn a Minecraft Java save into Blender covers and animations. Scans .mca regions for flat open ground, exports the terrain, drives Blender headless with MCprep materials, the BPS rig and three-point…",
+      "url": "https://github.com/TreeCodeTyper/dsh-blender-mc",
+      "category": "vision",
+      "tags": [
+        "3d-rendering",
+        "animation",
+        "blender",
+        "computer-vision",
+        "dsh-plugin",
+        "minecraft"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-linear",
+      "desc": "Linear tools and hosted MCP bridge for DeepSeek Harness",
+      "url": "https://github.com/KB1SLN-Labs/dsh-linear",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-tavern-wrongbook",
+      "desc": "DSH Tavern 错题库：按人物卡分类记下调试中踩过的坑，先查本卡、再跨卡。 / Per-card defect ledger for DSH Tavern.",
+      "url": "https://github.com/XGUIMAX/dsh-tavern-wrongbook",
+      "category": "tool",
+      "tags": [
+        "character-card",
+        "debug",
+        "dsh",
+        "dsh-plugin",
+        "dsh-tavern",
+        "tavern"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-workbuddy-panel",
+      "desc": "优化版 WorkBuddy2API 网关 + DSH 原生面板：UA、头族与设备指纹对齐官方 WorkBuddy Desktop 5.9.2，内核可独立更新。",
+      "url": "https://github.com/functy23/dsh-workbuddy-panel",
+      "category": "ui",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 31
+    },
+    {
+      "name": "dsh-ebbing-context",
+      "desc": "模拟记忆衰退的 DSH 分层上下文压缩插件：原文 → L1 → L2 → L3，越旧分辨率越低，但从不删除。",
+      "url": "https://github.com/Light-EI/dsh-ebbing-context",
+      "category": "knowledge",
+      "tags": [
+        "compaction",
+        "context-compression",
+        "dsh-plugin",
+        "layered-context",
+        "memory"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-pet-assistant",
+      "desc": "给 dsh-pet 桌宠加一张会话小卡片：右键宠物就能进入会话、看历史、继续聊、框选截图提问。",
+      "url": "https://github.com/Chuzhidezhuzhuboy/dsh-pet-assistant",
+      "category": "ui",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-desktop",
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-fish-soul",
+      "desc": "鱼 · 人格、按人记忆、日程自走与主动开口，直连 SnowLuma 收发 QQ，B站小号私信与自己刷视频（DSH 插件，单角色 feiyu）",
+      "url": "https://github.com/Britneycode/dsh-fish-soul",
+      "category": "knowledge",
+      "tags": [
+        "bilibili",
+        "chatbot",
+        "dsh",
+        "dsh-plugin",
+        "feiyu",
+        "llm-agent"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-jev-advisor",
+      "desc": "Jev (TypeSafe System One) gives the human a second opinion, not the agent. When DSH's model asks you a multiple-choice question, dsh-jev-advisor builds a structured Jev request and floats the recomme…",
+      "url": "https://github.com/gordan-code/dsh-jev-advisor",
+      "category": "agent",
+      "tags": [
+        "agent-harness",
+        "ai-agent",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-desktop"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh_qzone_sticker",
+      "desc": "给 DeepSeek Harness 用的 QQ 空间插件。它在本机静默起一份专属 Chrome（headless，不占你屏幕），第一次用手机 QQ 扫码登录；之后不用你开浏览器、不用你点按钮——模型可以自己挑时机发说说，还能配上表情包图片，每天发几条、两条隔多久、公开还是仅自己，都能设。",
+      "url": "https://github.com/kdcadmin/dsh_qzone_sticker",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "qq-space",
+        "qzone"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-prompt-picker",
+      "desc": "Prompt picker for DeepSeek Harness - multi-select system-prompt injections with per-row scopes (both/main/sub), one bolt icon in the composer.",
+      "url": "https://github.com/solopole/dsh-prompt-picker",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "prompt",
+        "system-prompt"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-alert",
+      "desc": "DeepSeek Harness 手机提醒插件：AI 跑完 / 出错 / 等你审批时推到手机。7 个免费通道可选，纯提醒，不强依赖其它插件。",
+      "url": "https://github.com/ysl289/dsh-alert",
+      "category": "ui",
+      "tags": [
+        "bark",
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "mobile",
+        "notification"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-course-assistant",
+      "desc": "DeepSeek Harness 插件：课程文件（PPTX/PDF/DOCX/MD）→ 目录识别 · 分章知识点 · B 站网课推荐 · Markdown/PDF 学习报告",
+      "url": "https://github.com/logb-1/dsh-course-assistant",
+      "category": "knowledge",
+      "tags": [
+        "bilibili",
+        "course-assistant",
+        "deepseek-harness",
+        "dsh-plugin",
+        "pdf",
+        "pptx"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-memory-plugin",
+      "desc": "这是我为 DSH （DeepSeek Harness） 制作的一款插件，可以进行跨对话记忆支持手动导入",
+      "url": "https://github.com/2132774831/dsh-memory-plugin",
+      "category": "knowledge",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-design-studio",
+      "desc": "Design canvas for DeepSeek Harness (DSH): screens in device frames, click an element to edit it, versions, export, phone preview. · DSH 设计工作台：模型画的界面摆上画布，点一下就改。",
+      "url": "https://github.com/OrderG-X/dsh-design-studio",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "canvas",
+        "deepseek",
+        "deepseek-harness",
+        "design-canvas",
+        "design-tools"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 31
+    },
+    {
+      "name": "dsh-session-search-bar",
+      "desc": "DeepSeek Harness 会话搜索栏插件：按关键词搜索历史会话的消息正文，点结果直接定位到命中文字。",
+      "url": "https://github.com/chopperH0824/dsh-session-search-bar",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "search",
+        "session-search"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ntr-plus",
+      "desc": "dsh-ntr 0.1.5 的个人构建版：普通对话可直接切到 CodeBuddy / Claude Code 等 ACP agent 的模型，首次切换自动带上会话历史。",
+      "url": "https://github.com/Feiyu180/dsh-ntr-plus",
+      "category": "agent",
+      "tags": [
+        "acp",
+        "claude-code",
+        "codebuddy",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-region-edit",
+      "desc": "DeepSeek Harness 桌面插件：自由圈选预览内容，视觉识别目标，再用自然语言提出修改要求。无需截图。",
+      "url": "https://github.com/a961282799-crypto/dsh-region-edit",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "desktop",
+        "dsh-plugin",
+        "lasso-selection",
+        "vision"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-google-chrome-use",
+      "desc": "Let DeepSeek Harness use Google Chrome on macOS and Windows",
+      "url": "https://github.com/BaronCyrus/dsh-google-chrome-use",
+      "category": "agent",
+      "tags": [
+        "browser-automation",
+        "chrome",
+        "chrome-devtools-mcp",
+        "deepseek-harness",
+        "dsh-plugin",
+        "mcp"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-skill-cockpit",
+      "desc": "Skill cockpit for DSH: one page listing every skill the machine exposes, why a skill is invisible, per-skill usage counts, and a one-file toggle.",
+      "url": "https://github.com/huanlin-labs/dsh-skill-cockpit",
+      "category": "tool",
+      "tags": [
+        "cockpit",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-bundle",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-pet-plugin",
+      "desc": "Photo-real desk pet plugin for DeepSeek Harness: four personas, expressions + actions, proactive speech, neural TTS, tiny chat box that never touches your session.",
+      "url": "https://github.com/zuoyunlai/dsh-pet-plugin",
+      "category": "fun",
+      "tags": [
+        "desktop-pet",
+        "dsh",
+        "dsh-plugin",
+        "i18n",
+        "tts"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ui-polish",
+      "desc": "A dsh-native UI polish plugin: motion, elevation, 7-stop scroll fades, status glow, typography, spring profiles, optional sounds and third-party plugin adaptation - without changing layout or brand.",
+      "url": "https://github.com/deepseaandhighsky-arch/dsh-ui-polish",
+      "category": "ui",
+      "tags": [
+        "accessibility",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "motion",
+        "polish"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-projects",
+      "desc": "Claude-Desktop-style Projects sidebar plugin for DeepSeek Harness Desktop: group conversations into projects, per-conversation working directories, drag-and-drop migration, permanent empty-conversati…",
+      "url": "https://github.com/aobakaolengmian/dsh-projects",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "desktop",
+        "dsh-plugin",
+        "projects"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-minimax-connect",
+      "desc": "Use the MiniMax Code (Mavis) subscription already signed in on this machine as a DeepSeek Harness model provider — with self-renewing credentials, a points/check-in panel and a model roster editor.",
+      "url": "https://github.com/VICqiufeeng/dsh-minimax-connect",
+      "category": "ui",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "llm-provider",
+        "mavis"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-agent-clean",
+      "desc": "Remove subagent entries from DeepSeek Harness session logs without breaking the log, delete orphaned projection caches, and purge whole sessions — always dry-run first, always with a backup.",
+      "url": "https://github.com/PolitaryMonicy/dsh-agent-clean",
+      "category": "agent",
+      "tags": [
+        "cli",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "session-management"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-local-library",
+      "desc": "Local document library for DSH Desktop — files stay on your machine, every conversation can search / read / download them through 4 tools. 中文：设置左栏的本地资料库，文件只存本机、跨会话共享，agent 自动可见。",
+      "url": "https://github.com/Fucaplos/dsh-local-library",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "knowledge-base",
+        "local-first",
+        "rag-lite"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-obsidian-file-opener",
+      "desc": "One-click Obsidian file opener for the DeepSeek Harness Web GUI: plain-clicking a vault file reference (chat links, tool-row paths, @file mentions, file tree) opens it in the Obsidian app instead of …",
+      "url": "https://github.com/Wang-Chuming/dsh-obsidian-file-opener",
+      "category": "ui",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "obsidian"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-dpharness",
+      "desc": "在 dsh 里浏览 dpharness.com 的插件目录并一键安装 —— 严选插件（汉化优先 + 可信度筛选）。Curated dsh plugin catalog for DeepSeek Harness with one-click install.",
+      "url": "https://github.com/zhanghao3693/dsh-dpharness",
+      "category": "tool",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-prompt-assistant",
+      "desc": "DeepSeek Harness 提示词助手：文生图 / 图像编辑 / 模型原生提示词，带参考图和对话调整",
+      "url": "https://github.com/MJDACK/dsh-prompt-assistant",
+      "category": "vision",
+      "tags": [
+        "ai",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "image-editing",
+        "prompt-engineering"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-task-sfx",
+      "desc": "大肥鱼的任务结束提示音，声音可以用filee将视频转为MP3",
+      "url": "https://github.com/kanmanJO/dsh-task-sfx",
+      "category": "vision",
+      "tags": [
+        "audio",
+        "chime",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-model-avail",
+      "desc": "DSH 插件：探测每个模型能否真实应答，并按可用模型数重排模型选择器中的提供商",
+      "url": "https://github.com/Shino113-1/dsh-model-avail",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "llm",
+        "model-availability"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-rhine-splash",
+      "desc": "Rhine Lab theme for DeepSeek Harness — 莱茵生命主题：开屏动画、界面主题、品牌标志与附加功能",
+      "url": "https://github.com/Respawn-ID/dsh-rhine-splash",
+      "category": "ui",
+      "tags": [
+        "arknights",
+        "deepseek-harness",
+        "dsh-plugin",
+        "rhine-lab",
+        "splash-screen"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 31
+    },
+    {
+      "name": "dsh-intercom",
+      "desc": "DeepSeek Harness 的窗口内线电话 —— 让已经开着的会话窗口互相喊话，不建团队、不生新会话",
+      "url": "https://github.com/kumiiwaka/dsh-intercom",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-pocket-reportModify-and-add",
+      "desc": "把 DeepSeek Harness 装进你的口袋，对原作者shaobeichen的版本源码用deepseek跑了一点修改，并且做出了能使用的APK手机版进行操作，能够自动一键公网内网互通",
+      "url": "https://github.com/Mrsirlila/dsh-pocket-reportModify-and-add",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-pocket"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 31
+    },
+    {
+      "name": "dsh-mode-skills",
+      "desc": "Skill manager for DeepSeek Harness (dsh): per-mode switches, search and tags, create/edit/import/version, install from GitHub",
+      "url": "https://github.com/xiaohai-78/dsh-mode-skills",
+      "category": "agent",
+      "tags": [
+        "agent-skills",
+        "deepseek-harness",
+        "dsh-plugin",
+        "skills"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-sketchpad",
+      "desc": "给Deepseek Harness界面添加一块画板。",
+      "url": "https://github.com/bmhty123/dsh-sketchpad",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-toomuch-plugins",
+      "desc": "给 DSH Web 侧栏腾点地方。 Too many DSH plugins, too little room.",
+      "url": "https://github.com/rivenshanghai/dsh-toomuch-plugins",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "sidebar"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-folder-search",
+      "desc": "Search local Word/PDF/PPT/Excel folders for exam questions and export paper drafts.Extensive use of AI assisted programming",
+      "url": "https://github.com/Voyager77Twt/dsh-folder-search",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-moa-native",
+      "desc": "Many models draft, one executes for DeepSeek Harness.",
+      "url": "https://github.com/DDL095/dsh-moa-native",
+      "category": "agent",
+      "tags": [
+        "dsh-plugin",
+        "mixture-of-agents",
+        "moa"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-zotero-skill",
+      "desc": "为 DeepSeek Harness 打造的 Zotero 文献技能：找文献、追前沿、筛核心论文、管理文献（标签/归集/查重）、批量阅读、按研究方向与论文类型/方法/数据组建多层文件夹、提炼脉络、发现空白，并支持每日自动收录新论文。纯 Python 标准库，直连 Zotero 本地 API 与 OpenAlex，无需 MCP 或 API Key；写操作需一次性授权。改编自 OpenAI Zote…",
+      "url": "https://github.com/Eason-0712/dsh-zotero-skill",
+      "category": "agent",
+      "tags": [
+        "agent-skill",
+        "deepseek-harness",
+        "dsh-plugin",
+        "literature-review",
+        "openalex",
+        "python"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-user-code-block",
+      "desc": "Syntax highlighting, copy button and monochrome mode for code blocks in DeepSeek Harness Desktop (DSH) chat user messages. No dependencies, no build step.",
+      "url": "https://github.com/VictorKozachek/dsh-user-code-block",
+      "category": "ui",
+      "tags": [
+        "chat-ui",
+        "code-block",
+        "deepseek",
+        "deepseek-harness",
+        "deepseek-harness-desktop",
+        "dsh"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-power-mini",
+      "desc": "DSH 插件：会话头电源按钮，重启/退出 DSH | Power menu for DeepSeek Harness desktop",
+      "url": "https://github.com/CECILIALOVE0616/dsh-power-mini",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "electron"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-peak-indicator",
+      "desc": "A lightweight DeepSeek API Peak/Off-Peak indicator for DeepSeek Harness Desktop.",
+      "url": "https://github.com/jalilahmad/deepseek-peak-indicator",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "deepseek-harness-desktop",
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugins",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-group-meeting-slides",
+      "desc": "DeepSeek Harness 技能：把英文论文 PDF 变成中文组会汇报 PPT，图表用原文真实像素",
+      "url": "https://github.com/wld12314/dsh-group-meeting-slides",
+      "category": "tool",
+      "tags": [
+        "chinese",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "group-meeting",
+        "paper"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-subagent-model-notes",
+      "desc": "Per-model notes for subagent delegation in DeepSeek Harness: a settings page beside the official Subagent page, and the notes injected into the delegating agent's system prompt.",
+      "url": "https://github.com/097794/dsh-subagent-model-notes",
+      "category": "knowledge",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "model-selection",
+        "plugin",
+        "subagent"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-zcode-plan-bridge",
+      "desc": "DSH plugin: serves model requests through the ZCode CLI's account-backed agent over its own app-server protocol (real streaming, image input, per-session reuse). The model list is read from the CLI, …",
+      "url": "https://github.com/tangyixiao/dsh-zcode-plan-bridge",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "glm",
+        "zcode"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-narrator",
+      "desc": "DSH plugin: plain-language narration, an uncertainty gate, and mid-run interruption policy for DeepSeek Harness agents.",
+      "url": "https://github.com/Chasterccj/dsh-narrator",
+      "category": "security",
+      "tags": [
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugins",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-md-plus",
+      "desc": "Markdown display enhancements for DeepSeek Harness Web/Desktop: code block cards, Mermaid diagrams with a fullscreen viewer and SVG/PNG export, sticky table headers with CSV/Markdown copy, fold for l…",
+      "url": "https://github.com/JosephHy/dsh-md-plus",
+      "category": "ui",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-public-edge",
+      "desc": "DSH 公网访问插件：设置页一键启停 Cloudflare 隧道、复制带 token 的公网链接与二维码，内置局域网桥（Host 改写/剥 Origin/WebSocket 透传），cloudflared 自动下载。",
+      "url": "https://github.com/ArtificialAngels/dsh-public-edge",
+      "category": "ui",
+      "tags": [
+        "cloudflare-tunnel",
+        "cordis-plugin",
+        "deepseek-harness",
+        "dsh-plugin",
+        "remote-access"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-usage-stats",
+      "desc": "Token usage statistics for DeepSeek Harness: sidebar entry + panel with daily, per-model and per-session totals (unofficial community plugin)",
+      "url": "https://github.com/aooyoo/dsh-usage-stats",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "usage-statistics"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-pyrun",
+      "desc": "DeepSeek Harness（DSH）插件：Python 快捷执行工具，源码经 stdin 直灌 `python -X utf8 -u -`，一步返回结果，全链路 UTF-8，支持后台作业与沙箱提权。",
+      "url": "https://github.com/ds-hu/dsh-plugin-pyrun",
+      "category": "security",
+      "tags": [
+        "ai-agent",
+        "cordis",
+        "deepseek-harness",
+        "dsh-plugin",
+        "python",
+        "sandbox"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-video-understanding",
+      "desc": "让 DSH 真正看视频的本地 MCP：VideoChat3/Qwen3-VL 视觉描述 + Whisper 语音转写 + 时间戳关键帧，三路独立证据交给决策模型核实。Windows, Python 3.13",
+      "url": "https://github.com/TongPeng-1/dsh-video-understanding",
+      "category": "vision",
+      "tags": [
+        "bilibili",
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "local-llm",
+        "mcp"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-engram",
+      "desc": "Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API…",
+      "url": "https://github.com/kenz1117/dsh-engram",
+      "category": "knowledge",
+      "tags": [
+        "agent",
+        "agent-memory",
+        "awesome-dsh-plugin",
+        "context-engineering",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 31
+    },
+    {
+      "name": "dsh-desktop-ark",
+      "desc": "The official DeepSeek Harness (DSH) Web UI, unmodified, running on HarmonyOS 2in1 / tablet inside the system ArkWeb — with the dsh Host on a real Node.js runtime embedded in the same process. No Elec…",
+      "url": "https://github.com/fellow99/dsh-desktop-ark",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "harmonyos"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-desktop-hos",
+      "desc": "Electron 37 on HarmonyOS / OpenHarmony — run DeepSeek Harness (DSH) as a native 2in1 / tablet app. 鸿蒙上的 AI Agent 工作台",
+      "url": "https://github.com/fellow99/dsh-desktop-hos",
+      "category": "agent",
+      "tags": [
+        "2in1",
+        "arkts",
+        "deepseek-harness",
+        "desktop-app",
+        "dsh",
+        "dsh-market"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-subagent-switch",
+      "desc": "DSH plugin: routes each subagent to the best local model — free-first, quota-aware, capability-matched — with a control panel.",
+      "url": "https://github.com/wld12314/dsh-subagent-switch",
+      "category": "agent",
+      "tags": [
+        "agent-orchestration",
+        "ai-agent",
+        "auto-switch",
+        "cost-aware",
+        "cost-saving",
+        "deepseek"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "qoder-to-dsh",
+      "desc": "把 Qoder 的模型额度原生接进 DeepSeek Harness 的纯 dsh 插件",
+      "url": "https://github.com/Ianzhyh/qoder-to-dsh",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "ai-coding",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "javascript"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-id-copy",
+      "desc": "DeepSeek Harness plugin: show a 6-character session id badge next to the conversation title and copy the full session id on click",
+      "url": "https://github.com/prgrmrwy/dsh-session-id-copy",
+      "category": "tool",
+      "tags": [
+        "clipboard",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "session-id"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-vehicle-dynamics",
+      "desc": "把 Gillespie《车辆动力学基础》整本书重写成 164 张可执行工程检查单的 DSH 技能；附约 77 处原文缺陷标注，不复制原文。｜ A DSH skill: Gillespie's vehicle dynamics rewritten as 164 executable engineering checklists, ~77 source defects documented, no …",
+      "url": "https://github.com/Qiujiyuantiantian/dsh-vehicle-dynamics",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-rea",
+      "desc": "REA（Reverse Engineer Anything）的 DeepSeek Harness 插件：一个 bundle 同时挂载 MCP 服务器、渐进式披露桥接和设置面板配置页，REA 配置只留一份文件",
+      "url": "https://github.com/yin1895/dsh-rea",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "mcp",
+        "rea"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "DSH-Document-Writer",
+      "desc": "12-stage document writing pipeline for DeepSeek Harness (DSH): Markdown-first, human rewrite, independent review, user gates, docx/pptx.",
+      "url": "https://github.com/HiBer2007/DSH-Document-Writer",
+      "category": "agent",
+      "tags": [
+        "ai-writing",
+        "cordis-plugin",
+        "deepseek-harness",
+        "document-automation",
+        "docx",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-media-studio",
+      "desc": "DeepSeek Harness 0.2.0 插件：在聊天里生成图片/视频并发送到会话（Agnes / OpenAI 兼容，后台任务，内联画廊）",
+      "url": "https://github.com/1497105876/dsh-media-studio",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "boardwise",
+      "desc": "AI harness for EasyEDA Pro — offline schematic/PCB design review, live bridge (daemon + editor extension), review-to-local-edit with verified persistence",
+      "url": "https://github.com/XiangyuYue/boardwise",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "dsh-plugin",
+        "easyeda",
+        "eda",
+        "hardware",
+        "schematic-review"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 31
+    },
+    {
+      "name": "dsh-yet-another-slider-thingy",
+      "desc": "接管 DSH composer 的模型位：模型行 + 思考强度滑条（三套外观 / 独立配色 / 四套特效 / 逐档与平滑拖动）。Composer model seat with a reasoning-effort slider, three skins, five palettes and four tier-driven effects.",
+      "url": "https://github.com/Traveritas/dsh-yet-another-slider-thingy",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "model-picker",
+        "reasoning-effort",
+        "slider"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-comfyui-workbench",
+      "desc": "DSH ComfyUI workbench: asset library + arbitrary workflow runner",
+      "url": "https://github.com/YuChenLiao/dsh-comfyui-workbench",
+      "category": "vision",
+      "tags": [
+        "comfyui",
+        "deepseek-harness",
+        "dsh",
+        "dsh-better-sidebar",
+        "dsh-plugin",
+        "dsh-plugins"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mind",
+      "desc": "给 DeepSeek Harness 加一套心情系统：33 种心情、跨会话记忆、审美品味库、加密日记、主动开口。日记只由模型自己写，插件只攒素材，没有系统总结模板套话。",
+      "url": "https://github.com/wld12314/dsh-mind",
+      "category": "knowledge",
+      "tags": [
+        "ai-persona",
+        "deepseek-harness",
+        "diary",
+        "dsh",
+        "dsh-plugin",
+        "memory"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-problem-bank",
+      "desc": "problem bank(题库)插件面向数学出题和组卷，输入相关的资料，它会以知识点子图，题型骨架和技巧库结构化存题，最后实现题目创新性魔改",
+      "url": "https://github.com/ziyans2022/dsh-problem-bank",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "education",
+        "math",
+        "problem-bank"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-default-model",
+      "desc": "Pin the DeepSeek Harness default model from settings — new chats, restarts and in-chat model switches leave it alone.",
+      "url": "https://github.com/LFELKEEA/dsh-default-model",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-full-throttle",
+      "desc": "Full Throttle mode for DeepSeek Harness: a composer switch that injects a high-budget, no-holds-barred instruction into the system prompt.",
+      "url": "https://github.com/RorschachXR/dsh-full-throttle",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "full-throttle"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-provider-hub",
+      "desc": "DeepSeek Harness 插件：设置页里的「供应商中心」——看清会话在用谁、配置引用了谁、谁缺定义，并一键补齐（消除 NO_ADAPTER）",
+      "url": "https://github.com/xuanbaon/dsh-provider-hub",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "llm",
+        "provider",
+        "settings"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-buwang",
+      "desc": "不忘 —— 全称「主动记录的日记与过往，我不会忘记」的私人记忆库。DSH 记忆插件：三层记忆 + 按需加载的工坊；只在你开口时才写、才读，纯本机 Markdown 不联网。这是羡渝渝和 AI 伙伴蓝曦一起做的第一个插件。",
+      "url": "https://github.com/cheeseRatRat/dsh-buwang",
+      "category": "knowledge",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "diary",
+        "dsh",
+        "dsh-plugin",
+        "local-first"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-auto-review-panel",
+      "desc": "Read-only DeepSeek Harness (DSH) plugin that surfaces the official Auto Review verdicts — review records and host-outcome evidence — in a sidebar panel. / DSH 自动审阅功能日志抓取",
+      "url": "https://github.com/cherrchen/dsh-auto-review-panel",
+      "category": "vision",
+      "tags": [
+        "auto-review",
+        "code-review",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-works-gallery",
+      "desc": "Works gallery for DeepSeek Harness",
+      "url": "https://github.com/822376583-hub/dsh-works-gallery",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "gallery",
+        "images",
+        "media",
+        "sidebar"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-x6-core",
+      "desc": "X6 dsh plugin dsh-plugin-x6-core",
+      "url": "https://github.com/saigonyangan/dsh-plugin-x6-core",
+      "category": "security",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "oauth",
+        "plugin-market",
+        "x6"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mcl",
+      "desc": "零依赖 Node 版 Minecraft 启动器：装原版 / Fabric / Forge / NeoForge / 模组 / 整合包，可被脚本和 AI 驱动的 CLI + HTTP 接口，附 DSH 插件",
+      "url": "https://github.com/end876/dsh-mcl",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "fabric",
+        "launcher",
+        "minecraft",
+        "nodejs"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-balance-view",
+      "desc": "一个能让大肥鱼自动查看余额的插件。你直接在QQ里问她：帮我查一下余额，她就能报出来数字。",
+      "url": "https://github.com/President-H/dsh-balance-view",
+      "category": "tool",
+      "tags": [
+        "balance",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-pack"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-market",
+      "desc": "A structured plugin marketplace for DeepSeek Harness — each plugin described as JSON, auto-aggregated into a single plugins.json for the dsh-plugins.github.io site. DeepSeek Harness 结构化插件市场 —— 每个插件以 …",
+      "url": "https://github.com/dsh-plugins/dsh-plugin-market",
+      "category": "tool",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins",
+        "market",
+        "plugin-market"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-auxiliary",
+      "desc": "Auxiliary models for DeepSeek Harness: vision understanding and context compression through dedicated model routes. DeepSeek Harness 辅助模型插件：为视觉理解、上下文压缩、审批审查、子代理、会话标题与图片生成提供独立的模型路由、工具与系统提示，全程不触碰主对话模型。",
+      "url": "https://github.com/dsh-plugins/dsh-auxiliary",
+      "category": "vision",
+      "tags": [
+        "approval",
+        "context-compression",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "router"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 31
+    },
+    {
+      "name": "dsh-preset-manager",
+      "desc": "DSH（DeepSeek Harness）桌面端的 Agent 预设管理器：顶栏切换预设、按预设注入工具引导、子代理预设策略、预设包导入导出，并附带「标准模式·加强版」预设。Agent preset manager for DeepSeek Harness.",
+      "url": "https://github.com/L-Shy-P/dsh-preset-manager",
+      "category": "agent",
+      "tags": [
+        "agent-preset",
+        "ai-agent",
+        "cordis",
+        "deepseek",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "stronger-dsh",
+      "desc": "Native DSH interface, motion, bounded context recall, scoped skills and agent collaboration.",
+      "url": "https://github.com/liyuxuan20111101/stronger-dsh",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "memory",
+        "skills",
+        "ui"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-session-health",
+      "desc": "Session health card for DeepSeek Harness: context fill plus evidence-backed hints when a tool keeps failing or a task never finishes. Read-only, offline. DSH 会话状态看板：显示上下文占用，同工具连续失败或任务无终态时给出证据；只读本地会话，…",
+      "url": "https://github.com/kingrenqi-wq/dsh-session-health",
+      "category": "knowledge",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "observability",
+        "session"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-solidworks",
+      "desc": "DeepSeek Harness 的 SolidWorks MCP 集成（自本机仓库同步）",
+      "url": "https://github.com/tan000tan/dsh-solidworks",
+      "category": "agent",
+      "tags": [
+        "cad-automation",
+        "com-automation",
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "DSH-Cyrene",
+      "desc": "DeepSeek Harness 插件：增加「纯文本对话模式」agent 预设——整份替换系统提示词进行纯角色对话，只保留联网搜索与表情包。随包人设文本整理自开源项目 Cyrene-Agent（MIT）。",
+      "url": "https://github.com/Cyrene-xl/DSH-Cyrene",
+      "category": "agent",
+      "tags": [
+        "agent-preset",
+        "chat",
+        "deepseek-harness",
+        "dsh-plugin",
+        "personal"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 31
+    },
+    {
+      "name": "dsh-cheerful",
+      "desc": "DSH 插件：cheer 工具 + 礼炮彩带效果（V0.1-Unstable，实验性）",
+      "url": "https://github.com/Mika-Maki/dsh-cheerful",
+      "category": "tool",
+      "tags": [
+        "celebration",
+        "confetti",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "unstable"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-deepseek-balance",
+      "desc": "DeepSeek API 余额，常驻在 dsh 输入框旁边。零配置、零 token 成本。",
+      "url": "https://github.com/g34y0r/dsh-deepseek-balance",
+      "category": "tool",
+      "tags": [
+        "api-balance",
+        "balance",
+        "cordis",
+        "deepseek",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-peak-valley",
+      "desc": "DSH 峰谷调度插件：北京时间工作日 9-12 / 14-18 峰时自动停止 SnowLuma 与语音服务，谷时自动拉起。",
+      "url": "https://github.com/LFELKEEA/dsh-peak-valley",
+      "category": "agent",
+      "tags": [
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "scheduler",
+        "snowluma",
+        "windows"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-imagegen-video",
+      "desc": "DeepSeek Harness plugin: image + video generation studio with an infinite canvas. Fork of dickpy/dsh-imagegen with a complete video pipeline and clip stitching.",
+      "url": "https://github.com/q253595422/dsh-imagegen-video",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 31
+    },
+    {
+      "name": "media-suite",
+      "desc": "DSH plugins for media generation: Qwen (DashScope) and RunningHub image/video capabilities.",
+      "url": "https://github.com/do-nothing/media-suite",
+      "category": "vision",
+      "tags": [
+        "ai-image-generation",
+        "deepseek-harness",
+        "dsh-plugin",
+        "text-to-speech"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-scheduler",
+      "desc": "DSH scheduler plugin: cron/interval/once jobs, headless execution, run ledger, deliverTo, circuit breaker, session management UI",
+      "url": "https://github.com/LosEcher/dsh-scheduler",
+      "category": "agent",
+      "tags": [
+        "cron",
+        "deepseek-harness",
+        "dsh-plugin",
+        "scheduler"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-work-review",
+      "desc": "DeepSeek Harness plugin: turn a week of journals and Dream reports into an ISO-week routine report, read in a read-only Work Review sidebar panel.",
+      "url": "https://github.com/Wang-Chuming/dsh-work-review",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "journal",
+        "obsidian"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-remote-console",
+      "desc": "DSH (DeepSeek Harness) plugin — right-sidebar SSH terminal where you and your AI agent share one PTY, one activity log, and one audit trail.",
+      "url": "https://github.com/cccodder/dsh-remote-console",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-ssh"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-book",
+      "desc": "三本书，一副记性 —— 给 AI 的笔记本 / 工作本 / 日记本，全是 Markdown，零依赖",
+      "url": "https://github.com/Zhi-yin666/dsh-book",
+      "category": "knowledge",
+      "tags": [
+        "ai-agent",
+        "deepseek-harness",
+        "dsh-plugin",
+        "markdown",
+        "memory",
+        "notebook"
+      ],
+      "icon": "🧠",
+      "bg": "linear-gradient(135deg, #654ea3 0%, #eaafc8 100%)",
+      "tool": "记忆",
+      "hot": 27
+    },
+    {
+      "name": "dsh-workbay",
+      "desc": "DSH workbench: a dock host, GitCraft and Downloader pages, a shared host kit, and a one-shot suite bundle.",
+      "url": "https://github.com/1Lry1/dsh-workbay",
+      "category": "ui",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "git-gui",
+        "sidebar"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-shengtu",
+      "desc": "Multi-engine image generation for DeepSeek Harness: agent tool + composer-dock panel (Volcengine Ark / SiliconFlow / OpenAI-compatible).",
+      "url": "https://github.com/xuhairui-dzz/dsh-shengtu",
+      "category": "vision",
+      "tags": [
+        "ark",
+        "deepseek-harness",
+        "dsh-plugin",
+        "image-generation",
+        "seedream",
+        "siliconflow"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-auth-cookie-guard",
+      "desc": "为本地监听器预留足够的请求头预算，并在启动后退休旧启动 cookie，避免桌面欢迎握手被 431 永久锁死。",
+      "url": "https://github.com/jitianjiyan/dsh-auth-cookie-guard",
+      "category": "security",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-big-whale",
+      "desc": "大鲸鱼 / Big Whale / 大クジラ — a trilingual DSH desktop companion with lip sync, expressions, idle motions and context-compaction rice.",
+      "url": "https://github.com/Aliciawque/dsh-big-whale",
+      "category": "fun",
+      "tags": [
+        "2d-avatar",
+        "deepseek-harness",
+        "desktop-pet",
+        "dsh-plugin",
+        "lip-sync",
+        "mesh-avatar"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "dsh-locale-ko",
+      "desc": "DeepSeek Harness(DSH) 비공식 한국어 언어팩 · Unofficial Korean language pack for DeepSeek Harness",
+      "url": "https://github.com/jjoni12/dsh-locale-ko",
+      "category": "tool",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "i18n",
+        "korean"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-thought-buddy",
+      "desc": "A DeepSeek Harness Web plugin that puts a dynamic little buddy — a GrokBot-style animated avatar with a synchronized typewriter status line — right in front of the \"Deep diving...\" indicator. 在「Deep …",
+      "url": "https://github.com/dsh-plugins/dsh-thought-buddy",
+      "category": "ui",
+      "tags": [
+        "buddy",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "dsh-plugins",
+        "grokbot"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-kefu",
+      "desc": "电商客服台 for DeepSeek Harness：商品知识库 + 有依据的 AI 回复 + 转人工队列；千牛/淘宝与京麦/京东官方开放平台通道 + 本地桥接。Open-source e-commerce customer-service desk plugin for DSH.",
+      "url": "https://github.com/Tulipe1735/dsh-plugin-kefu",
+      "category": "tool",
+      "tags": [
+        "customer-service",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-main-file-tabs",
+      "desc": "把 DSH 右侧边栏中的文件以页签打开到主工作区，支持文本编辑双向实时同步与 Markdown 分屏编辑/预览。 Open DSH Sidebar files as tabs in the main workspace, with live two-way editing and Markdown preview sync.",
+      "url": "https://github.com/l741589/dsh-main-file-tabs",
+      "category": "ui",
+      "tags": [
+        "dsh-plugin",
+        "dsh-plugin-desktop",
+        "dsh-plugins"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-feishu-session-notify",
+      "desc": "Bidirectional DSH and Feishu bridge with Markdown topics and reply routing",
+      "url": "https://github.com/Re-qi/dsh-feishu-session-notify",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "feishu",
+        "lark"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-android-emulator-helper",
+      "desc": "在 DeepSeek Harness 里管理 Android SDK 与模拟器：23 个原生 android_* 工具覆盖环境探测、AVD 与模拟器生命周期、Kotlin/Compose 脚手架、Gradle 构建运行与安装启动，并提供设置页 | Android SDK and emulator management in DeepSeek Harness: 23 native android_…",
+      "url": "https://github.com/zhz8888/dsh-android-emulator-helper",
+      "category": "ui",
+      "tags": [
+        "adb",
+        "android",
+        "android-emulator",
+        "avd",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-deveco",
+      "desc": "DeepSeek Harness 的 HarmonyOS 全栈开发套件：HiLog 检查器、Chrome DevTools 风格 ArkUI Inspector（截图点选 + 组件树 + 盒模型声明值 + 自定义组件名，DevEco 开发调试源 / uitest 双树源）、ArkTS 语法高亮 .ets 查看器、工具链与设备管理，以及对话内 agent 可直接调用的 harmony_ui_tre…",
+      "url": "https://github.com/MoonlitDropOfBlood/dsh-deveco",
+      "category": "agent",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-latex-studio",
+      "desc": "LaTeX compile gate + VTO typesetting loop for DeepSeek Harness: MiKTeX-native, 10 tools, 3 skills, persistent defect ledger, and a Plugins-page configuration form",
+      "url": "https://github.com/Qingzhu093/dsh-latex-studio",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "latex",
+        "miktex",
+        "typesetting"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "move45clock",
+      "desc": "一个会催你“起来动一动”的 DSH 健康钟：45 分钟工作计时、12 套休息计划、夜间提醒、语音播报。",
+      "url": "https://github.com/SilverLark257/move45clock",
+      "category": "ui",
+      "tags": [
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-docx-format",
+      "desc": "Auto-apply one Chinese official-document layout to every generated .docx — tool + prompt rules + result hook for DSH.",
+      "url": "https://github.com/Romebody/dsh-docx-format",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "document-format",
+        "docx",
+        "dsh",
+        "dsh-plugin",
+        "ooxml"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-status-balance",
+      "desc": "DeepSeek Harness Web UI 的极简余额挂件：状态栏常驻两个数字——本会话花费与钱包余额，点开可看今日消耗、余额减少和预计可用天数。零依赖、无构建，不打扰对话",
+      "url": "https://github.com/ashuai/dsh-status-balance",
+      "category": "ui",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "dsh-plugins"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-provider-aliases",
+      "desc": "DeepSeek Harness pi-ai route aliases: multiple credential routes over one installed catalog (e.g. several OpenCode Go plans) plus a Model aliases settings page.",
+      "url": "https://github.com/Dax233/dsh-provider-aliases",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "model-aliases",
+        "opencode-go",
+        "pi-ai"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-opencode-quota",
+      "desc": "DeepSeek Harness (DSH) 插件：在侧栏卡片查看 OpenCode Go 订阅额度、花费、预测与用量趋势，支持多账户、服务账号筛选与中英双语。An OpenCode Go quota and usage dashboard plugin for DSH.",
+      "url": "https://github.com/zhxmt-xm/dsh-opencode-quota",
+      "category": "ui",
+      "tags": [
+        "ai-coding",
+        "cordis",
+        "cost-tracking",
+        "dashboard",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-skill-easy",
+      "desc": "DSH 插件：给技能分类，并把 / 菜单里的描述换成中文",
+      "url": "https://github.com/ther000/dsh-skill-easy",
+      "category": "tool",
+      "tags": [
+        "chinese",
+        "cordis-plugin",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-thinking-effort-rheostat",
+      "desc": "为 DeepSeek Harness 提供模仿 Claude Desktop 的推理强度控件",
+      "url": "https://github.com/drowsylazy/dsh-thinking-effort-rheostat",
+      "category": "ui",
+      "tags": [
+        "claude-desktop",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-team-control",
+      "desc": "DSH 的 Agent Team 控制平面：成员上限可配、DAG 自动派发、四域强制权限、SSE 实时面板",
+      "url": "https://github.com/hunmer/dsh-team-control",
+      "category": "security",
+      "tags": [
+        "agent-team",
+        "dag",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "multi-agent"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-qqbridge",
+      "desc": "把 QQ 接入 DSH 的部署插件。带 lite 模式（¥0.001/次）。",
+      "url": "https://github.com/moyu474/dsh-qqbridge",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "onebot",
+        "qq",
+        "qqbot"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-classic-mode",
+      "desc": "DSH sidebar button that opens the classic (DS-Bot-free) Harness profile in Safari, starting it when needed.",
+      "url": "https://github.com/shiyoungwoo/dsh-classic-mode",
+      "category": "tool",
+      "tags": [
+        "classic-mode",
+        "deepseek-harness",
+        "dsh-plugin",
+        "sidebar"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-video2text",
+      "desc": "视频链接转文案的 dsh 侧栏工作台：播放器 + 逐字稿 + 发布导出，自带 video2text skill",
+      "url": "https://github.com/vlln/dsh-video2text",
+      "category": "vision",
+      "tags": [
+        "asr",
+        "bilibili",
+        "douyin",
+        "dsh",
+        "dsh-plugin",
+        "transcript"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-pancha",
+      "desc": "盘查：把磁盘变成一张可审查、可批注、可执行的盘面，Agent 标注、你来做决定（DeepSeek Harness 插件）",
+      "url": "https://github.com/vlln/dsh-pancha",
+      "category": "agent",
+      "tags": [
+        "cleanup",
+        "deepseek-harness",
+        "disk",
+        "dsh-plugin",
+        "treemap"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-motion",
+      "desc": "用一句话做出动画：Agent 把镜头写成代码，逐帧可复现的 MP4。dsh 插件。",
+      "url": "https://github.com/vlln/dsh-motion",
+      "category": "agent",
+      "tags": [
+        "animation",
+        "canvas",
+        "dsh",
+        "dsh-plugin",
+        "motion-graphics"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-share-link",
+      "desc": "把会话或产物发布成只读公网链接：对话快照、HTML/Markdown 产物，可换风格、可撤销。",
+      "url": "https://github.com/vlln/dsh-share-link",
+      "category": "tool",
+      "tags": [
+        "cloudflared",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "share",
+        "static-site"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "DSH-Shell",
+      "desc": "Native desktop shells for the DeepSeek Harness (dsh) web UI: a Tauri app for Windows and a SwiftUI app for macOS, one per top-level directory.",
+      "url": "https://github.com/DuJunxi1993/DSH-Shell",
+      "category": "ui",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "macos",
+        "rust",
+        "swiftui"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-mcu51-plugin",
+      "desc": "Standalone Windows x64 DSH 8051 toolbox: built-in STC ISP, serial, options, image buffers and 12 tools.",
+      "url": "https://github.com/XSXLL22/dsh-mcu51-plugin",
+      "category": "vision",
+      "tags": [
+        "8051",
+        "deepseek-harness",
+        "dsh-plugin",
+        "serial",
+        "stc",
+        "windows"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dshopencodego",
+      "desc": "OpenCode Go provider for DeepSeek Harness: live gateway catalog and per-conversation session header",
+      "url": "https://github.com/dan-ai-studio/dshopencodego",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-hide-update-badge",
+      "desc": "Hide the built-in DSH Desktop update badge (the “新版本” pill beside the account button). Pure CSS + label-based hiding, no host behavior. | 隐藏 DSH 桌面版自带的“新版本”更新角标",
+      "url": "https://github.com/Da0Mine/dsh-hide-update-badge",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "update-badge"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-browser-control",
+      "desc": "Chrome 浏览器扩展 + DeepSeek Harness 插件，让 AI Agent 直接操控你的真实浏览器。",
+      "url": "https://github.com/angelky7/dsh-browser-control",
+      "category": "agent",
+      "tags": [
+        "browser-automation",
+        "cdp",
+        "chrome-extension",
+        "deepseek-harness",
+        "dsh-browser",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 31
+    },
+    {
+      "name": "dsh-ask-first",
+      "desc": "A composer button that asks first, then writes.",
+      "url": "https://github.com/BAIYE0303/dsh-ask-first",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "capital-generation",
+      "desc": "DSH插件：面向中国股市散户的金融投资智能体。Next-Gen AI-Driven Capital Generation.",
+      "url": "https://github.com/v587d/capital-generation",
+      "category": "agent",
+      "tags": [
+        "deepseek-harness",
+        "dsh-automation",
+        "dsh-desktop",
+        "dsh-persona",
+        "dsh-plugin",
+        "dsh-plugin-web"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 31
+    },
+    {
+      "name": "session-cleanup",
+      "desc": "DeepSeek Harness plugin: archive, restore, or permanently delete workspace sessions",
+      "url": "https://github.com/ming-a1/session-cleanup",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugin",
+        "session-management"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-openbot-artist-bridge",
+      "desc": "Connect OpenBot ACP conversations to an existing DS Bot inside DeepSeek Harness.",
+      "url": "https://github.com/shiyoungwoo/dsh-openbot-artist-bridge",
+      "category": "tool",
+      "tags": [
+        "acp",
+        "deepseek-harness",
+        "ds-bot",
+        "dsh-plugin",
+        "openbot"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-notice-card",
+      "desc": "Windows 桌面端专用的 DeepSeek Harness 通知卡：任务跑完、等你审批、等你回答时在屏幕角落弹出。跟随系统主题与 DPI，落在鼠标那块屏幕，文字用 GDI ClearType 绘制，不抢焦点。没有网页端那一半，不提供浏览器通知、页面浮层或标签页标题标记。Windows desktop only, no web build: a native notice card that …",
+      "url": "https://github.com/Maple-Yoli/dsh-notice-card",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "desktop-only",
+        "dsh-plugin",
+        "native-window",
+        "notification",
+        "notification-card"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-wb400-guard",
+      "desc": "Fix WorkBuddy CN gateway 400 / code 11128 in DeepSeek Harness by rewriting @ in system messages at the fetch layer",
+      "url": "https://github.com/curo22/dsh-wb400-guard",
+      "category": "tool",
+      "tags": [
+        "11128",
+        "codebuddy-skill",
+        "deepseek-harness",
+        "dsh-plugin",
+        "fetch-interceptor",
+        "http-400"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-bsk-daemon",
+      "desc": "Keep the BrowserSkill bsk daemon on-demand inside DeepSeek Harness - and fix the Windows \"os error 5\" that stops it from starting at all.",
+      "url": "https://github.com/like999888999-ui/dsh-bsk-daemon",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "browser-automation",
+        "browserskill",
+        "bsk",
+        "chrome-devtools-protocol",
+        "deepseek-harness"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-model-pool",
+      "desc": "Provider-level model pool for DSH — virtual ModelPool provider with Auto and named pools, chain failover a→b→c→d, per-source cooldown bench, reasoning-effort aware.",
+      "url": "https://github.com/JiahaoXxX/dsh-model-pool",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "failover",
+        "llm",
+        "model-pool"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-skill-prompt-injector",
+      "desc": "Search, pin, combine and inject skills and prompts into the current conversation from the DSH right sidebar.",
+      "url": "https://github.com/Larliers/dsh-skill-prompt-injector",
+      "category": "agent",
+      "tags": [
+        "ai-agents",
+        "cordis",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-xwide-annotation",
+      "desc": "Selection-annotation plugin for DSH Web (X-WIDE fork of @changfenhuang/dsh-annotation v1.4.11, MIT): color studio, annotation outline, session-scoped clear-all, row-anchor marks, self-check pill.",
+      "url": "https://github.com/XWIDE/dsh-xwide-annotation",
+      "category": "ui",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-plugin-market",
+      "desc": "DSH 社区插件市场索引源：awesome-dsh-plugin 目录的过滤镜像，仅保留当前 DSH 版本可安装的插件（format 1）",
+      "url": "https://github.com/AAAMECHANIC/dsh-plugin-market",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugin-market"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-connect-modelscope",
+      "desc": "魔搭社区（ModelScope）provider for DeepSeek Harness：对话栏显示剩余魔粒，设置页填令牌、勾选模型",
+      "url": "https://github.com/IFFCheckPass/dsh-connect-modelscope",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "magicube",
+        "model-provider",
+        "modelscope"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ascii-scenes",
+      "desc": "Eight interactive ASCII ambient themes for DeepSeek Harness — 八套可交互的字符场景主题。",
+      "url": "https://github.com/Srelka/dsh-ascii-scenes",
+      "category": "ui",
+      "tags": [
+        "ascii-art",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-console",
+      "desc": "手机远程操作你的 DSH：电脑执行、手机指挥，自托管中继",
+      "url": "https://github.com/Yylx-R/dsh-console",
+      "category": "ui",
+      "tags": [
+        "android",
+        "dsh",
+        "dsh-plugin",
+        "jetpack-compose",
+        "kotlin",
+        "remote-control"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-video-eyes",
+      "desc": "??????????:???????? + ?????????,????????????? | Video sampling for text-only agents",
+      "url": "https://github.com/fj7937290-sys/dsh-video-eyes",
+      "category": "vision",
+      "tags": [
+        "contact-sheet",
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg",
+        "multimodal"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-feiyu-wardrobe",
+      "desc": "🐋 大肥鱼衣橱 — DSH 插件：token 花销变鱼粮，解锁 21 件原创换装 + 1080×1440 饲养报告卡（纯本地，零额外模型调用）",
+      "url": "https://github.com/GIT121995/dsh-feiyu-wardrobe",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dress-up",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-local-plugins",
+      "desc": "Local DSH plugins: knowledge-base picker, workspace directory flow, doc-routing guard, market autogroup",
+      "url": "https://github.com/wang678678/dsh-local-plugins",
+      "category": "vision",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "knowledge-base",
+        "ocr",
+        "workspace"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
+      "hot": 27
+    },
+    {
+      "name": "dsh-cursor",
+      "desc": "Cursor model provider for DeepSeek Harness (DSH) — model catalog, multi-key management in Settings, browser login.",
+      "url": "https://github.com/atticuswx/dsh-cursor",
+      "category": "tool",
+      "tags": [
+        "adapter",
+        "ai",
+        "cursor",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-harness-batch-executor",
+      "desc": "DeepSeek Harness 高效执行 Skill：将确定性操作合并为单次脚本化执行、反馈压缩为摘要并按需深读、本地核验结果、及时停止无效重试 | Efficient tool execution skill for DeepSeek Harness: batches deterministic operations into one scripted pass, compresses fe…",
+      "url": "https://github.com/LastTrainKing/deepseek-harness-batch-executor",
+      "category": "agent",
+      "tags": [
+        "agent",
+        "automation",
+        "batch-processing",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-awakening",
+      "desc": "鲸启：DSH 鲸鱼主题22秒启动动画，原声欢迎语、窗口适配与独立设置。",
+      "url": "https://github.com/MingoYung/dsh-awakening",
+      "category": "tool",
+      "tags": [
+        "dsh-plugin",
+        "startup-animation"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-easyrestart",
+      "desc": "给deepseek harness添加更方便快捷的重启方式 Add a more convenient and efficient restart method to the deepseek harness",
+      "url": "https://github.com/jkrhug/dsh-easyrestart",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "electron",
+        "tray-menu"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-task-shelf",
+      "desc": "DSH Task Shelf 1 — 跨工作区、跨会话整理与压缩交接",
+      "url": "https://github.com/xin505/dsh-task-shelf",
+      "category": "tool",
+      "tags": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-market",
+        "session-management"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-pad-kit",
+      "desc": "Run DeepSeek Harness on an Android tablet via Termux: LAN installer page, SSH setup, Termux:Boot autostart.",
+      "url": "https://github.com/longsiqi-123/dsh-pad-kit",
+      "category": "tool",
+      "tags": [
+        "android",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-whale-catch",
+      "desc": "深海鱼篓：给 DeepSeek Harness 的零登记交付物篮子——右侧栏 Document Preview 预览、行内差异、搜索排序、一键打包 zip 与归档。Zero-registration deliverable basket for DeepSeek Harness.",
+      "url": "https://github.com/Rosynb666/dsh-whale-catch",
+      "category": "tool",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "deliverables",
+        "diff",
+        "document-preview",
+        "dsh"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 34
+    },
+    {
+      "name": "dsh-global-tasks",
+      "desc": "Global running and pending sessions above the native DeepSeek Harness workspace list. Community plugin.",
+      "url": "https://github.com/AnsonLi-better/dsh-global-tasks",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "harness-plugin",
+        "productivity",
+        "sessions"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-companion",
+      "desc": "DSH 伴侣 — DeepSeek Harness 的伴飞插件：桌面宠物 + Token/费用统计 + 预算告警 + 会话管理。数据全在本地。",
+      "url": "https://github.com/qiuzhiyei/dsh-companion",
+      "category": "fun",
+      "tags": [
+        "cordis",
+        "deepseek-harness",
+        "desktop-pet",
+        "dsh",
+        "dsh-plugin",
+        "usage-stats"
+      ],
+      "icon": "🎮",
+      "bg": "linear-gradient(135deg, #141e30 0%, #243b55 100%)",
+      "tool": "趣味",
+      "hot": 27
+    },
+    {
+      "name": "EAC-Desktop",
+      "desc": "Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存",
+      "url": "https://github.com/Ebony-Vinyl/EAC-Desktop",
+      "category": "agent",
+      "tags": [
+        "ai-agent",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "desktop-app",
+        "dsh"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 38
+    },
+    {
+      "name": "meshy-dsh",
+      "desc": "Meshy 3D generation and 3D printing skills for DeepSeek Harness (dsh)",
+      "url": "https://github.com/meshy-dev/meshy-dsh",
+      "category": "agent",
+      "tags": [
+        "3d",
+        "agent-skills",
+        "deepseek-harness",
+        "dsh-plugin",
+        "meshy"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "dsh-permission-remote",
+      "desc": "把一台 Linux 或 macOS 机器上的目录做成 DeepSeek Harness（DSH）工作区。标准会话里的 bash、read、write、edit、read_image、glob、grep 在那台机器上执行。只读、工作区可写、完全放开，以及一次放宽，仍用这个会话现有的 Permissions 和审批卡片。并支持普通会话中连接已添加的主机",
+      "url": "https://github.com/weicy98/dsh-permission-remote",
+      "category": "security",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-origin-bridge",
+      "desc": "在对话里驱动本机 Origin/OriginPro：导入 .dat/.csv/.txt 与工作站 .bin，绘图、拟合、改样式、导出图片并保存可编辑的 .opju。dsh 插件，27 个 MCP 工具。第三方工具，与 OriginLab 无关联。",
+      "url": "https://github.com/angelky7/dsh-origin-bridge",
+      "category": "tool",
+      "tags": [
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugins",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-workbuddy-model",
+      "desc": "Brings the models available in your signed-in WorkBuddy / WorkBuddy AI desktop app into DeepSeek Harness.",
+      "url": "https://github.com/arnen7000/dsh-workbuddy-model",
+      "category": "ui",
+      "tags": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "model-provider",
+        "workbuddy"
+      ],
+      "icon": "🎨",
+      "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "tool": "Web UI",
+      "hot": 27
+    },
+    {
+      "name": "dsh-ui-block",
+      "desc": "Page block + element chip: render a ::dsh-ui <name> [res=WxH]:: line's ui-blocks file in a sandboxed canvas, and render",
+      "url": "https://github.com/YukimuraSol/dsh-ui-block",
+      "category": "security",
+      "tags": [
+        "dsh-plugin"
+      ],
+      "icon": "🛡️",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "安全",
+      "hot": 27
+    },
+    {
+      "name": "dsh-connectome",
+      "desc": "Connectome — an interactive, canvas-rendered map of a DeepSeek Harness workspace's files and their imports (DSH plugin)",
+      "url": "https://github.com/elalamiimed/dsh-connectome",
+      "category": "tool",
+      "tags": [
+        "canvas",
+        "cordis",
+        "d3",
+        "deepseek-harness",
+        "dependency-graph",
+        "dsh"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-island-bridge",
+      "desc": "macOS 灵动岛桥接：把 DeepSeek Harness 的会话状态与待审批操作投影到原生 SwiftUI 刘海面板，在岛上直接裁决与跳转",
+      "url": "https://github.com/JiayangSUNwinter/dsh-island-bridge",
+      "category": "agent",
+      "tags": [
+        "approval-agent",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dynamic-island",
+        "macos"
+      ],
+      "icon": "🤖",
+      "bg": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+      "tool": "Agent",
+      "hot": 27
+    },
+    {
+      "name": "deepseek-harness-plugin",
+      "desc": "Unofficial DeepSeek Harness plugins, each maintained and released independently.",
+      "url": "https://github.com/pipilu123566/deepseek-harness-plugin",
+      "category": "tool",
+      "tags": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugins"
+      ],
+      "icon": "🔧",
+      "bg": "linear-gradient(135deg, #232526 0%, #414345 100%)",
+      "tool": "集成",
+      "hot": 27
+    },
+    {
+      "name": "dsh-screenshot",
+      "desc": "DSH 截图插件：QQ 同款框选 + 标注 + 离线 OCR 提取文字 + 贴图 + 录屏 + 长截图。Windows 专有（PowerShell/.NET）。开发版（非最终版），支持 DSH 0.2.1–0.2.x。 | DSH screenshot plugin: QQ-style region capture, annotation, offline OCR, pinning, recor…",
+      "url": "https://github.com/JHboy203/dsh-screenshot",
+      "category": "vision",
+      "tags": [
+        "annotation",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "long-screenshot",
+        "ocr"
+      ],
+      "icon": "👁️",
+      "bg": "linear-gradient(135deg, #614385 0%, #516395 100%)",
+      "tool": "视觉",
       "hot": 27
     }
   ],
